@@ -1,0 +1,25 @@
+name: Weekly data update
+
+on:
+  schedule:
+    - cron: "27 4 * * 0"
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@main
+    - uses: actions/setup-python@main
+      with:
+        python-version: '3.12'
+    - run: pip install -r requirements.txt
+    - name: Run update script
+      run: python update.py
+    - name: Add and commit
+      id: add_commit
+      uses: EndBug/add-and-commit@main
+      with:
+        committer_name: Automated
+        committer_email: actions@users.noreply.github.com
+        message: "add latest data"

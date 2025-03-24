@@ -1,4 +1,19 @@
 county,county_fips,year,registration_type,total
+Aurora,46003,2025,boat,18
+Aurora,46003,2025,bus,0
+Aurora,46003,2025,commercial_plate,7
+Aurora,46003,2025,electric,0
+Aurora,46003,2025,gross_vehicle_weight,32
+Aurora,46003,2025,irp_with_prorate_plate,4
+Aurora,46003,2025,motorcycle,14
+Aurora,46003,2025,off_road,24
+Aurora,46003,2025,passenger_low_speed,126
+Aurora,46003,2025,pickup_suv_van,366
+Aurora,46003,2025,recreational,3
+Aurora,46003,2025,snowmobile,7
+Aurora,46003,2025,titles,66
+Aurora,46003,2025,trailer,170
+Aurora,46003,2025,truck,34
 Aurora,46003,2024,boat,250
 Aurora,46003,2024,bus,15
 Aurora,46003,2024,commercial_plate,185
@@ -30,25 +45,31 @@ Aurora,46003,2023,titles,1457
 Aurora,46003,2023,trailer,1531
 Aurora,46003,2023,truck,491
 Aurora,46003,2022,boat,263
+Aurora,46003,2022,boat,264
 Aurora,46003,2022,bus,12
 Aurora,46003,2022,commercial_plate,159
 Aurora,46003,2022,electric,1
 Aurora,46003,2022,gross_vehicle_weight,350
+Aurora,46003,2022,gross_vehicle_weight,352
 Aurora,46003,2022,irp_with_prorate_plate,72
 Aurora,46003,2022,motorcycle,134
 Aurora,46003,2022,off_road,225
 Aurora,46003,2022,passenger_low_speed,1109
+Aurora,46003,2022,passenger_low_speed,1111
 Aurora,46003,2022,pickup_suv_van,3002
+Aurora,46003,2022,pickup_suv_van,3005
 Aurora,46003,2022,recreational,30
 Aurora,46003,2022,snowmobile,46
 Aurora,46003,2022,titles,1314
 Aurora,46003,2022,trailer,1491
+Aurora,46003,2022,trailer,1492
 Aurora,46003,2022,truck,458
 Aurora,46003,2021,boat,239
 Aurora,46003,2021,bus,13
 Aurora,46003,2021,commercial_plate,150
 Aurora,46003,2021,electric,0
 Aurora,46003,2021,gross_vehicle_weight,363
+Aurora,46003,2021,gross_vehicle_weight,365
 Aurora,46003,2021,irp_with_prorate_plate,52
 Aurora,46003,2021,motorcycle,125
 Aurora,46003,2021,off_road,201
@@ -64,6 +85,7 @@ Aurora,46003,2020,bus,7
 Aurora,46003,2020,commercial_plate,132
 Aurora,46003,2020,electric,0
 Aurora,46003,2020,gross_vehicle_weight,339
+Aurora,46003,2020,gross_vehicle_weight,344
 Aurora,46003,2020,irp_with_prorate_plate,54
 Aurora,46003,2020,motorcycle,109
 Aurora,46003,2020,off_road,189
@@ -79,6 +101,7 @@ Aurora,46003,2019,bus,14
 Aurora,46003,2019,commercial_plate,138
 Aurora,46003,2019,electric,0
 Aurora,46003,2019,gross_vehicle_weight,366
+Aurora,46003,2019,gross_vehicle_weight,370
 Aurora,46003,2019,irp_with_prorate_plate,50
 Aurora,46003,2019,motorcycle,109
 Aurora,46003,2019,off_road,172
@@ -94,6 +117,7 @@ Aurora,46003,2018,bus,22
 Aurora,46003,2018,commercial_plate,177
 Aurora,46003,2018,electric,1
 Aurora,46003,2018,gross_vehicle_weight,400
+Aurora,46003,2018,gross_vehicle_weight,404
 Aurora,46003,2018,irp_with_prorate_plate,50
 Aurora,46003,2018,motorcycle,131
 Aurora,46003,2018,off_road,165
@@ -104,6 +128,7 @@ Aurora,46003,2018,snowmobile,77
 Aurora,46003,2018,titles,1192
 Aurora,46003,2018,trailer,1407
 Aurora,46003,2018,truck,499
+Aurora,46003,2018,truck,500
 Aurora,46003,2017,boat,215
 Aurora,46003,2017,bus,10
 Aurora,46003,2017,commercial_plate,167
@@ -149,6 +174,21 @@ Aurora,46003,2015,snowmobile,72
 Aurora,46003,2015,titles,1320
 Aurora,46003,2015,trailer,1396
 Aurora,46003,2015,truck,512
+Beadle,46005,2025,boat,80
+Beadle,46005,2025,bus,1
+Beadle,46005,2025,commercial_plate,184
+Beadle,46005,2025,electric,1
+Beadle,46005,2025,gross_vehicle_weight,117
+Beadle,46005,2025,irp_with_prorate_plate,4
+Beadle,46005,2025,motorcycle,132
+Beadle,46005,2025,off_road,135
+Beadle,46005,2025,passenger_low_speed,534
+Beadle,46005,2025,pickup_suv_van,1845
+Beadle,46005,2025,recreational,10
+Beadle,46005,2025,snowmobile,39
+Beadle,46005,2025,titles,369
+Beadle,46005,2025,trailer,749
+Beadle,46005,2025,truck,175
 Beadle,46005,2024,boat,1111
 Beadle,46005,2024,bus,20
 Beadle,46005,2024,commercial_plate,1179
@@ -184,11 +224,14 @@ Beadle,46005,2022,bus,17
 Beadle,46005,2022,commercial_plate,1115
 Beadle,46005,2022,electric,9
 Beadle,46005,2022,gross_vehicle_weight,975
+Beadle,46005,2022,gross_vehicle_weight,987
 Beadle,46005,2022,irp_with_prorate_plate,106
 Beadle,46005,2022,motorcycle,1064
 Beadle,46005,2022,off_road,1185
 Beadle,46005,2022,passenger_low_speed,5294
+Beadle,46005,2022,passenger_low_speed,5298
 Beadle,46005,2022,pickup_suv_van,14832
+Beadle,46005,2022,pickup_suv_van,14842
 Beadle,46005,2022,recreational,145
 Beadle,46005,2022,snowmobile,203
 Beadle,46005,2022,titles,6720
@@ -199,6 +242,7 @@ Beadle,46005,2021,bus,18
 Beadle,46005,2021,commercial_plate,1159
 Beadle,46005,2021,electric,7
 Beadle,46005,2021,gross_vehicle_weight,1063
+Beadle,46005,2021,gross_vehicle_weight,1076
 Beadle,46005,2021,irp_with_prorate_plate,115
 Beadle,46005,2021,motorcycle,1078
 Beadle,46005,2021,off_road,1220
@@ -214,6 +258,7 @@ Beadle,46005,2020,bus,11
 Beadle,46005,2020,commercial_plate,1117
 Beadle,46005,2020,electric,6
 Beadle,46005,2020,gross_vehicle_weight,1017
+Beadle,46005,2020,gross_vehicle_weight,1040
 Beadle,46005,2020,irp_with_prorate_plate,99
 Beadle,46005,2020,motorcycle,1044
 Beadle,46005,2020,off_road,1118
@@ -229,6 +274,7 @@ Beadle,46005,2019,bus,34
 Beadle,46005,2019,commercial_plate,1114
 Beadle,46005,2019,electric,4
 Beadle,46005,2019,gross_vehicle_weight,1043
+Beadle,46005,2019,gross_vehicle_weight,1056
 Beadle,46005,2019,irp_with_prorate_plate,117
 Beadle,46005,2019,motorcycle,1087
 Beadle,46005,2019,off_road,1041
@@ -244,6 +290,7 @@ Beadle,46005,2018,bus,31
 Beadle,46005,2018,commercial_plate,1106
 Beadle,46005,2018,electric,4
 Beadle,46005,2018,gross_vehicle_weight,1138
+Beadle,46005,2018,gross_vehicle_weight,1143
 Beadle,46005,2018,irp_with_prorate_plate,110
 Beadle,46005,2018,motorcycle,1069
 Beadle,46005,2018,off_road,983
@@ -299,6 +346,21 @@ Beadle,46005,2015,snowmobile,344
 Beadle,46005,2015,titles,8319
 Beadle,46005,2015,trailer,6490
 Beadle,46005,2015,truck,1602
+Bennett,46007,2025,boat,5
+Bennett,46007,2025,bus,0
+Bennett,46007,2025,commercial_plate,2
+Bennett,46007,2025,electric,4
+Bennett,46007,2025,gross_vehicle_weight,16
+Bennett,46007,2025,irp_with_prorate_plate,0
+Bennett,46007,2025,motorcycle,12
+Bennett,46007,2025,off_road,9
+Bennett,46007,2025,passenger_low_speed,79
+Bennett,46007,2025,pickup_suv_van,291
+Bennett,46007,2025,recreational,1
+Bennett,46007,2025,snowmobile,5
+Bennett,46007,2025,titles,80
+Bennett,46007,2025,trailer,83
+Bennett,46007,2025,truck,13
 Bennett,46007,2024,boat,128
 Bennett,46007,2024,bus,3
 Bennett,46007,2024,commercial_plate,112
@@ -334,11 +396,14 @@ Bennett,46007,2022,bus,2
 Bennett,46007,2022,commercial_plate,90
 Bennett,46007,2022,electric,1
 Bennett,46007,2022,gross_vehicle_weight,237
+Bennett,46007,2022,gross_vehicle_weight,236
 Bennett,46007,2022,irp_with_prorate_plate,6
 Bennett,46007,2022,motorcycle,90
 Bennett,46007,2022,off_road,86
 Bennett,46007,2022,passenger_low_speed,746
+Bennett,46007,2022,passenger_low_speed,748
 Bennett,46007,2022,pickup_suv_van,2461
+Bennett,46007,2022,pickup_suv_van,2468
 Bennett,46007,2022,recreational,14
 Bennett,46007,2022,snowmobile,16
 Bennett,46007,2022,titles,1076
@@ -349,11 +414,13 @@ Bennett,46007,2021,bus,4
 Bennett,46007,2021,commercial_plate,82
 Bennett,46007,2021,electric,1
 Bennett,46007,2021,gross_vehicle_weight,258
+Bennett,46007,2021,gross_vehicle_weight,257
 Bennett,46007,2021,irp_with_prorate_plate,8
 Bennett,46007,2021,motorcycle,85
 Bennett,46007,2021,off_road,71
 Bennett,46007,2021,passenger_low_speed,870
 Bennett,46007,2021,pickup_suv_van,2610
+Bennett,46007,2021,pickup_suv_van,2608
 Bennett,46007,2021,recreational,15
 Bennett,46007,2021,snowmobile,11
 Bennett,46007,2021,titles,1351
@@ -364,6 +431,7 @@ Bennett,46007,2020,bus,2
 Bennett,46007,2020,commercial_plate,90
 Bennett,46007,2020,electric,1
 Bennett,46007,2020,gross_vehicle_weight,273
+Bennett,46007,2020,gross_vehicle_weight,269
 Bennett,46007,2020,irp_with_prorate_plate,4
 Bennett,46007,2020,motorcycle,83
 Bennett,46007,2020,off_road,58
@@ -379,6 +447,7 @@ Bennett,46007,2019,bus,0
 Bennett,46007,2019,commercial_plate,82
 Bennett,46007,2019,electric,0
 Bennett,46007,2019,gross_vehicle_weight,240
+Bennett,46007,2019,gross_vehicle_weight,236
 Bennett,46007,2019,irp_with_prorate_plate,5
 Bennett,46007,2019,motorcycle,75
 Bennett,46007,2019,off_road,44
@@ -394,6 +463,7 @@ Bennett,46007,2018,bus,10
 Bennett,46007,2018,commercial_plate,84
 Bennett,46007,2018,electric,0
 Bennett,46007,2018,gross_vehicle_weight,245
+Bennett,46007,2018,gross_vehicle_weight,244
 Bennett,46007,2018,irp_with_prorate_plate,6
 Bennett,46007,2018,motorcycle,79
 Bennett,46007,2018,off_road,40
@@ -449,6 +519,21 @@ Bennett,46007,2015,snowmobile,23
 Bennett,46007,2015,titles,1297
 Bennett,46007,2015,trailer,808
 Bennett,46007,2015,truck,278
+Bon Homme,46009,2025,boat,70
+Bon Homme,46009,2025,bus,1
+Bon Homme,46009,2025,commercial_plate,24
+Bon Homme,46009,2025,electric,0
+Bon Homme,46009,2025,gross_vehicle_weight,62
+Bon Homme,46009,2025,irp_with_prorate_plate,5
+Bon Homme,46009,2025,motorcycle,42
+Bon Homme,46009,2025,off_road,53
+Bon Homme,46009,2025,passenger_low_speed,241
+Bon Homme,46009,2025,pickup_suv_van,676
+Bon Homme,46009,2025,recreational,0
+Bon Homme,46009,2025,snowmobile,5
+Bon Homme,46009,2025,titles,130
+Bon Homme,46009,2025,trailer,304
+Bon Homme,46009,2025,truck,62
 Bon Homme,46009,2024,boat,596
 Bon Homme,46009,2024,bus,2
 Bon Homme,46009,2024,commercial_plate,288
@@ -484,21 +569,27 @@ Bon Homme,46009,2022,bus,3
 Bon Homme,46009,2022,commercial_plate,290
 Bon Homme,46009,2022,electric,4
 Bon Homme,46009,2022,gross_vehicle_weight,626
+Bon Homme,46009,2022,gross_vehicle_weight,629
 Bon Homme,46009,2022,irp_with_prorate_plate,34
 Bon Homme,46009,2022,motorcycle,458
 Bon Homme,46009,2022,off_road,491
 Bon Homme,46009,2022,passenger_low_speed,2466
+Bon Homme,46009,2022,passenger_low_speed,2467
 Bon Homme,46009,2022,pickup_suv_van,5696
+Bon Homme,46009,2022,pickup_suv_van,5701
 Bon Homme,46009,2022,recreational,40
+Bon Homme,46009,2022,recreational,41
 Bon Homme,46009,2022,snowmobile,42
 Bon Homme,46009,2022,titles,2457
 Bon Homme,46009,2022,trailer,2891
 Bon Homme,46009,2022,truck,660
+Bon Homme,46009,2022,truck,661
 Bon Homme,46009,2021,boat,659
 Bon Homme,46009,2021,bus,4
 Bon Homme,46009,2021,commercial_plate,334
 Bon Homme,46009,2021,electric,6
 Bon Homme,46009,2021,gross_vehicle_weight,641
+Bon Homme,46009,2021,gross_vehicle_weight,643
 Bon Homme,46009,2021,irp_with_prorate_plate,32
 Bon Homme,46009,2021,motorcycle,467
 Bon Homme,46009,2021,off_road,476
@@ -514,6 +605,7 @@ Bon Homme,46009,2020,bus,3
 Bon Homme,46009,2020,commercial_plate,259
 Bon Homme,46009,2020,electric,2
 Bon Homme,46009,2020,gross_vehicle_weight,601
+Bon Homme,46009,2020,gross_vehicle_weight,602
 Bon Homme,46009,2020,irp_with_prorate_plate,26
 Bon Homme,46009,2020,motorcycle,420
 Bon Homme,46009,2020,off_road,421
@@ -529,6 +621,7 @@ Bon Homme,46009,2019,bus,5
 Bon Homme,46009,2019,commercial_plate,272
 Bon Homme,46009,2019,electric,2
 Bon Homme,46009,2019,gross_vehicle_weight,598
+Bon Homme,46009,2019,gross_vehicle_weight,601
 Bon Homme,46009,2019,irp_with_prorate_plate,19
 Bon Homme,46009,2019,motorcycle,405
 Bon Homme,46009,2019,off_road,404
@@ -544,6 +637,7 @@ Bon Homme,46009,2018,bus,19
 Bon Homme,46009,2018,commercial_plate,266
 Bon Homme,46009,2018,electric,3
 Bon Homme,46009,2018,gross_vehicle_weight,623
+Bon Homme,46009,2018,gross_vehicle_weight,625
 Bon Homme,46009,2018,irp_with_prorate_plate,24
 Bon Homme,46009,2018,motorcycle,391
 Bon Homme,46009,2018,off_road,369
@@ -599,6 +693,21 @@ Bon Homme,46009,2015,snowmobile,71
 Bon Homme,46009,2015,titles,2624
 Bon Homme,46009,2015,trailer,2685
 Bon Homme,46009,2015,truck,800
+Brookings,46011,2025,boat,196
+Brookings,46011,2025,bus,5
+Brookings,46011,2025,commercial_plate,314
+Brookings,46011,2025,electric,10
+Brookings,46011,2025,gross_vehicle_weight,181
+Brookings,46011,2025,irp_with_prorate_plate,3
+Brookings,46011,2025,motorcycle,179
+Brookings,46011,2025,off_road,183
+Brookings,46011,2025,passenger_low_speed,1056
+Brookings,46011,2025,pickup_suv_van,3020
+Brookings,46011,2025,recreational,16
+Brookings,46011,2025,snowmobile,76
+Brookings,46011,2025,titles,571
+Brookings,46011,2025,trailer,952
+Brookings,46011,2025,truck,268
 Brookings,46011,2024,boat,2364
 Brookings,46011,2024,bus,19
 Brookings,46011,2024,commercial_plate,1761
@@ -630,30 +739,39 @@ Brookings,46011,2023,titles,11375
 Brookings,46011,2023,trailer,8886
 Brookings,46011,2023,truck,1745
 Brookings,46011,2022,boat,2455
+Brookings,46011,2022,boat,2454
 Brookings,46011,2022,bus,18
 Brookings,46011,2022,commercial_plate,1799
 Brookings,46011,2022,electric,63
 Brookings,46011,2022,gross_vehicle_weight,1084
+Brookings,46011,2022,gross_vehicle_weight,1105
 Brookings,46011,2022,irp_with_prorate_plate,102
 Brookings,46011,2022,motorcycle,1980
+Brookings,46011,2022,motorcycle,1982
 Brookings,46011,2022,off_road,1535
 Brookings,46011,2022,passenger_low_speed,10000
+Brookings,46011,2022,passenger_low_speed,10006
 Brookings,46011,2022,pickup_suv_van,22379
+Brookings,46011,2022,pickup_suv_van,22398
 Brookings,46011,2022,recreational,165
 Brookings,46011,2022,snowmobile,549
 Brookings,46011,2022,titles,10071
 Brookings,46011,2022,trailer,8706
+Brookings,46011,2022,trailer,8705
 Brookings,46011,2022,truck,1661
 Brookings,46011,2021,boat,2484
 Brookings,46011,2021,bus,29
 Brookings,46011,2021,commercial_plate,1742
 Brookings,46011,2021,electric,48
 Brookings,46011,2021,gross_vehicle_weight,1153
+Brookings,46011,2021,gross_vehicle_weight,1162
 Brookings,46011,2021,irp_with_prorate_plate,111
 Brookings,46011,2021,motorcycle,2010
 Brookings,46011,2021,off_road,1502
 Brookings,46011,2021,passenger_low_speed,10695
+Brookings,46011,2021,passenger_low_speed,10694
 Brookings,46011,2021,pickup_suv_van,22302
+Brookings,46011,2021,pickup_suv_van,22303
 Brookings,46011,2021,recreational,172
 Brookings,46011,2021,snowmobile,541
 Brookings,46011,2021,titles,11650
@@ -668,7 +786,9 @@ Brookings,46011,2020,irp_with_prorate_plate,122
 Brookings,46011,2020,motorcycle,1936
 Brookings,46011,2020,off_road,1433
 Brookings,46011,2020,passenger_low_speed,10830
+Brookings,46011,2020,passenger_low_speed,10829
 Brookings,46011,2020,pickup_suv_van,21304
+Brookings,46011,2020,pickup_suv_van,21305
 Brookings,46011,2020,recreational,170
 Brookings,46011,2020,snowmobile,647
 Brookings,46011,2020,titles,10587
@@ -679,6 +799,7 @@ Brookings,46011,2019,bus,16
 Brookings,46011,2019,commercial_plate,1598
 Brookings,46011,2019,electric,30
 Brookings,46011,2019,gross_vehicle_weight,1144
+Brookings,46011,2019,gross_vehicle_weight,1148
 Brookings,46011,2019,irp_with_prorate_plate,120
 Brookings,46011,2019,motorcycle,1943
 Brookings,46011,2019,off_road,1265
@@ -688,12 +809,14 @@ Brookings,46011,2019,recreational,164
 Brookings,46011,2019,snowmobile,670
 Brookings,46011,2019,titles,10835
 Brookings,46011,2019,trailer,7967
+Brookings,46011,2019,trailer,7969
 Brookings,46011,2019,truck,1530
 Brookings,46011,2018,boat,2383
 Brookings,46011,2018,bus,49
 Brookings,46011,2018,commercial_plate,1612
 Brookings,46011,2018,electric,25
 Brookings,46011,2018,gross_vehicle_weight,1203
+Brookings,46011,2018,gross_vehicle_weight,1202
 Brookings,46011,2018,irp_with_prorate_plate,137
 Brookings,46011,2018,motorcycle,1977
 Brookings,46011,2018,off_road,1229
@@ -749,6 +872,21 @@ Brookings,46011,2015,snowmobile,608
 Brookings,46011,2015,titles,11017
 Brookings,46011,2015,trailer,7863
 Brookings,46011,2015,truck,1598
+Brown,46013,2025,boat,277
+Brown,46013,2025,bus,12
+Brown,46013,2025,commercial_plate,258
+Brown,46013,2025,electric,8
+Brown,46013,2025,gross_vehicle_weight,131
+Brown,46013,2025,irp_with_prorate_plate,8
+Brown,46013,2025,motorcycle,182
+Brown,46013,2025,off_road,170
+Brown,46013,2025,passenger_low_speed,939
+Brown,46013,2025,pickup_suv_van,3644
+Brown,46013,2025,recreational,15
+Brown,46013,2025,snowmobile,128
+Brown,46013,2025,titles,730
+Brown,46013,2025,trailer,1213
+Brown,46013,2025,truck,178
 Brown,46013,2024,boat,3181
 Brown,46013,2024,bus,67
 Brown,46013,2024,commercial_plate,2330
@@ -783,12 +921,17 @@ Brown,46013,2022,boat,3278
 Brown,46013,2022,bus,70
 Brown,46013,2022,commercial_plate,2514
 Brown,46013,2022,electric,39
+Brown,46013,2022,electric,38
 Brown,46013,2022,gross_vehicle_weight,1492
+Brown,46013,2022,gross_vehicle_weight,1514
 Brown,46013,2022,irp_with_prorate_plate,360
 Brown,46013,2022,motorcycle,2235
 Brown,46013,2022,off_road,1485
+Brown,46013,2022,off_road,1486
 Brown,46013,2022,passenger_low_speed,10132
+Brown,46013,2022,passenger_low_speed,10141
 Brown,46013,2022,pickup_suv_van,30899
+Brown,46013,2022,pickup_suv_van,30930
 Brown,46013,2022,recreational,271
 Brown,46013,2022,snowmobile,740
 Brown,46013,2022,titles,12965
@@ -798,7 +941,9 @@ Brown,46013,2021,boat,3444
 Brown,46013,2021,bus,63
 Brown,46013,2021,commercial_plate,2504
 Brown,46013,2021,electric,44
+Brown,46013,2021,electric,45
 Brown,46013,2021,gross_vehicle_weight,1644
+Brown,46013,2021,gross_vehicle_weight,1659
 Brown,46013,2021,irp_with_prorate_plate,320
 Brown,46013,2021,motorcycle,2290
 Brown,46013,2021,off_road,1406
@@ -814,6 +959,7 @@ Brown,46013,2020,bus,69
 Brown,46013,2020,commercial_plate,2483
 Brown,46013,2020,electric,24
 Brown,46013,2020,gross_vehicle_weight,1615
+Brown,46013,2020,gross_vehicle_weight,1634
 Brown,46013,2020,irp_with_prorate_plate,285
 Brown,46013,2020,motorcycle,2287
 Brown,46013,2020,off_road,1398
@@ -829,21 +975,25 @@ Brown,46013,2019,bus,72
 Brown,46013,2019,commercial_plate,2555
 Brown,46013,2019,electric,20
 Brown,46013,2019,gross_vehicle_weight,1671
+Brown,46013,2019,gross_vehicle_weight,1685
 Brown,46013,2019,irp_with_prorate_plate,318
 Brown,46013,2019,motorcycle,2236
 Brown,46013,2019,off_road,1274
 Brown,46013,2019,passenger_low_speed,12524
 Brown,46013,2019,pickup_suv_van,29641
+Brown,46013,2019,pickup_suv_van,29642
 Brown,46013,2019,recreational,270
 Brown,46013,2019,snowmobile,933
 Brown,46013,2019,titles,15237
 Brown,46013,2019,trailer,11648
+Brown,46013,2019,trailer,11650
 Brown,46013,2019,truck,2542
 Brown,46013,2018,boat,3297
 Brown,46013,2018,bus,92
 Brown,46013,2018,commercial_plate,2525
 Brown,46013,2018,electric,25
 Brown,46013,2018,gross_vehicle_weight,1792
+Brown,46013,2018,gross_vehicle_weight,1807
 Brown,46013,2018,irp_with_prorate_plate,238
 Brown,46013,2018,motorcycle,2353
 Brown,46013,2018,off_road,1229
@@ -852,6 +1002,7 @@ Brown,46013,2018,pickup_suv_van,29112
 Brown,46013,2018,recreational,276
 Brown,46013,2018,snowmobile,862
 Brown,46013,2018,titles,15103
+Brown,46013,2018,titles,15102
 Brown,46013,2018,trailer,11879
 Brown,46013,2018,truck,2655
 Brown,46013,2017,boat,3383
@@ -899,6 +1050,21 @@ Brown,46013,2015,snowmobile,971
 Brown,46013,2015,titles,16125
 Brown,46013,2015,trailer,11704
 Brown,46013,2015,truck,2579
+Brule,46015,2025,boat,50
+Brule,46015,2025,bus,0
+Brule,46015,2025,commercial_plate,76
+Brule,46015,2025,electric,0
+Brule,46015,2025,gross_vehicle_weight,72
+Brule,46015,2025,irp_with_prorate_plate,0
+Brule,46015,2025,motorcycle,22
+Brule,46015,2025,off_road,54
+Brule,46015,2025,passenger_low_speed,147
+Brule,46015,2025,pickup_suv_van,589
+Brule,46015,2025,recreational,4
+Brule,46015,2025,snowmobile,7
+Brule,46015,2025,titles,140
+Brule,46015,2025,trailer,269
+Brule,46015,2025,truck,97
 Brule,46015,2024,boat,560
 Brule,46015,2024,bus,28
 Brule,46015,2024,commercial_plate,357
@@ -934,11 +1100,14 @@ Brule,46015,2022,bus,22
 Brule,46015,2022,commercial_plate,348
 Brule,46015,2022,electric,3
 Brule,46015,2022,gross_vehicle_weight,462
+Brule,46015,2022,gross_vehicle_weight,468
 Brule,46015,2022,irp_with_prorate_plate,19
 Brule,46015,2022,motorcycle,239
 Brule,46015,2022,off_road,405
 Brule,46015,2022,passenger_low_speed,1625
+Brule,46015,2022,passenger_low_speed,1626
 Brule,46015,2022,pickup_suv_van,4764
+Brule,46015,2022,pickup_suv_van,4765
 Brule,46015,2022,recreational,60
 Brule,46015,2022,snowmobile,36
 Brule,46015,2022,titles,2281
@@ -949,6 +1118,7 @@ Brule,46015,2021,bus,29
 Brule,46015,2021,commercial_plate,393
 Brule,46015,2021,electric,3
 Brule,46015,2021,gross_vehicle_weight,507
+Brule,46015,2021,gross_vehicle_weight,515
 Brule,46015,2021,irp_with_prorate_plate,19
 Brule,46015,2021,motorcycle,250
 Brule,46015,2021,off_road,453
@@ -964,6 +1134,7 @@ Brule,46015,2020,bus,28
 Brule,46015,2020,commercial_plate,361
 Brule,46015,2020,electric,2
 Brule,46015,2020,gross_vehicle_weight,506
+Brule,46015,2020,gross_vehicle_weight,513
 Brule,46015,2020,irp_with_prorate_plate,15
 Brule,46015,2020,motorcycle,234
 Brule,46015,2020,off_road,390
@@ -979,6 +1150,7 @@ Brule,46015,2019,bus,33
 Brule,46015,2019,commercial_plate,417
 Brule,46015,2019,electric,2
 Brule,46015,2019,gross_vehicle_weight,494
+Brule,46015,2019,gross_vehicle_weight,502
 Brule,46015,2019,irp_with_prorate_plate,19
 Brule,46015,2019,motorcycle,247
 Brule,46015,2019,off_road,332
@@ -994,6 +1166,7 @@ Brule,46015,2018,bus,32
 Brule,46015,2018,commercial_plate,431
 Brule,46015,2018,electric,4
 Brule,46015,2018,gross_vehicle_weight,561
+Brule,46015,2018,gross_vehicle_weight,566
 Brule,46015,2018,irp_with_prorate_plate,19
 Brule,46015,2018,motorcycle,249
 Brule,46015,2018,off_road,334
@@ -1049,6 +1222,21 @@ Brule,46015,2015,snowmobile,52
 Brule,46015,2015,titles,2758
 Brule,46015,2015,trailer,2377
 Brule,46015,2015,truck,737
+Buffalo,46017,2025,boat,2
+Buffalo,46017,2025,bus,0
+Buffalo,46017,2025,commercial_plate,0
+Buffalo,46017,2025,electric,0
+Buffalo,46017,2025,gross_vehicle_weight,14
+Buffalo,46017,2025,irp_with_prorate_plate,0
+Buffalo,46017,2025,motorcycle,5
+Buffalo,46017,2025,off_road,1
+Buffalo,46017,2025,passenger_low_speed,27
+Buffalo,46017,2025,pickup_suv_van,72
+Buffalo,46017,2025,recreational,1
+Buffalo,46017,2025,snowmobile,1
+Buffalo,46017,2025,titles,32
+Buffalo,46017,2025,trailer,34
+Buffalo,46017,2025,truck,13
 Buffalo,46017,2024,boat,56
 Buffalo,46017,2024,bus,5
 Buffalo,46017,2024,commercial_plate,13
@@ -1089,6 +1277,7 @@ Buffalo,46017,2022,motorcycle,42
 Buffalo,46017,2022,off_road,33
 Buffalo,46017,2022,passenger_low_speed,479
 Buffalo,46017,2022,pickup_suv_van,1060
+Buffalo,46017,2022,pickup_suv_van,1064
 Buffalo,46017,2022,recreational,3
 Buffalo,46017,2022,snowmobile,6
 Buffalo,46017,2022,titles,549
@@ -1104,6 +1293,7 @@ Buffalo,46017,2021,motorcycle,41
 Buffalo,46017,2021,off_road,28
 Buffalo,46017,2021,passenger_low_speed,554
 Buffalo,46017,2021,pickup_suv_van,1119
+Buffalo,46017,2021,pickup_suv_van,1118
 Buffalo,46017,2021,recreational,4
 Buffalo,46017,2021,snowmobile,7
 Buffalo,46017,2021,titles,716
@@ -1199,6 +1389,21 @@ Buffalo,46017,2015,snowmobile,9
 Buffalo,46017,2015,titles,601
 Buffalo,46017,2015,trailer,375
 Buffalo,46017,2015,truck,127
+Butte,46019,2025,boat,36
+Butte,46019,2025,bus,0
+Butte,46019,2025,commercial_plate,114
+Butte,46019,2025,electric,3
+Butte,46019,2025,gross_vehicle_weight,96
+Butte,46019,2025,irp_with_prorate_plate,9
+Butte,46019,2025,motorcycle,76
+Butte,46019,2025,off_road,90
+Butte,46019,2025,passenger_low_speed,381
+Butte,46019,2025,pickup_suv_van,1304
+Butte,46019,2025,recreational,15
+Butte,46019,2025,snowmobile,32
+Butte,46019,2025,titles,257
+Butte,46019,2025,trailer,458
+Butte,46019,2025,truck,84
 Butte,46019,2024,boat,538
 Butte,46019,2024,bus,6
 Butte,46019,2024,commercial_plate,574
@@ -1230,30 +1435,40 @@ Butte,46019,2023,titles,5592
 Butte,46019,2023,trailer,4586
 Butte,46019,2023,truck,659
 Butte,46019,2022,boat,501
+Butte,46019,2022,boat,502
 Butte,46019,2022,bus,7
 Butte,46019,2022,commercial_plate,543
 Butte,46019,2022,electric,11
 Butte,46019,2022,gross_vehicle_weight,772
+Butte,46019,2022,gross_vehicle_weight,778
 Butte,46019,2022,irp_with_prorate_plate,96
 Butte,46019,2022,motorcycle,1023
+Butte,46019,2022,motorcycle,1025
 Butte,46019,2022,off_road,758
+Butte,46019,2022,off_road,759
 Butte,46019,2022,passenger_low_speed,4008
+Butte,46019,2022,passenger_low_speed,4011
 Butte,46019,2022,pickup_suv_van,10469
+Butte,46019,2022,pickup_suv_van,10478
 Butte,46019,2022,recreational,129
+Butte,46019,2022,recreational,130
 Butte,46019,2022,snowmobile,112
 Butte,46019,2022,titles,5537
 Butte,46019,2022,trailer,4458
 Butte,46019,2022,truck,637
+Butte,46019,2022,truck,636
 Butte,46019,2021,boat,527
 Butte,46019,2021,bus,11
 Butte,46019,2021,commercial_plate,496
 Butte,46019,2021,electric,11
 Butte,46019,2021,gross_vehicle_weight,748
+Butte,46019,2021,gross_vehicle_weight,759
 Butte,46019,2021,irp_with_prorate_plate,98
 Butte,46019,2021,motorcycle,950
 Butte,46019,2021,off_road,715
 Butte,46019,2021,passenger_low_speed,4220
 Butte,46019,2021,pickup_suv_van,10257
+Butte,46019,2021,pickup_suv_van,10256
 Butte,46019,2021,recreational,137
 Butte,46019,2021,snowmobile,126
 Butte,46019,2021,titles,6023
@@ -1264,6 +1479,7 @@ Butte,46019,2020,bus,7
 Butte,46019,2020,commercial_plate,468
 Butte,46019,2020,electric,4
 Butte,46019,2020,gross_vehicle_weight,676
+Butte,46019,2020,gross_vehicle_weight,686
 Butte,46019,2020,irp_with_prorate_plate,102
 Butte,46019,2020,motorcycle,898
 Butte,46019,2020,off_road,671
@@ -1279,6 +1495,7 @@ Butte,46019,2019,bus,6
 Butte,46019,2019,commercial_plate,481
 Butte,46019,2019,electric,1
 Butte,46019,2019,gross_vehicle_weight,634
+Butte,46019,2019,gross_vehicle_weight,636
 Butte,46019,2019,irp_with_prorate_plate,139
 Butte,46019,2019,motorcycle,852
 Butte,46019,2019,off_road,635
@@ -1294,6 +1511,7 @@ Butte,46019,2018,bus,16
 Butte,46019,2018,commercial_plate,447
 Butte,46019,2018,electric,2
 Butte,46019,2018,gross_vehicle_weight,667
+Butte,46019,2018,gross_vehicle_weight,670
 Butte,46019,2018,irp_with_prorate_plate,132
 Butte,46019,2018,motorcycle,856
 Butte,46019,2018,off_road,609
@@ -1349,6 +1567,21 @@ Butte,46019,2015,snowmobile,196
 Butte,46019,2015,titles,5905
 Butte,46019,2015,trailer,3974
 Butte,46019,2015,truck,704
+Campbell,46021,2025,boat,18
+Campbell,46021,2025,bus,0
+Campbell,46021,2025,commercial_plate,5
+Campbell,46021,2025,electric,0
+Campbell,46021,2025,gross_vehicle_weight,33
+Campbell,46021,2025,irp_with_prorate_plate,0
+Campbell,46021,2025,motorcycle,6
+Campbell,46021,2025,off_road,22
+Campbell,46021,2025,passenger_low_speed,71
+Campbell,46021,2025,pickup_suv_van,260
+Campbell,46021,2025,recreational,0
+Campbell,46021,2025,snowmobile,0
+Campbell,46021,2025,titles,35
+Campbell,46021,2025,trailer,117
+Campbell,46021,2025,truck,32
 Campbell,46021,2024,boat,211
 Campbell,46021,2024,bus,6
 Campbell,46021,2024,commercial_plate,75
@@ -1384,11 +1617,14 @@ Campbell,46021,2022,bus,5
 Campbell,46021,2022,commercial_plate,87
 Campbell,46021,2022,electric,3
 Campbell,46021,2022,gross_vehicle_weight,386
+Campbell,46021,2022,gross_vehicle_weight,389
 Campbell,46021,2022,irp_with_prorate_plate,28
 Campbell,46021,2022,motorcycle,119
 Campbell,46021,2022,off_road,154
 Campbell,46021,2022,passenger_low_speed,622
+Campbell,46021,2022,passenger_low_speed,623
 Campbell,46021,2022,pickup_suv_van,1966
+Campbell,46021,2022,pickup_suv_van,1967
 Campbell,46021,2022,recreational,9
 Campbell,46021,2022,snowmobile,35
 Campbell,46021,2022,titles,801
@@ -1399,6 +1635,7 @@ Campbell,46021,2021,bus,6
 Campbell,46021,2021,commercial_plate,68
 Campbell,46021,2021,electric,1
 Campbell,46021,2021,gross_vehicle_weight,399
+Campbell,46021,2021,gross_vehicle_weight,401
 Campbell,46021,2021,irp_with_prorate_plate,28
 Campbell,46021,2021,motorcycle,138
 Campbell,46021,2021,off_road,157
@@ -1414,6 +1651,7 @@ Campbell,46021,2020,bus,5
 Campbell,46021,2020,commercial_plate,67
 Campbell,46021,2020,electric,1
 Campbell,46021,2020,gross_vehicle_weight,368
+Campbell,46021,2020,gross_vehicle_weight,370
 Campbell,46021,2020,irp_with_prorate_plate,32
 Campbell,46021,2020,motorcycle,130
 Campbell,46021,2020,off_road,133
@@ -1429,6 +1667,7 @@ Campbell,46021,2019,bus,8
 Campbell,46021,2019,commercial_plate,59
 Campbell,46021,2019,electric,3
 Campbell,46021,2019,gross_vehicle_weight,366
+Campbell,46021,2019,gross_vehicle_weight,368
 Campbell,46021,2019,irp_with_prorate_plate,28
 Campbell,46021,2019,motorcycle,122
 Campbell,46021,2019,off_road,134
@@ -1444,6 +1683,7 @@ Campbell,46021,2018,bus,12
 Campbell,46021,2018,commercial_plate,64
 Campbell,46021,2018,electric,0
 Campbell,46021,2018,gross_vehicle_weight,382
+Campbell,46021,2018,gross_vehicle_weight,383
 Campbell,46021,2018,irp_with_prorate_plate,28
 Campbell,46021,2018,motorcycle,134
 Campbell,46021,2018,off_road,119
@@ -1499,6 +1739,21 @@ Campbell,46021,2015,snowmobile,46
 Campbell,46021,2015,titles,994
 Campbell,46021,2015,trailer,1052
 Campbell,46021,2015,truck,477
+Charles Mix,46023,2025,boat,119
+Charles Mix,46023,2025,bus,1
+Charles Mix,46023,2025,commercial_plate,50
+Charles Mix,46023,2025,electric,1
+Charles Mix,46023,2025,gross_vehicle_weight,46
+Charles Mix,46023,2025,irp_with_prorate_plate,0
+Charles Mix,46023,2025,motorcycle,43
+Charles Mix,46023,2025,off_road,72
+Charles Mix,46023,2025,passenger_low_speed,239
+Charles Mix,46023,2025,pickup_suv_van,805
+Charles Mix,46023,2025,recreational,4
+Charles Mix,46023,2025,snowmobile,5
+Charles Mix,46023,2025,titles,165
+Charles Mix,46023,2025,trailer,375
+Charles Mix,46023,2025,truck,50
 Charles Mix,46023,2024,boat,1118
 Charles Mix,46023,2024,bus,12
 Charles Mix,46023,2024,commercial_plate,504
@@ -1534,76 +1789,94 @@ Charles Mix,46023,2022,bus,9
 Charles Mix,46023,2022,commercial_plate,528
 Charles Mix,46023,2022,electric,7
 Charles Mix,46023,2022,gross_vehicle_weight,832
+Charles Mix,46023,2022,gross_vehicle_weight,835
 Charles Mix,46023,2022,irp_with_prorate_plate,25
 Charles Mix,46023,2022,motorcycle,332
 Charles Mix,46023,2022,off_road,590
+Charles Mix,46023,2022,off_road,589
 Charles Mix,46023,2022,passenger_low_speed,2528
+Charles Mix,46023,2022,passenger_low_speed,2529
 Charles Mix,46023,2022,pickup_suv_van,7127
+Charles Mix,46023,2022,pickup_suv_van,7130
 Charles Mix,46023,2022,recreational,48
 Charles Mix,46023,2022,snowmobile,38
 Charles Mix,46023,2022,titles,3176
 Charles Mix,46023,2022,trailer,3777
 Charles Mix,46023,2022,truck,975
+Charles Mix,46023,2022,truck,976
 Charles Mix,46023,2021,boat,1093
 Charles Mix,46023,2021,bus,14
 Charles Mix,46023,2021,commercial_plate,478
 Charles Mix,46023,2021,electric,4
 Charles Mix,46023,2021,gross_vehicle_weight,822
+Charles Mix,46023,2021,gross_vehicle_weight,830
 Charles Mix,46023,2021,irp_with_prorate_plate,32
 Charles Mix,46023,2021,motorcycle,344
 Charles Mix,46023,2021,off_road,564
 Charles Mix,46023,2021,passenger_low_speed,2628
 Charles Mix,46023,2021,pickup_suv_van,7302
+Charles Mix,46023,2021,pickup_suv_van,7300
 Charles Mix,46023,2021,recreational,47
 Charles Mix,46023,2021,snowmobile,46
 Charles Mix,46023,2021,titles,3668
 Charles Mix,46023,2021,trailer,3796
 Charles Mix,46023,2021,truck,949
+Charles Mix,46023,2021,truck,950
 Charles Mix,46023,2020,boat,1040
 Charles Mix,46023,2020,bus,13
 Charles Mix,46023,2020,commercial_plate,481
 Charles Mix,46023,2020,electric,3
 Charles Mix,46023,2020,gross_vehicle_weight,807
+Charles Mix,46023,2020,gross_vehicle_weight,811
 Charles Mix,46023,2020,irp_with_prorate_plate,23
 Charles Mix,46023,2020,motorcycle,333
 Charles Mix,46023,2020,off_road,520
 Charles Mix,46023,2020,passenger_low_speed,2590
+Charles Mix,46023,2020,passenger_low_speed,2589
 Charles Mix,46023,2020,pickup_suv_van,6920
+Charles Mix,46023,2020,pickup_suv_van,6919
 Charles Mix,46023,2020,recreational,44
 Charles Mix,46023,2020,snowmobile,59
 Charles Mix,46023,2020,titles,3298
 Charles Mix,46023,2020,trailer,3538
 Charles Mix,46023,2020,truck,921
+Charles Mix,46023,2020,truck,922
 Charles Mix,46023,2019,boat,967
 Charles Mix,46023,2019,bus,20
 Charles Mix,46023,2019,commercial_plate,475
 Charles Mix,46023,2019,electric,1
 Charles Mix,46023,2019,gross_vehicle_weight,794
+Charles Mix,46023,2019,gross_vehicle_weight,795
 Charles Mix,46023,2019,irp_with_prorate_plate,26
 Charles Mix,46023,2019,motorcycle,360
 Charles Mix,46023,2019,off_road,486
 Charles Mix,46023,2019,passenger_low_speed,2739
 Charles Mix,46023,2019,pickup_suv_van,6744
+Charles Mix,46023,2019,pickup_suv_van,6743
 Charles Mix,46023,2019,recreational,47
 Charles Mix,46023,2019,snowmobile,51
 Charles Mix,46023,2019,titles,3057
 Charles Mix,46023,2019,trailer,3421
 Charles Mix,46023,2019,truck,917
+Charles Mix,46023,2019,truck,918
 Charles Mix,46023,2018,boat,972
 Charles Mix,46023,2018,bus,52
 Charles Mix,46023,2018,commercial_plate,418
 Charles Mix,46023,2018,electric,1
 Charles Mix,46023,2018,gross_vehicle_weight,863
+Charles Mix,46023,2018,gross_vehicle_weight,865
 Charles Mix,46023,2018,irp_with_prorate_plate,35
 Charles Mix,46023,2018,motorcycle,342
 Charles Mix,46023,2018,off_road,438
 Charles Mix,46023,2018,passenger_low_speed,2965
 Charles Mix,46023,2018,pickup_suv_van,6689
+Charles Mix,46023,2018,pickup_suv_van,6688
 Charles Mix,46023,2018,recreational,50
 Charles Mix,46023,2018,snowmobile,55
 Charles Mix,46023,2018,titles,3022
 Charles Mix,46023,2018,trailer,3497
 Charles Mix,46023,2018,truck,971
+Charles Mix,46023,2018,truck,972
 Charles Mix,46023,2017,boat,992
 Charles Mix,46023,2017,bus,11
 Charles Mix,46023,2017,commercial_plate,429
@@ -1649,6 +1922,21 @@ Charles Mix,46023,2015,snowmobile,83
 Charles Mix,46023,2015,titles,3658
 Charles Mix,46023,2015,trailer,3578
 Charles Mix,46023,2015,truck,1035
+Clark,46025,2025,boat,30
+Clark,46025,2025,bus,0
+Clark,46025,2025,commercial_plate,28
+Clark,46025,2025,electric,2
+Clark,46025,2025,gross_vehicle_weight,51
+Clark,46025,2025,irp_with_prorate_plate,9
+Clark,46025,2025,motorcycle,19
+Clark,46025,2025,off_road,39
+Clark,46025,2025,passenger_low_speed,99
+Clark,46025,2025,pickup_suv_van,439
+Clark,46025,2025,recreational,3
+Clark,46025,2025,snowmobile,9
+Clark,46025,2025,titles,71
+Clark,46025,2025,trailer,211
+Clark,46025,2025,truck,70
 Clark,46025,2024,boat,389
 Clark,46025,2024,bus,4
 Clark,46025,2024,commercial_plate,218
@@ -1684,11 +1972,15 @@ Clark,46025,2022,bus,8
 Clark,46025,2022,commercial_plate,234
 Clark,46025,2022,electric,6
 Clark,46025,2022,gross_vehicle_weight,632
+Clark,46025,2022,gross_vehicle_weight,636
 Clark,46025,2022,irp_with_prorate_plate,28
 Clark,46025,2022,motorcycle,234
+Clark,46025,2022,motorcycle,235
 Clark,46025,2022,off_road,351
 Clark,46025,2022,passenger_low_speed,1114
+Clark,46025,2022,passenger_low_speed,1113
 Clark,46025,2022,pickup_suv_van,4053
+Clark,46025,2022,pickup_suv_van,4057
 Clark,46025,2022,recreational,34
 Clark,46025,2022,snowmobile,88
 Clark,46025,2022,titles,1667
@@ -1699,10 +1991,12 @@ Clark,46025,2021,bus,4
 Clark,46025,2021,commercial_plate,205
 Clark,46025,2021,electric,3
 Clark,46025,2021,gross_vehicle_weight,613
+Clark,46025,2021,gross_vehicle_weight,616
 Clark,46025,2021,irp_with_prorate_plate,30
 Clark,46025,2021,motorcycle,221
 Clark,46025,2021,off_road,341
 Clark,46025,2021,passenger_low_speed,1155
+Clark,46025,2021,passenger_low_speed,1154
 Clark,46025,2021,pickup_suv_van,3977
 Clark,46025,2021,recreational,37
 Clark,46025,2021,snowmobile,86
@@ -1714,6 +2008,7 @@ Clark,46025,2020,bus,8
 Clark,46025,2020,commercial_plate,217
 Clark,46025,2020,electric,1
 Clark,46025,2020,gross_vehicle_weight,587
+Clark,46025,2020,gross_vehicle_weight,589
 Clark,46025,2020,irp_with_prorate_plate,27
 Clark,46025,2020,motorcycle,244
 Clark,46025,2020,off_road,334
@@ -1729,6 +2024,7 @@ Clark,46025,2019,bus,10
 Clark,46025,2019,commercial_plate,212
 Clark,46025,2019,electric,1
 Clark,46025,2019,gross_vehicle_weight,619
+Clark,46025,2019,gross_vehicle_weight,622
 Clark,46025,2019,irp_with_prorate_plate,23
 Clark,46025,2019,motorcycle,214
 Clark,46025,2019,off_road,288
@@ -1744,6 +2040,7 @@ Clark,46025,2018,bus,18
 Clark,46025,2018,commercial_plate,272
 Clark,46025,2018,electric,1
 Clark,46025,2018,gross_vehicle_weight,666
+Clark,46025,2018,gross_vehicle_weight,669
 Clark,46025,2018,irp_with_prorate_plate,24
 Clark,46025,2018,motorcycle,233
 Clark,46025,2018,off_road,304
@@ -1799,6 +2096,21 @@ Clark,46025,2015,snowmobile,133
 Clark,46025,2015,titles,1852
 Clark,46025,2015,trailer,2185
 Clark,46025,2015,truck,878
+Clay,46027,2025,boat,110
+Clay,46027,2025,bus,1
+Clay,46027,2025,commercial_plate,59
+Clay,46027,2025,electric,14
+Clay,46027,2025,gross_vehicle_weight,94
+Clay,46027,2025,irp_with_prorate_plate,1
+Clay,46027,2025,motorcycle,166
+Clay,46027,2025,off_road,153
+Clay,46027,2025,passenger_low_speed,841
+Clay,46027,2025,pickup_suv_van,2250
+Clay,46027,2025,recreational,40
+Clay,46027,2025,snowmobile,40
+Clay,46027,2025,titles,489
+Clay,46027,2025,trailer,431
+Clay,46027,2025,truck,95
 Clay,46027,2024,boat,1002
 Clay,46027,2024,bus,14
 Clay,46027,2024,commercial_plate,457
@@ -1834,21 +2146,29 @@ Clay,46027,2022,bus,16
 Clay,46027,2022,commercial_plate,459
 Clay,46027,2022,electric,84
 Clay,46027,2022,gross_vehicle_weight,724
+Clay,46027,2022,gross_vehicle_weight,723
 Clay,46027,2022,irp_with_prorate_plate,52
 Clay,46027,2022,motorcycle,1270
+Clay,46027,2022,motorcycle,1274
 Clay,46027,2022,off_road,1243
+Clay,46027,2022,off_road,1239
 Clay,46027,2022,passenger_low_speed,7294
+Clay,46027,2022,passenger_low_speed,7296
 Clay,46027,2022,pickup_suv_van,17447
+Clay,46027,2022,pickup_suv_van,17454
 Clay,46027,2022,recreational,400
 Clay,46027,2022,snowmobile,143
 Clay,46027,2022,titles,8622
 Clay,46027,2022,trailer,3960
+Clay,46027,2022,trailer,3962
 Clay,46027,2022,truck,730
 Clay,46027,2021,boat,1002
 Clay,46027,2021,bus,10
 Clay,46027,2021,commercial_plate,462
 Clay,46027,2021,electric,57
+Clay,46027,2021,electric,58
 Clay,46027,2021,gross_vehicle_weight,717
+Clay,46027,2021,gross_vehicle_weight,714
 Clay,46027,2021,irp_with_prorate_plate,63
 Clay,46027,2021,motorcycle,1231
 Clay,46027,2021,off_road,1229
@@ -1863,7 +2183,9 @@ Clay,46027,2020,boat,1039
 Clay,46027,2020,bus,15
 Clay,46027,2020,commercial_plate,433
 Clay,46027,2020,electric,37
+Clay,46027,2020,electric,36
 Clay,46027,2020,gross_vehicle_weight,649
+Clay,46027,2020,gross_vehicle_weight,648
 Clay,46027,2020,irp_with_prorate_plate,62
 Clay,46027,2020,motorcycle,1086
 Clay,46027,2020,off_road,1242
@@ -1878,7 +2200,9 @@ Clay,46027,2019,boat,991
 Clay,46027,2019,bus,10
 Clay,46027,2019,commercial_plate,393
 Clay,46027,2019,electric,18
+Clay,46027,2019,electric,19
 Clay,46027,2019,gross_vehicle_weight,592
+Clay,46027,2019,gross_vehicle_weight,593
 Clay,46027,2019,irp_with_prorate_plate,66
 Clay,46027,2019,motorcycle,1020
 Clay,46027,2019,off_road,854
@@ -1894,6 +2218,7 @@ Clay,46027,2018,bus,18
 Clay,46027,2018,commercial_plate,378
 Clay,46027,2018,electric,15
 Clay,46027,2018,gross_vehicle_weight,590
+Clay,46027,2018,gross_vehicle_weight,589
 Clay,46027,2018,irp_with_prorate_plate,61
 Clay,46027,2018,motorcycle,927
 Clay,46027,2018,off_road,652
@@ -1949,6 +2274,21 @@ Clay,46027,2015,snowmobile,125
 Clay,46027,2015,titles,6205
 Clay,46027,2015,trailer,3292
 Clay,46027,2015,truck,684
+Codington,46029,2025,boat,308
+Codington,46029,2025,bus,2
+Codington,46029,2025,commercial_plate,417
+Codington,46029,2025,electric,4
+Codington,46029,2025,gross_vehicle_weight,104
+Codington,46029,2025,irp_with_prorate_plate,9
+Codington,46029,2025,motorcycle,200
+Codington,46029,2025,off_road,190
+Codington,46029,2025,passenger_low_speed,882
+Codington,46029,2025,pickup_suv_van,3160
+Codington,46029,2025,recreational,24
+Codington,46029,2025,snowmobile,86
+Codington,46029,2025,titles,676
+Codington,46029,2025,trailer,1149
+Codington,46029,2025,truck,197
 Codington,46029,2024,boat,3281
 Codington,46029,2024,bus,19
 Codington,46029,2024,commercial_plate,2235
@@ -1984,21 +2324,27 @@ Codington,46029,2022,bus,22
 Codington,46029,2022,commercial_plate,2146
 Codington,46029,2022,electric,55
 Codington,46029,2022,gross_vehicle_weight,817
+Codington,46029,2022,gross_vehicle_weight,851
 Codington,46029,2022,irp_with_prorate_plate,120
 Codington,46029,2022,motorcycle,2023
+Codington,46029,2022,motorcycle,2025
 Codington,46029,2022,off_road,1522
 Codington,46029,2022,passenger_low_speed,8753
+Codington,46029,2022,passenger_low_speed,8762
 Codington,46029,2022,pickup_suv_van,23677
+Codington,46029,2022,pickup_suv_van,23696
 Codington,46029,2022,recreational,210
 Codington,46029,2022,snowmobile,623
 Codington,46029,2022,titles,10797
 Codington,46029,2022,trailer,10477
 Codington,46029,2022,truck,1420
+Codington,46029,2022,truck,1418
 Codington,46029,2021,boat,3416
 Codington,46029,2021,bus,15
 Codington,46029,2021,commercial_plate,2207
 Codington,46029,2021,electric,39
 Codington,46029,2021,gross_vehicle_weight,837
+Codington,46029,2021,gross_vehicle_weight,855
 Codington,46029,2021,irp_with_prorate_plate,105
 Codington,46029,2021,motorcycle,2078
 Codington,46029,2021,off_road,1587
@@ -2014,6 +2360,7 @@ Codington,46029,2020,bus,19
 Codington,46029,2020,commercial_plate,2057
 Codington,46029,2020,electric,31
 Codington,46029,2020,gross_vehicle_weight,962
+Codington,46029,2020,gross_vehicle_weight,977
 Codington,46029,2020,irp_with_prorate_plate,113
 Codington,46029,2020,motorcycle,1986
 Codington,46029,2020,off_road,1420
@@ -2028,7 +2375,9 @@ Codington,46029,2019,boat,3027
 Codington,46029,2019,bus,21
 Codington,46029,2019,commercial_plate,1970
 Codington,46029,2019,electric,29
+Codington,46029,2019,electric,28
 Codington,46029,2019,gross_vehicle_weight,903
+Codington,46029,2019,gross_vehicle_weight,916
 Codington,46029,2019,irp_with_prorate_plate,139
 Codington,46029,2019,motorcycle,1991
 Codington,46029,2019,off_road,1379
@@ -2038,12 +2387,15 @@ Codington,46029,2019,recreational,188
 Codington,46029,2019,snowmobile,774
 Codington,46029,2019,titles,12256
 Codington,46029,2019,trailer,9696
+Codington,46029,2019,trailer,9698
 Codington,46029,2019,truck,1405
 Codington,46029,2018,boat,3074
 Codington,46029,2018,bus,67
 Codington,46029,2018,commercial_plate,1934
 Codington,46029,2018,electric,20
+Codington,46029,2018,electric,21
 Codington,46029,2018,gross_vehicle_weight,991
+Codington,46029,2018,gross_vehicle_weight,1014
 Codington,46029,2018,irp_with_prorate_plate,151
 Codington,46029,2018,motorcycle,2047
 Codington,46029,2018,off_road,1296
@@ -2099,6 +2451,21 @@ Codington,46029,2015,snowmobile,807
 Codington,46029,2015,titles,13421
 Codington,46029,2015,trailer,9765
 Codington,46029,2015,truck,1605
+Corson,46031,2025,boat,9
+Corson,46031,2025,bus,2
+Corson,46031,2025,commercial_plate,4
+Corson,46031,2025,electric,0
+Corson,46031,2025,gross_vehicle_weight,33
+Corson,46031,2025,irp_with_prorate_plate,2
+Corson,46031,2025,motorcycle,5
+Corson,46031,2025,off_road,8
+Corson,46031,2025,passenger_low_speed,62
+Corson,46031,2025,pickup_suv_van,274
+Corson,46031,2025,recreational,1
+Corson,46031,2025,snowmobile,3
+Corson,46031,2025,titles,56
+Corson,46031,2025,trailer,85
+Corson,46031,2025,truck,24
 Corson,46031,2024,boat,118
 Corson,46031,2024,bus,3
 Corson,46031,2024,commercial_plate,55
@@ -2134,12 +2501,16 @@ Corson,46031,2022,bus,3
 Corson,46031,2022,commercial_plate,51
 Corson,46031,2022,electric,0
 Corson,46031,2022,gross_vehicle_weight,480
+Corson,46031,2022,gross_vehicle_weight,478
 Corson,46031,2022,irp_with_prorate_plate,7
 Corson,46031,2022,motorcycle,113
 Corson,46031,2022,off_road,77
 Corson,46031,2022,passenger_low_speed,1046
+Corson,46031,2022,passenger_low_speed,1047
 Corson,46031,2022,pickup_suv_van,2826
+Corson,46031,2022,pickup_suv_van,2833
 Corson,46031,2022,recreational,16
+Corson,46031,2022,recreational,17
 Corson,46031,2022,snowmobile,24
 Corson,46031,2022,titles,1217
 Corson,46031,2022,trailer,990
@@ -2149,11 +2520,13 @@ Corson,46031,2021,bus,6
 Corson,46031,2021,commercial_plate,54
 Corson,46031,2021,electric,0
 Corson,46031,2021,gross_vehicle_weight,513
+Corson,46031,2021,gross_vehicle_weight,511
 Corson,46031,2021,irp_with_prorate_plate,5
 Corson,46031,2021,motorcycle,104
 Corson,46031,2021,off_road,73
 Corson,46031,2021,passenger_low_speed,1172
 Corson,46031,2021,pickup_suv_van,2859
+Corson,46031,2021,pickup_suv_van,2860
 Corson,46031,2021,recreational,17
 Corson,46031,2021,snowmobile,19
 Corson,46031,2021,titles,1453
@@ -2164,6 +2537,7 @@ Corson,46031,2020,bus,4
 Corson,46031,2020,commercial_plate,54
 Corson,46031,2020,electric,0
 Corson,46031,2020,gross_vehicle_weight,482
+Corson,46031,2020,gross_vehicle_weight,479
 Corson,46031,2020,irp_with_prorate_plate,5
 Corson,46031,2020,motorcycle,92
 Corson,46031,2020,off_road,65
@@ -2179,6 +2553,7 @@ Corson,46031,2019,bus,13
 Corson,46031,2019,commercial_plate,55
 Corson,46031,2019,electric,0
 Corson,46031,2019,gross_vehicle_weight,466
+Corson,46031,2019,gross_vehicle_weight,464
 Corson,46031,2019,irp_with_prorate_plate,8
 Corson,46031,2019,motorcycle,89
 Corson,46031,2019,off_road,45
@@ -2194,6 +2569,7 @@ Corson,46031,2018,bus,13
 Corson,46031,2018,commercial_plate,61
 Corson,46031,2018,electric,0
 Corson,46031,2018,gross_vehicle_weight,501
+Corson,46031,2018,gross_vehicle_weight,499
 Corson,46031,2018,irp_with_prorate_plate,6
 Corson,46031,2018,motorcycle,82
 Corson,46031,2018,off_road,44
@@ -2203,6 +2579,7 @@ Corson,46031,2018,recreational,20
 Corson,46031,2018,snowmobile,30
 Corson,46031,2018,titles,1367
 Corson,46031,2018,trailer,1103
+Corson,46031,2018,trailer,1104
 Corson,46031,2018,truck,443
 Corson,46031,2017,boat,143
 Corson,46031,2017,bus,3
@@ -2249,6 +2626,21 @@ Corson,46031,2015,snowmobile,23
 Corson,46031,2015,titles,1890
 Corson,46031,2015,trailer,1228
 Corson,46031,2015,truck,535
+Custer,46033,2025,boat,91
+Custer,46033,2025,bus,0
+Custer,46033,2025,commercial_plate,75
+Custer,46033,2025,electric,3
+Custer,46033,2025,gross_vehicle_weight,33
+Custer,46033,2025,irp_with_prorate_plate,0
+Custer,46033,2025,motorcycle,120
+Custer,46033,2025,off_road,243
+Custer,46033,2025,passenger_low_speed,338
+Custer,46033,2025,pickup_suv_van,1335
+Custer,46033,2025,recreational,22
+Custer,46033,2025,snowmobile,28
+Custer,46033,2025,titles,262
+Custer,46033,2025,trailer,761
+Custer,46033,2025,truck,47
 Custer,46033,2024,boat,724
 Custer,46033,2024,bus,8
 Custer,46033,2024,commercial_plate,486
@@ -2283,22 +2675,29 @@ Custer,46033,2022,boat,738
 Custer,46033,2022,bus,8
 Custer,46033,2022,commercial_plate,483
 Custer,46033,2022,electric,24
+Custer,46033,2022,electric,23
 Custer,46033,2022,gross_vehicle_weight,329
+Custer,46033,2022,gross_vehicle_weight,341
 Custer,46033,2022,irp_with_prorate_plate,31
 Custer,46033,2022,motorcycle,1257
 Custer,46033,2022,off_road,1684
 Custer,46033,2022,passenger_low_speed,3593
+Custer,46033,2022,passenger_low_speed,3595
 Custer,46033,2022,pickup_suv_van,10235
+Custer,46033,2022,pickup_suv_van,10246
 Custer,46033,2022,recreational,232
+Custer,46033,2022,recreational,233
 Custer,46033,2022,snowmobile,73
 Custer,46033,2022,titles,4944
 Custer,46033,2022,trailer,5445
+Custer,46033,2022,trailer,5444
 Custer,46033,2022,truck,400
 Custer,46033,2021,boat,770
 Custer,46033,2021,bus,7
 Custer,46033,2021,commercial_plate,441
 Custer,46033,2021,electric,9
 Custer,46033,2021,gross_vehicle_weight,350
+Custer,46033,2021,gross_vehicle_weight,361
 Custer,46033,2021,irp_with_prorate_plate,27
 Custer,46033,2021,motorcycle,1141
 Custer,46033,2021,off_road,1612
@@ -2314,6 +2713,7 @@ Custer,46033,2020,bus,7
 Custer,46033,2020,commercial_plate,462
 Custer,46033,2020,electric,6
 Custer,46033,2020,gross_vehicle_weight,326
+Custer,46033,2020,gross_vehicle_weight,338
 Custer,46033,2020,irp_with_prorate_plate,26
 Custer,46033,2020,motorcycle,1068
 Custer,46033,2020,off_road,1445
@@ -2329,6 +2729,7 @@ Custer,46033,2019,bus,4
 Custer,46033,2019,commercial_plate,456
 Custer,46033,2019,electric,4
 Custer,46033,2019,gross_vehicle_weight,365
+Custer,46033,2019,gross_vehicle_weight,375
 Custer,46033,2019,irp_with_prorate_plate,18
 Custer,46033,2019,motorcycle,1026
 Custer,46033,2019,off_road,1323
@@ -2344,6 +2745,7 @@ Custer,46033,2018,bus,6
 Custer,46033,2018,commercial_plate,443
 Custer,46033,2018,electric,4
 Custer,46033,2018,gross_vehicle_weight,375
+Custer,46033,2018,gross_vehicle_weight,381
 Custer,46033,2018,irp_with_prorate_plate,20
 Custer,46033,2018,motorcycle,991
 Custer,46033,2018,off_road,1233
@@ -2399,6 +2801,21 @@ Custer,46033,2015,snowmobile,89
 Custer,46033,2015,titles,4613
 Custer,46033,2015,trailer,4308
 Custer,46033,2015,truck,462
+Davison,46035,2025,boat,100
+Davison,46035,2025,bus,1
+Davison,46035,2025,commercial_plate,186
+Davison,46035,2025,electric,16
+Davison,46035,2025,gross_vehicle_weight,58
+Davison,46035,2025,irp_with_prorate_plate,0
+Davison,46035,2025,motorcycle,101
+Davison,46035,2025,off_road,130
+Davison,46035,2025,passenger_low_speed,729
+Davison,46035,2025,pickup_suv_van,1926
+Davison,46035,2025,recreational,14
+Davison,46035,2025,snowmobile,20
+Davison,46035,2025,titles,415
+Davison,46035,2025,trailer,576
+Davison,46035,2025,truck,112
 Davison,46035,2024,boat,1191
 Davison,46035,2024,bus,22
 Davison,46035,2024,commercial_plate,1915
@@ -2433,12 +2850,18 @@ Davison,46035,2022,boat,1235
 Davison,46035,2022,bus,19
 Davison,46035,2022,commercial_plate,1913
 Davison,46035,2022,electric,22
+Davison,46035,2022,electric,23
 Davison,46035,2022,gross_vehicle_weight,598
+Davison,46035,2022,gross_vehicle_weight,612
 Davison,46035,2022,irp_with_prorate_plate,47
 Davison,46035,2022,motorcycle,1398
+Davison,46035,2022,motorcycle,1399
 Davison,46035,2022,off_road,1221
+Davison,46035,2022,off_road,1223
 Davison,46035,2022,passenger_low_speed,6869
+Davison,46035,2022,passenger_low_speed,6876
 Davison,46035,2022,pickup_suv_van,16245
+Davison,46035,2022,pickup_suv_van,16262
 Davison,46035,2022,recreational,125
 Davison,46035,2022,snowmobile,155
 Davison,46035,2022,titles,7437
@@ -2449,10 +2872,12 @@ Davison,46035,2021,bus,20
 Davison,46035,2021,commercial_plate,1839
 Davison,46035,2021,electric,18
 Davison,46035,2021,gross_vehicle_weight,593
+Davison,46035,2021,gross_vehicle_weight,597
 Davison,46035,2021,irp_with_prorate_plate,50
 Davison,46035,2021,motorcycle,1321
 Davison,46035,2021,off_road,1278
 Davison,46035,2021,passenger_low_speed,7434
+Davison,46035,2021,passenger_low_speed,7433
 Davison,46035,2021,pickup_suv_van,16345
 Davison,46035,2021,recreational,136
 Davison,46035,2021,snowmobile,159
@@ -2463,7 +2888,9 @@ Davison,46035,2020,boat,1262
 Davison,46035,2020,bus,15
 Davison,46035,2020,commercial_plate,1791
 Davison,46035,2020,electric,13
+Davison,46035,2020,electric,12
 Davison,46035,2020,gross_vehicle_weight,574
+Davison,46035,2020,gross_vehicle_weight,584
 Davison,46035,2020,irp_with_prorate_plate,45
 Davison,46035,2020,motorcycle,1337
 Davison,46035,2020,off_road,1175
@@ -2472,13 +2899,16 @@ Davison,46035,2020,pickup_suv_van,15608
 Davison,46035,2020,recreational,148
 Davison,46035,2020,snowmobile,224
 Davison,46035,2020,titles,8241
+Davison,46035,2020,titles,8240
 Davison,46035,2020,trailer,5674
 Davison,46035,2020,truck,1052
 Davison,46035,2019,boat,1153
 Davison,46035,2019,bus,21
 Davison,46035,2019,commercial_plate,1731
 Davison,46035,2019,electric,8
+Davison,46035,2019,electric,9
 Davison,46035,2019,gross_vehicle_weight,621
+Davison,46035,2019,gross_vehicle_weight,627
 Davison,46035,2019,irp_with_prorate_plate,52
 Davison,46035,2019,motorcycle,1361
 Davison,46035,2019,off_road,1172
@@ -2494,6 +2924,7 @@ Davison,46035,2018,bus,30
 Davison,46035,2018,commercial_plate,1720
 Davison,46035,2018,electric,4
 Davison,46035,2018,gross_vehicle_weight,638
+Davison,46035,2018,gross_vehicle_weight,640
 Davison,46035,2018,irp_with_prorate_plate,62
 Davison,46035,2018,motorcycle,1324
 Davison,46035,2018,off_road,1063
@@ -2549,6 +2980,21 @@ Davison,46035,2015,snowmobile,248
 Davison,46035,2015,titles,8579
 Davison,46035,2015,trailer,5705
 Davison,46035,2015,truck,1190
+Day,46037,2025,boat,97
+Day,46037,2025,bus,0
+Day,46037,2025,commercial_plate,63
+Day,46037,2025,electric,2
+Day,46037,2025,gross_vehicle_weight,67
+Day,46037,2025,irp_with_prorate_plate,3
+Day,46037,2025,motorcycle,25
+Day,46037,2025,off_road,45
+Day,46037,2025,passenger_low_speed,191
+Day,46037,2025,pickup_suv_van,783
+Day,46037,2025,recreational,4
+Day,46037,2025,snowmobile,40
+Day,46037,2025,titles,151
+Day,46037,2025,trailer,353
+Day,46037,2025,truck,80
 Day,46037,2024,boat,1035
 Day,46037,2024,bus,15
 Day,46037,2024,commercial_plate,419
@@ -2584,66 +3030,80 @@ Day,46037,2022,bus,14
 Day,46037,2022,commercial_plate,411
 Day,46037,2022,electric,4
 Day,46037,2022,gross_vehicle_weight,641
+Day,46037,2022,gross_vehicle_weight,652
 Day,46037,2022,irp_with_prorate_plate,32
 Day,46037,2022,motorcycle,248
 Day,46037,2022,off_road,406
 Day,46037,2022,passenger_low_speed,1915
+Day,46037,2022,passenger_low_speed,1916
 Day,46037,2022,pickup_suv_van,5723
+Day,46037,2022,pickup_suv_van,5728
 Day,46037,2022,recreational,47
 Day,46037,2022,snowmobile,239
 Day,46037,2022,titles,2961
 Day,46037,2022,trailer,3223
 Day,46037,2022,truck,775
+Day,46037,2022,truck,774
 Day,46037,2021,boat,1060
 Day,46037,2021,bus,19
 Day,46037,2021,commercial_plate,401
 Day,46037,2021,electric,5
 Day,46037,2021,gross_vehicle_weight,668
+Day,46037,2021,gross_vehicle_weight,677
 Day,46037,2021,irp_with_prorate_plate,48
 Day,46037,2021,motorcycle,285
 Day,46037,2021,off_road,413
 Day,46037,2021,passenger_low_speed,2062
 Day,46037,2021,pickup_suv_van,5736
+Day,46037,2021,pickup_suv_van,5737
 Day,46037,2021,recreational,52
 Day,46037,2021,snowmobile,215
 Day,46037,2021,titles,3518
 Day,46037,2021,trailer,3267
 Day,46037,2021,truck,799
+Day,46037,2021,truck,798
 Day,46037,2020,boat,1033
 Day,46037,2020,bus,19
 Day,46037,2020,commercial_plate,394
 Day,46037,2020,electric,1
 Day,46037,2020,gross_vehicle_weight,662
+Day,46037,2020,gross_vehicle_weight,667
 Day,46037,2020,irp_with_prorate_plate,52
 Day,46037,2020,motorcycle,266
 Day,46037,2020,off_road,367
 Day,46037,2020,passenger_low_speed,2083
 Day,46037,2020,pickup_suv_van,5456
+Day,46037,2020,pickup_suv_van,5457
 Day,46037,2020,recreational,49
 Day,46037,2020,snowmobile,268
 Day,46037,2020,titles,3071
 Day,46037,2020,trailer,2931
 Day,46037,2020,truck,794
+Day,46037,2020,truck,793
 Day,46037,2019,boat,994
 Day,46037,2019,bus,56
 Day,46037,2019,commercial_plate,420
 Day,46037,2019,electric,2
 Day,46037,2019,gross_vehicle_weight,672
+Day,46037,2019,gross_vehicle_weight,674
 Day,46037,2019,irp_with_prorate_plate,55
 Day,46037,2019,motorcycle,266
 Day,46037,2019,off_road,345
 Day,46037,2019,passenger_low_speed,2253
 Day,46037,2019,pickup_suv_van,5515
+Day,46037,2019,pickup_suv_van,5516
 Day,46037,2019,recreational,53
 Day,46037,2019,snowmobile,305
 Day,46037,2019,titles,3101
 Day,46037,2019,trailer,2952
 Day,46037,2019,truck,819
+Day,46037,2019,truck,818
 Day,46037,2018,boat,993
 Day,46037,2018,bus,23
 Day,46037,2018,commercial_plate,389
 Day,46037,2018,electric,0
 Day,46037,2018,gross_vehicle_weight,696
+Day,46037,2018,gross_vehicle_weight,700
 Day,46037,2018,irp_with_prorate_plate,40
 Day,46037,2018,motorcycle,289
 Day,46037,2018,off_road,337
@@ -2699,6 +3159,21 @@ Day,46037,2015,snowmobile,302
 Day,46037,2015,titles,3063
 Day,46037,2015,trailer,2888
 Day,46037,2015,truck,909
+Deuel,46039,2025,boat,42
+Deuel,46039,2025,bus,0
+Deuel,46039,2025,commercial_plate,51
+Deuel,46039,2025,electric,0
+Deuel,46039,2025,gross_vehicle_weight,50
+Deuel,46039,2025,irp_with_prorate_plate,5
+Deuel,46039,2025,motorcycle,24
+Deuel,46039,2025,off_road,57
+Deuel,46039,2025,passenger_low_speed,165
+Deuel,46039,2025,pickup_suv_van,648
+Deuel,46039,2025,recreational,6
+Deuel,46039,2025,snowmobile,13
+Deuel,46039,2025,titles,104
+Deuel,46039,2025,trailer,281
+Deuel,46039,2025,truck,57
 Deuel,46039,2024,boat,547
 Deuel,46039,2024,bus,11
 Deuel,46039,2024,commercial_plate,381
@@ -2734,11 +3209,16 @@ Deuel,46039,2022,bus,5
 Deuel,46039,2022,commercial_plate,435
 Deuel,46039,2022,electric,13
 Deuel,46039,2022,gross_vehicle_weight,483
+Deuel,46039,2022,gross_vehicle_weight,489
 Deuel,46039,2022,irp_with_prorate_plate,90
 Deuel,46039,2022,motorcycle,334
+Deuel,46039,2022,motorcycle,333
 Deuel,46039,2022,off_road,460
+Deuel,46039,2022,off_road,461
 Deuel,46039,2022,passenger_low_speed,1587
+Deuel,46039,2022,passenger_low_speed,1589
 Deuel,46039,2022,pickup_suv_van,4822
+Deuel,46039,2022,pickup_suv_van,4828
 Deuel,46039,2022,recreational,44
 Deuel,46039,2022,snowmobile,124
 Deuel,46039,2022,titles,2151
@@ -2749,6 +3229,7 @@ Deuel,46039,2021,bus,5
 Deuel,46039,2021,commercial_plate,519
 Deuel,46039,2021,electric,13
 Deuel,46039,2021,gross_vehicle_weight,490
+Deuel,46039,2021,gross_vehicle_weight,494
 Deuel,46039,2021,irp_with_prorate_plate,109
 Deuel,46039,2021,motorcycle,308
 Deuel,46039,2021,off_road,420
@@ -2764,6 +3245,7 @@ Deuel,46039,2020,bus,7
 Deuel,46039,2020,commercial_plate,504
 Deuel,46039,2020,electric,6
 Deuel,46039,2020,gross_vehicle_weight,481
+Deuel,46039,2020,gross_vehicle_weight,486
 Deuel,46039,2020,irp_with_prorate_plate,114
 Deuel,46039,2020,motorcycle,293
 Deuel,46039,2020,off_road,378
@@ -2779,6 +3261,7 @@ Deuel,46039,2019,bus,10
 Deuel,46039,2019,commercial_plate,402
 Deuel,46039,2019,electric,3
 Deuel,46039,2019,gross_vehicle_weight,485
+Deuel,46039,2019,gross_vehicle_weight,487
 Deuel,46039,2019,irp_with_prorate_plate,142
 Deuel,46039,2019,motorcycle,312
 Deuel,46039,2019,off_road,360
@@ -2794,6 +3277,7 @@ Deuel,46039,2018,bus,13
 Deuel,46039,2018,commercial_plate,383
 Deuel,46039,2018,electric,3
 Deuel,46039,2018,gross_vehicle_weight,522
+Deuel,46039,2018,gross_vehicle_weight,523
 Deuel,46039,2018,irp_with_prorate_plate,143
 Deuel,46039,2018,motorcycle,314
 Deuel,46039,2018,off_road,350
@@ -2849,6 +3333,21 @@ Deuel,46039,2015,snowmobile,148
 Deuel,46039,2015,titles,2342
 Deuel,46039,2015,trailer,2503
 Deuel,46039,2015,truck,731
+Dewey,46041,2025,boat,13
+Dewey,46041,2025,bus,0
+Dewey,46041,2025,commercial_plate,15
+Dewey,46041,2025,electric,2
+Dewey,46041,2025,gross_vehicle_weight,67
+Dewey,46041,2025,irp_with_prorate_plate,1
+Dewey,46041,2025,motorcycle,8
+Dewey,46041,2025,off_road,10
+Dewey,46041,2025,passenger_low_speed,111
+Dewey,46041,2025,pickup_suv_van,413
+Dewey,46041,2025,recreational,0
+Dewey,46041,2025,snowmobile,3
+Dewey,46041,2025,titles,84
+Dewey,46041,2025,trailer,146
+Dewey,46041,2025,truck,54
 Dewey,46041,2024,boat,131
 Dewey,46041,2024,bus,4
 Dewey,46041,2024,commercial_plate,98
@@ -2884,21 +3383,27 @@ Dewey,46041,2022,bus,3
 Dewey,46041,2022,commercial_plate,105
 Dewey,46041,2022,electric,1
 Dewey,46041,2022,gross_vehicle_weight,460
+Dewey,46041,2022,gross_vehicle_weight,461
 Dewey,46041,2022,irp_with_prorate_plate,16
 Dewey,46041,2022,motorcycle,147
+Dewey,46041,2022,motorcycle,148
 Dewey,46041,2022,off_road,92
 Dewey,46041,2022,passenger_low_speed,1400
+Dewey,46041,2022,passenger_low_speed,1401
 Dewey,46041,2022,pickup_suv_van,3898
+Dewey,46041,2022,pickup_suv_van,3912
 Dewey,46041,2022,recreational,20
 Dewey,46041,2022,snowmobile,40
 Dewey,46041,2022,titles,1811
 Dewey,46041,2022,trailer,1412
 Dewey,46041,2022,truck,349
+Dewey,46041,2022,truck,348
 Dewey,46041,2021,boat,138
 Dewey,46041,2021,bus,4
 Dewey,46041,2021,commercial_plate,120
 Dewey,46041,2021,electric,0
 Dewey,46041,2021,gross_vehicle_weight,485
+Dewey,46041,2021,gross_vehicle_weight,484
 Dewey,46041,2021,irp_with_prorate_plate,26
 Dewey,46041,2021,motorcycle,141
 Dewey,46041,2021,off_road,85
@@ -2914,6 +3419,7 @@ Dewey,46041,2020,bus,1
 Dewey,46041,2020,commercial_plate,115
 Dewey,46041,2020,electric,0
 Dewey,46041,2020,gross_vehicle_weight,461
+Dewey,46041,2020,gross_vehicle_weight,460
 Dewey,46041,2020,irp_with_prorate_plate,34
 Dewey,46041,2020,motorcycle,135
 Dewey,46041,2020,off_road,76
@@ -2929,6 +3435,7 @@ Dewey,46041,2019,bus,5
 Dewey,46041,2019,commercial_plate,111
 Dewey,46041,2019,electric,0
 Dewey,46041,2019,gross_vehicle_weight,459
+Dewey,46041,2019,gross_vehicle_weight,458
 Dewey,46041,2019,irp_with_prorate_plate,24
 Dewey,46041,2019,motorcycle,133
 Dewey,46041,2019,off_road,68
@@ -2999,6 +3506,21 @@ Dewey,46041,2015,snowmobile,29
 Dewey,46041,2015,titles,2569
 Dewey,46041,2015,trailer,1459
 Dewey,46041,2015,truck,429
+Douglas,46043,2025,boat,29
+Douglas,46043,2025,bus,0
+Douglas,46043,2025,commercial_plate,29
+Douglas,46043,2025,electric,0
+Douglas,46043,2025,gross_vehicle_weight,35
+Douglas,46043,2025,irp_with_prorate_plate,2
+Douglas,46043,2025,motorcycle,13
+Douglas,46043,2025,off_road,43
+Douglas,46043,2025,passenger_low_speed,108
+Douglas,46043,2025,pickup_suv_van,446
+Douglas,46043,2025,recreational,1
+Douglas,46043,2025,snowmobile,10
+Douglas,46043,2025,titles,58
+Douglas,46043,2025,trailer,191
+Douglas,46043,2025,truck,46
 Douglas,46043,2024,boat,243
 Douglas,46043,2024,bus,4
 Douglas,46043,2024,commercial_plate,242
@@ -3034,11 +3556,15 @@ Douglas,46043,2022,bus,4
 Douglas,46043,2022,commercial_plate,234
 Douglas,46043,2022,electric,5
 Douglas,46043,2022,gross_vehicle_weight,389
+Douglas,46043,2022,gross_vehicle_weight,393
 Douglas,46043,2022,irp_with_prorate_plate,15
 Douglas,46043,2022,motorcycle,155
+Douglas,46043,2022,motorcycle,154
 Douglas,46043,2022,off_road,355
 Douglas,46043,2022,passenger_low_speed,1063
+Douglas,46043,2022,passenger_low_speed,1062
 Douglas,46043,2022,pickup_suv_van,3199
+Douglas,46043,2022,pickup_suv_van,3200
 Douglas,46043,2022,recreational,26
 Douglas,46043,2022,snowmobile,38
 Douglas,46043,2022,titles,1137
@@ -3049,6 +3575,7 @@ Douglas,46043,2021,bus,3
 Douglas,46043,2021,commercial_plate,243
 Douglas,46043,2021,electric,4
 Douglas,46043,2021,gross_vehicle_weight,372
+Douglas,46043,2021,gross_vehicle_weight,376
 Douglas,46043,2021,irp_with_prorate_plate,15
 Douglas,46043,2021,motorcycle,171
 Douglas,46043,2021,off_road,319
@@ -3064,6 +3591,7 @@ Douglas,46043,2020,bus,3
 Douglas,46043,2020,commercial_plate,250
 Douglas,46043,2020,electric,1
 Douglas,46043,2020,gross_vehicle_weight,372
+Douglas,46043,2020,gross_vehicle_weight,373
 Douglas,46043,2020,irp_with_prorate_plate,14
 Douglas,46043,2020,motorcycle,183
 Douglas,46043,2020,off_road,321
@@ -3079,6 +3607,7 @@ Douglas,46043,2019,bus,3
 Douglas,46043,2019,commercial_plate,247
 Douglas,46043,2019,electric,0
 Douglas,46043,2019,gross_vehicle_weight,366
+Douglas,46043,2019,gross_vehicle_weight,368
 Douglas,46043,2019,irp_with_prorate_plate,20
 Douglas,46043,2019,motorcycle,172
 Douglas,46043,2019,off_road,284
@@ -3094,6 +3623,7 @@ Douglas,46043,2018,bus,6
 Douglas,46043,2018,commercial_plate,276
 Douglas,46043,2018,electric,0
 Douglas,46043,2018,gross_vehicle_weight,410
+Douglas,46043,2018,gross_vehicle_weight,411
 Douglas,46043,2018,irp_with_prorate_plate,19
 Douglas,46043,2018,motorcycle,162
 Douglas,46043,2018,off_road,261
@@ -3149,6 +3679,21 @@ Douglas,46043,2015,snowmobile,70
 Douglas,46043,2015,titles,1458
 Douglas,46043,2015,trailer,1776
 Douglas,46043,2015,truck,541
+Edmunds,46045,2025,boat,57
+Edmunds,46045,2025,bus,0
+Edmunds,46045,2025,commercial_plate,38
+Edmunds,46045,2025,electric,0
+Edmunds,46045,2025,gross_vehicle_weight,108
+Edmunds,46045,2025,irp_with_prorate_plate,1
+Edmunds,46045,2025,motorcycle,51
+Edmunds,46045,2025,off_road,61
+Edmunds,46045,2025,passenger_low_speed,121
+Edmunds,46045,2025,pickup_suv_van,604
+Edmunds,46045,2025,recreational,5
+Edmunds,46045,2025,snowmobile,19
+Edmunds,46045,2025,titles,120
+Edmunds,46045,2025,trailer,301
+Edmunds,46045,2025,truck,105
 Edmunds,46045,2024,boat,561
 Edmunds,46045,2024,bus,9
 Edmunds,46045,2024,commercial_plate,221
@@ -3184,11 +3729,15 @@ Edmunds,46045,2022,bus,8
 Edmunds,46045,2022,commercial_plate,224
 Edmunds,46045,2022,electric,3
 Edmunds,46045,2022,gross_vehicle_weight,718
+Edmunds,46045,2022,gross_vehicle_weight,723
 Edmunds,46045,2022,irp_with_prorate_plate,33
 Edmunds,46045,2022,motorcycle,288
+Edmunds,46045,2022,motorcycle,290
 Edmunds,46045,2022,off_road,385
 Edmunds,46045,2022,passenger_low_speed,1190
+Edmunds,46045,2022,passenger_low_speed,1191
 Edmunds,46045,2022,pickup_suv_van,4240
+Edmunds,46045,2022,pickup_suv_van,4245
 Edmunds,46045,2022,recreational,39
 Edmunds,46045,2022,snowmobile,120
 Edmunds,46045,2022,titles,1657
@@ -3199,6 +3748,7 @@ Edmunds,46045,2021,bus,9
 Edmunds,46045,2021,commercial_plate,234
 Edmunds,46045,2021,electric,3
 Edmunds,46045,2021,gross_vehicle_weight,752
+Edmunds,46045,2021,gross_vehicle_weight,754
 Edmunds,46045,2021,irp_with_prorate_plate,40
 Edmunds,46045,2021,motorcycle,286
 Edmunds,46045,2021,off_road,392
@@ -3214,6 +3764,7 @@ Edmunds,46045,2020,bus,11
 Edmunds,46045,2020,commercial_plate,240
 Edmunds,46045,2020,electric,4
 Edmunds,46045,2020,gross_vehicle_weight,756
+Edmunds,46045,2020,gross_vehicle_weight,758
 Edmunds,46045,2020,irp_with_prorate_plate,33
 Edmunds,46045,2020,motorcycle,292
 Edmunds,46045,2020,off_road,356
@@ -3229,6 +3780,7 @@ Edmunds,46045,2019,bus,13
 Edmunds,46045,2019,commercial_plate,251
 Edmunds,46045,2019,electric,2
 Edmunds,46045,2019,gross_vehicle_weight,737
+Edmunds,46045,2019,gross_vehicle_weight,741
 Edmunds,46045,2019,irp_with_prorate_plate,40
 Edmunds,46045,2019,motorcycle,289
 Edmunds,46045,2019,off_road,354
@@ -3244,6 +3796,7 @@ Edmunds,46045,2018,bus,16
 Edmunds,46045,2018,commercial_plate,248
 Edmunds,46045,2018,electric,2
 Edmunds,46045,2018,gross_vehicle_weight,752
+Edmunds,46045,2018,gross_vehicle_weight,753
 Edmunds,46045,2018,irp_with_prorate_plate,28
 Edmunds,46045,2018,motorcycle,272
 Edmunds,46045,2018,off_road,341
@@ -3299,6 +3852,21 @@ Edmunds,46045,2015,snowmobile,161
 Edmunds,46045,2015,titles,2044
 Edmunds,46045,2015,trailer,2659
 Edmunds,46045,2015,truck,947
+Fall River,46047,2025,boat,67
+Fall River,46047,2025,bus,0
+Fall River,46047,2025,commercial_plate,19
+Fall River,46047,2025,electric,3
+Fall River,46047,2025,gross_vehicle_weight,107
+Fall River,46047,2025,irp_with_prorate_plate,0
+Fall River,46047,2025,motorcycle,70
+Fall River,46047,2025,off_road,81
+Fall River,46047,2025,passenger_low_speed,261
+Fall River,46047,2025,pickup_suv_van,852
+Fall River,46047,2025,recreational,12
+Fall River,46047,2025,snowmobile,11
+Fall River,46047,2025,titles,192
+Fall River,46047,2025,trailer,321
+Fall River,46047,2025,truck,23
 Fall River,46047,2024,boat,760
 Fall River,46047,2024,bus,5
 Fall River,46047,2024,commercial_plate,254
@@ -3334,21 +3902,28 @@ Fall River,46047,2022,bus,7
 Fall River,46047,2022,commercial_plate,289
 Fall River,46047,2022,electric,13
 Fall River,46047,2022,gross_vehicle_weight,1122
+Fall River,46047,2022,gross_vehicle_weight,1121
 Fall River,46047,2022,irp_with_prorate_plate,9
 Fall River,46047,2022,motorcycle,918
 Fall River,46047,2022,off_road,1043
+Fall River,46047,2022,off_road,1044
 Fall River,46047,2022,passenger_low_speed,3030
+Fall River,46047,2022,passenger_low_speed,3032
 Fall River,46047,2022,pickup_suv_van,8135
+Fall River,46047,2022,pickup_suv_van,8145
 Fall River,46047,2022,recreational,164
+Fall River,46047,2022,recreational,163
 Fall River,46047,2022,snowmobile,42
 Fall River,46047,2022,titles,4049
 Fall River,46047,2022,trailer,3723
+Fall River,46047,2022,trailer,3722
 Fall River,46047,2022,truck,415
 Fall River,46047,2021,boat,784
 Fall River,46047,2021,bus,5
 Fall River,46047,2021,commercial_plate,303
 Fall River,46047,2021,electric,10
 Fall River,46047,2021,gross_vehicle_weight,1069
+Fall River,46047,2021,gross_vehicle_weight,1073
 Fall River,46047,2021,irp_with_prorate_plate,12
 Fall River,46047,2021,motorcycle,936
 Fall River,46047,2021,off_road,997
@@ -3370,15 +3945,18 @@ Fall River,46047,2020,off_road,854
 Fall River,46047,2020,passenger_low_speed,3073
 Fall River,46047,2020,pickup_suv_van,7591
 Fall River,46047,2020,recreational,144
+Fall River,46047,2020,recreational,145
 Fall River,46047,2020,snowmobile,64
 Fall River,46047,2020,titles,4153
 Fall River,46047,2020,trailer,3614
 Fall River,46047,2020,truck,410
+Fall River,46047,2020,truck,409
 Fall River,46047,2019,boat,707
 Fall River,46047,2019,bus,17
 Fall River,46047,2019,commercial_plate,288
 Fall River,46047,2019,electric,4
 Fall River,46047,2019,gross_vehicle_weight,806
+Fall River,46047,2019,gross_vehicle_weight,807
 Fall River,46047,2019,irp_with_prorate_plate,14
 Fall River,46047,2019,motorcycle,787
 Fall River,46047,2019,off_road,733
@@ -3394,6 +3972,7 @@ Fall River,46047,2018,bus,8
 Fall River,46047,2018,commercial_plate,309
 Fall River,46047,2018,electric,6
 Fall River,46047,2018,gross_vehicle_weight,756
+Fall River,46047,2018,gross_vehicle_weight,762
 Fall River,46047,2018,irp_with_prorate_plate,17
 Fall River,46047,2018,motorcycle,742
 Fall River,46047,2018,off_road,676
@@ -3449,6 +4028,21 @@ Fall River,46047,2015,snowmobile,29
 Fall River,46047,2015,titles,3767
 Fall River,46047,2015,trailer,3195
 Fall River,46047,2015,truck,437
+Faulk,46049,2025,boat,17
+Faulk,46049,2025,bus,1
+Faulk,46049,2025,commercial_plate,6
+Faulk,46049,2025,electric,1
+Faulk,46049,2025,gross_vehicle_weight,46
+Faulk,46049,2025,irp_with_prorate_plate,1
+Faulk,46049,2025,motorcycle,8
+Faulk,46049,2025,off_road,18
+Faulk,46049,2025,passenger_low_speed,68
+Faulk,46049,2025,pickup_suv_van,338
+Faulk,46049,2025,recreational,2
+Faulk,46049,2025,snowmobile,9
+Faulk,46049,2025,titles,47
+Faulk,46049,2025,trailer,150
+Faulk,46049,2025,truck,47
 Faulk,46049,2024,boat,163
 Faulk,46049,2024,bus,11
 Faulk,46049,2024,commercial_plate,88
@@ -3488,7 +4082,9 @@ Faulk,46049,2022,irp_with_prorate_plate,11
 Faulk,46049,2022,motorcycle,81
 Faulk,46049,2022,off_road,164
 Faulk,46049,2022,passenger_low_speed,619
+Faulk,46049,2022,passenger_low_speed,620
 Faulk,46049,2022,pickup_suv_van,2233
+Faulk,46049,2022,pickup_suv_van,2235
 Faulk,46049,2022,recreational,26
 Faulk,46049,2022,snowmobile,58
 Faulk,46049,2022,titles,915
@@ -3599,6 +4195,21 @@ Faulk,46049,2015,snowmobile,80
 Faulk,46049,2015,titles,1054
 Faulk,46049,2015,trailer,1159
 Faulk,46049,2015,truck,473
+Grant,46051,2025,boat,76
+Grant,46051,2025,bus,1
+Grant,46051,2025,commercial_plate,47
+Grant,46051,2025,electric,5
+Grant,46051,2025,gross_vehicle_weight,50
+Grant,46051,2025,irp_with_prorate_plate,3
+Grant,46051,2025,motorcycle,31
+Grant,46051,2025,off_road,60
+Grant,46051,2025,passenger_low_speed,198
+Grant,46051,2025,pickup_suv_van,820
+Grant,46051,2025,recreational,3
+Grant,46051,2025,snowmobile,33
+Grant,46051,2025,titles,140
+Grant,46051,2025,trailer,347
+Grant,46051,2025,truck,64
 Grant,46051,2024,boat,815
 Grant,46051,2024,bus,2
 Grant,46051,2024,commercial_plate,521
@@ -3634,21 +4245,28 @@ Grant,46051,2022,bus,7
 Grant,46051,2022,commercial_plate,499
 Grant,46051,2022,electric,8
 Grant,46051,2022,gross_vehicle_weight,509
+Grant,46051,2022,gross_vehicle_weight,513
 Grant,46051,2022,irp_with_prorate_plate,130
 Grant,46051,2022,motorcycle,461
+Grant,46051,2022,motorcycle,462
 Grant,46051,2022,off_road,513
+Grant,46051,2022,off_road,512
 Grant,46051,2022,passenger_low_speed,2235
+Grant,46051,2022,passenger_low_speed,2238
 Grant,46051,2022,pickup_suv_van,7163
+Grant,46051,2022,pickup_suv_van,7169
 Grant,46051,2022,recreational,48
 Grant,46051,2022,snowmobile,291
 Grant,46051,2022,titles,2909
 Grant,46051,2022,trailer,3563
+Grant,46051,2022,trailer,3564
 Grant,46051,2022,truck,735
 Grant,46051,2021,boat,838
 Grant,46051,2021,bus,3
 Grant,46051,2021,commercial_plate,543
 Grant,46051,2021,electric,6
 Grant,46051,2021,gross_vehicle_weight,566
+Grant,46051,2021,gross_vehicle_weight,570
 Grant,46051,2021,irp_with_prorate_plate,110
 Grant,46051,2021,motorcycle,495
 Grant,46051,2021,off_road,477
@@ -3664,6 +4282,7 @@ Grant,46051,2020,bus,2
 Grant,46051,2020,commercial_plate,565
 Grant,46051,2020,electric,6
 Grant,46051,2020,gross_vehicle_weight,561
+Grant,46051,2020,gross_vehicle_weight,562
 Grant,46051,2020,irp_with_prorate_plate,107
 Grant,46051,2020,motorcycle,480
 Grant,46051,2020,off_road,457
@@ -3679,6 +4298,7 @@ Grant,46051,2019,bus,2
 Grant,46051,2019,commercial_plate,603
 Grant,46051,2019,electric,4
 Grant,46051,2019,gross_vehicle_weight,563
+Grant,46051,2019,gross_vehicle_weight,565
 Grant,46051,2019,irp_with_prorate_plate,117
 Grant,46051,2019,motorcycle,477
 Grant,46051,2019,off_road,418
@@ -3694,6 +4314,7 @@ Grant,46051,2018,bus,13
 Grant,46051,2018,commercial_plate,627
 Grant,46051,2018,electric,3
 Grant,46051,2018,gross_vehicle_weight,580
+Grant,46051,2018,gross_vehicle_weight,584
 Grant,46051,2018,irp_with_prorate_plate,118
 Grant,46051,2018,motorcycle,494
 Grant,46051,2018,off_road,408
@@ -3749,6 +4370,21 @@ Grant,46051,2015,snowmobile,291
 Grant,46051,2015,titles,3462
 Grant,46051,2015,trailer,3095
 Grant,46051,2015,truck,810
+Gregory,46053,2025,boat,39
+Gregory,46053,2025,bus,0
+Gregory,46053,2025,commercial_plate,11
+Gregory,46053,2025,electric,0
+Gregory,46053,2025,gross_vehicle_weight,26
+Gregory,46053,2025,irp_with_prorate_plate,10
+Gregory,46053,2025,motorcycle,11
+Gregory,46053,2025,off_road,45
+Gregory,46053,2025,passenger_low_speed,171
+Gregory,46053,2025,pickup_suv_van,559
+Gregory,46053,2025,recreational,3
+Gregory,46053,2025,snowmobile,0
+Gregory,46053,2025,titles,114
+Gregory,46053,2025,trailer,219
+Gregory,46053,2025,truck,33
 Gregory,46053,2024,boat,457
 Gregory,46053,2024,bus,21
 Gregory,46053,2024,commercial_plate,333
@@ -3784,21 +4420,28 @@ Gregory,46053,2022,bus,21
 Gregory,46053,2022,commercial_plate,360
 Gregory,46053,2022,electric,8
 Gregory,46053,2022,gross_vehicle_weight,436
+Gregory,46053,2022,gross_vehicle_weight,438
 Gregory,46053,2022,irp_with_prorate_plate,24
 Gregory,46053,2022,motorcycle,262
+Gregory,46053,2022,motorcycle,261
 Gregory,46053,2022,off_road,412
+Gregory,46053,2022,off_road,413
 Gregory,46053,2022,passenger_low_speed,1566
+Gregory,46053,2022,passenger_low_speed,1565
 Gregory,46053,2022,pickup_suv_van,5163
+Gregory,46053,2022,pickup_suv_van,5169
 Gregory,46053,2022,recreational,42
 Gregory,46053,2022,snowmobile,26
 Gregory,46053,2022,titles,1890
 Gregory,46053,2022,trailer,2442
+Gregory,46053,2022,trailer,2441
 Gregory,46053,2022,truck,551
 Gregory,46053,2021,boat,473
 Gregory,46053,2021,bus,26
 Gregory,46053,2021,commercial_plate,363
 Gregory,46053,2021,electric,5
 Gregory,46053,2021,gross_vehicle_weight,435
+Gregory,46053,2021,gross_vehicle_weight,437
 Gregory,46053,2021,irp_with_prorate_plate,36
 Gregory,46053,2021,motorcycle,237
 Gregory,46053,2021,off_road,412
@@ -3814,6 +4457,7 @@ Gregory,46053,2020,bus,19
 Gregory,46053,2020,commercial_plate,342
 Gregory,46053,2020,electric,2
 Gregory,46053,2020,gross_vehicle_weight,441
+Gregory,46053,2020,gross_vehicle_weight,444
 Gregory,46053,2020,irp_with_prorate_plate,40
 Gregory,46053,2020,motorcycle,238
 Gregory,46053,2020,off_road,353
@@ -3829,6 +4473,7 @@ Gregory,46053,2019,bus,28
 Gregory,46053,2019,commercial_plate,351
 Gregory,46053,2019,electric,1
 Gregory,46053,2019,gross_vehicle_weight,427
+Gregory,46053,2019,gross_vehicle_weight,428
 Gregory,46053,2019,irp_with_prorate_plate,43
 Gregory,46053,2019,motorcycle,222
 Gregory,46053,2019,off_road,324
@@ -3844,6 +4489,7 @@ Gregory,46053,2018,bus,27
 Gregory,46053,2018,commercial_plate,363
 Gregory,46053,2018,electric,2
 Gregory,46053,2018,gross_vehicle_weight,460
+Gregory,46053,2018,gross_vehicle_weight,462
 Gregory,46053,2018,irp_with_prorate_plate,45
 Gregory,46053,2018,motorcycle,227
 Gregory,46053,2018,off_road,301
@@ -3899,6 +4545,21 @@ Gregory,46053,2015,snowmobile,37
 Gregory,46053,2015,titles,2212
 Gregory,46053,2015,trailer,2316
 Gregory,46053,2015,truck,640
+Haakon,46055,2025,boat,3
+Haakon,46055,2025,bus,0
+Haakon,46055,2025,commercial_plate,8
+Haakon,46055,2025,electric,0
+Haakon,46055,2025,gross_vehicle_weight,25
+Haakon,46055,2025,irp_with_prorate_plate,3
+Haakon,46055,2025,motorcycle,3
+Haakon,46055,2025,off_road,18
+Haakon,46055,2025,passenger_low_speed,48
+Haakon,46055,2025,pickup_suv_van,230
+Haakon,46055,2025,recreational,0
+Haakon,46055,2025,snowmobile,8
+Haakon,46055,2025,titles,48
+Haakon,46055,2025,trailer,108
+Haakon,46055,2025,truck,25
 Haakon,46055,2024,boat,94
 Haakon,46055,2024,bus,0
 Haakon,46055,2024,commercial_plate,119
@@ -3934,11 +4595,13 @@ Haakon,46055,2022,bus,5
 Haakon,46055,2022,commercial_plate,115
 Haakon,46055,2022,electric,4
 Haakon,46055,2022,gross_vehicle_weight,372
+Haakon,46055,2022,gross_vehicle_weight,380
 Haakon,46055,2022,irp_with_prorate_plate,10
 Haakon,46055,2022,motorcycle,109
 Haakon,46055,2022,off_road,153
 Haakon,46055,2022,passenger_low_speed,668
 Haakon,46055,2022,pickup_suv_van,2362
+Haakon,46055,2022,pickup_suv_van,2367
 Haakon,46055,2022,recreational,14
 Haakon,46055,2022,snowmobile,36
 Haakon,46055,2022,titles,831
@@ -3949,6 +4612,7 @@ Haakon,46055,2021,bus,2
 Haakon,46055,2021,commercial_plate,102
 Haakon,46055,2021,electric,3
 Haakon,46055,2021,gross_vehicle_weight,355
+Haakon,46055,2021,gross_vehicle_weight,363
 Haakon,46055,2021,irp_with_prorate_plate,10
 Haakon,46055,2021,motorcycle,109
 Haakon,46055,2021,off_road,164
@@ -3964,6 +4628,7 @@ Haakon,46055,2020,bus,2
 Haakon,46055,2020,commercial_plate,93
 Haakon,46055,2020,electric,3
 Haakon,46055,2020,gross_vehicle_weight,358
+Haakon,46055,2020,gross_vehicle_weight,367
 Haakon,46055,2020,irp_with_prorate_plate,8
 Haakon,46055,2020,motorcycle,116
 Haakon,46055,2020,off_road,157
@@ -3979,6 +4644,7 @@ Haakon,46055,2019,bus,4
 Haakon,46055,2019,commercial_plate,102
 Haakon,46055,2019,electric,3
 Haakon,46055,2019,gross_vehicle_weight,332
+Haakon,46055,2019,gross_vehicle_weight,339
 Haakon,46055,2019,irp_with_prorate_plate,10
 Haakon,46055,2019,motorcycle,109
 Haakon,46055,2019,off_road,123
@@ -3994,6 +4660,7 @@ Haakon,46055,2018,bus,4
 Haakon,46055,2018,commercial_plate,94
 Haakon,46055,2018,electric,2
 Haakon,46055,2018,gross_vehicle_weight,303
+Haakon,46055,2018,gross_vehicle_weight,307
 Haakon,46055,2018,irp_with_prorate_plate,10
 Haakon,46055,2018,motorcycle,124
 Haakon,46055,2018,off_road,137
@@ -4049,6 +4716,21 @@ Haakon,46055,2015,snowmobile,57
 Haakon,46055,2015,titles,1099
 Haakon,46055,2015,trailer,1298
 Haakon,46055,2015,truck,352
+Hamlin,46057,2025,boat,88
+Hamlin,46057,2025,bus,2
+Hamlin,46057,2025,commercial_plate,40
+Hamlin,46057,2025,electric,2
+Hamlin,46057,2025,gross_vehicle_weight,47
+Hamlin,46057,2025,irp_with_prorate_plate,14
+Hamlin,46057,2025,motorcycle,20
+Hamlin,46057,2025,off_road,63
+Hamlin,46057,2025,passenger_low_speed,219
+Hamlin,46057,2025,pickup_suv_van,662
+Hamlin,46057,2025,recreational,6
+Hamlin,46057,2025,snowmobile,32
+Hamlin,46057,2025,titles,132
+Hamlin,46057,2025,trailer,311
+Hamlin,46057,2025,truck,70
 Hamlin,46057,2024,boat,831
 Hamlin,46057,2024,bus,11
 Hamlin,46057,2024,commercial_plate,698
@@ -4084,26 +4766,34 @@ Hamlin,46057,2022,bus,9
 Hamlin,46057,2022,commercial_plate,730
 Hamlin,46057,2022,electric,14
 Hamlin,46057,2022,gross_vehicle_weight,626
+Hamlin,46057,2022,gross_vehicle_weight,635
 Hamlin,46057,2022,irp_with_prorate_plate,57
 Hamlin,46057,2022,motorcycle,277
+Hamlin,46057,2022,motorcycle,276
 Hamlin,46057,2022,off_road,606
+Hamlin,46057,2022,off_road,607
 Hamlin,46057,2022,passenger_low_speed,2083
+Hamlin,46057,2022,passenger_low_speed,2084
 Hamlin,46057,2022,pickup_suv_van,5860
+Hamlin,46057,2022,pickup_suv_van,5865
 Hamlin,46057,2022,recreational,72
 Hamlin,46057,2022,snowmobile,214
 Hamlin,46057,2022,titles,2600
 Hamlin,46057,2022,trailer,3207
+Hamlin,46057,2022,trailer,3206
 Hamlin,46057,2022,truck,926
 Hamlin,46057,2021,boat,905
 Hamlin,46057,2021,bus,7
 Hamlin,46057,2021,commercial_plate,691
 Hamlin,46057,2021,electric,9
 Hamlin,46057,2021,gross_vehicle_weight,638
+Hamlin,46057,2021,gross_vehicle_weight,644
 Hamlin,46057,2021,irp_with_prorate_plate,56
 Hamlin,46057,2021,motorcycle,291
 Hamlin,46057,2021,off_road,603
 Hamlin,46057,2021,passenger_low_speed,2195
 Hamlin,46057,2021,pickup_suv_van,5742
+Hamlin,46057,2021,pickup_suv_van,5741
 Hamlin,46057,2021,recreational,78
 Hamlin,46057,2021,snowmobile,199
 Hamlin,46057,2021,titles,3135
@@ -4114,6 +4804,7 @@ Hamlin,46057,2020,bus,5
 Hamlin,46057,2020,commercial_plate,653
 Hamlin,46057,2020,electric,6
 Hamlin,46057,2020,gross_vehicle_weight,638
+Hamlin,46057,2020,gross_vehicle_weight,646
 Hamlin,46057,2020,irp_with_prorate_plate,56
 Hamlin,46057,2020,motorcycle,271
 Hamlin,46057,2020,off_road,577
@@ -4129,6 +4820,7 @@ Hamlin,46057,2019,bus,15
 Hamlin,46057,2019,commercial_plate,650
 Hamlin,46057,2019,electric,5
 Hamlin,46057,2019,gross_vehicle_weight,687
+Hamlin,46057,2019,gross_vehicle_weight,692
 Hamlin,46057,2019,irp_with_prorate_plate,53
 Hamlin,46057,2019,motorcycle,295
 Hamlin,46057,2019,off_road,525
@@ -4144,6 +4836,7 @@ Hamlin,46057,2018,bus,23
 Hamlin,46057,2018,commercial_plate,588
 Hamlin,46057,2018,electric,2
 Hamlin,46057,2018,gross_vehicle_weight,684
+Hamlin,46057,2018,gross_vehicle_weight,690
 Hamlin,46057,2018,irp_with_prorate_plate,56
 Hamlin,46057,2018,motorcycle,266
 Hamlin,46057,2018,off_road,524
@@ -4199,6 +4892,21 @@ Hamlin,46057,2015,snowmobile,307
 Hamlin,46057,2015,titles,2640
 Hamlin,46057,2015,trailer,2857
 Hamlin,46057,2015,truck,927
+Hand,46059,2025,boat,20
+Hand,46059,2025,bus,0
+Hand,46059,2025,commercial_plate,43
+Hand,46059,2025,electric,1
+Hand,46059,2025,gross_vehicle_weight,83
+Hand,46059,2025,irp_with_prorate_plate,0
+Hand,46059,2025,motorcycle,34
+Hand,46059,2025,off_road,51
+Hand,46059,2025,passenger_low_speed,101
+Hand,46059,2025,pickup_suv_van,507
+Hand,46059,2025,recreational,2
+Hand,46059,2025,snowmobile,26
+Hand,46059,2025,titles,85
+Hand,46059,2025,trailer,268
+Hand,46059,2025,truck,107
 Hand,46059,2024,boat,263
 Hand,46059,2024,bus,9
 Hand,46059,2024,commercial_plate,233
@@ -4234,11 +4942,14 @@ Hand,46059,2022,bus,9
 Hand,46059,2022,commercial_plate,201
 Hand,46059,2022,electric,2
 Hand,46059,2022,gross_vehicle_weight,639
+Hand,46059,2022,gross_vehicle_weight,647
 Hand,46059,2022,irp_with_prorate_plate,14
 Hand,46059,2022,motorcycle,165
 Hand,46059,2022,off_road,351
 Hand,46059,2022,passenger_low_speed,997
+Hand,46059,2022,passenger_low_speed,996
 Hand,46059,2022,pickup_suv_van,3729
+Hand,46059,2022,pickup_suv_van,3731
 Hand,46059,2022,recreational,29
 Hand,46059,2022,snowmobile,87
 Hand,46059,2022,titles,1503
@@ -4249,6 +4960,7 @@ Hand,46059,2021,bus,9
 Hand,46059,2021,commercial_plate,208
 Hand,46059,2021,electric,3
 Hand,46059,2021,gross_vehicle_weight,656
+Hand,46059,2021,gross_vehicle_weight,663
 Hand,46059,2021,irp_with_prorate_plate,14
 Hand,46059,2021,motorcycle,185
 Hand,46059,2021,off_road,325
@@ -4264,6 +4976,7 @@ Hand,46059,2020,bus,9
 Hand,46059,2020,commercial_plate,189
 Hand,46059,2020,electric,1
 Hand,46059,2020,gross_vehicle_weight,691
+Hand,46059,2020,gross_vehicle_weight,699
 Hand,46059,2020,irp_with_prorate_plate,12
 Hand,46059,2020,motorcycle,186
 Hand,46059,2020,off_road,316
@@ -4279,6 +4992,7 @@ Hand,46059,2019,bus,18
 Hand,46059,2019,commercial_plate,181
 Hand,46059,2019,electric,2
 Hand,46059,2019,gross_vehicle_weight,681
+Hand,46059,2019,gross_vehicle_weight,686
 Hand,46059,2019,irp_with_prorate_plate,15
 Hand,46059,2019,motorcycle,184
 Hand,46059,2019,off_road,302
@@ -4294,6 +5008,7 @@ Hand,46059,2018,bus,14
 Hand,46059,2018,commercial_plate,216
 Hand,46059,2018,electric,0
 Hand,46059,2018,gross_vehicle_weight,718
+Hand,46059,2018,gross_vehicle_weight,723
 Hand,46059,2018,irp_with_prorate_plate,16
 Hand,46059,2018,motorcycle,198
 Hand,46059,2018,off_road,297
@@ -4349,6 +5064,21 @@ Hand,46059,2015,snowmobile,158
 Hand,46059,2015,titles,1893
 Hand,46059,2015,trailer,2224
 Hand,46059,2015,truck,852
+Hanson,46061,2025,boat,32
+Hanson,46061,2025,bus,0
+Hanson,46061,2025,commercial_plate,25
+Hanson,46061,2025,electric,1
+Hanson,46061,2025,gross_vehicle_weight,37
+Hanson,46061,2025,irp_with_prorate_plate,5
+Hanson,46061,2025,motorcycle,26
+Hanson,46061,2025,off_road,38
+Hanson,46061,2025,passenger_low_speed,196
+Hanson,46061,2025,pickup_suv_van,485
+Hanson,46061,2025,recreational,25
+Hanson,46061,2025,snowmobile,7
+Hanson,46061,2025,titles,122
+Hanson,46061,2025,trailer,224
+Hanson,46061,2025,truck,48
 Hanson,46061,2024,boat,315
 Hanson,46061,2024,bus,11
 Hanson,46061,2024,commercial_plate,288
@@ -4384,13 +5114,17 @@ Hanson,46061,2022,bus,8
 Hanson,46061,2022,commercial_plate,294
 Hanson,46061,2022,electric,13
 Hanson,46061,2022,gross_vehicle_weight,426
+Hanson,46061,2022,gross_vehicle_weight,431
 Hanson,46061,2022,irp_with_prorate_plate,12
 Hanson,46061,2022,motorcycle,304
+Hanson,46061,2022,motorcycle,305
 Hanson,46061,2022,off_road,389
 Hanson,46061,2022,passenger_low_speed,1691
+Hanson,46061,2022,passenger_low_speed,1693
 Hanson,46061,2022,pickup_suv_van,4318
 Hanson,46061,2022,recreational,334
 Hanson,46061,2022,snowmobile,78
+Hanson,46061,2022,snowmobile,77
 Hanson,46061,2022,titles,2036
 Hanson,46061,2022,trailer,2124
 Hanson,46061,2022,truck,540
@@ -4399,6 +5133,7 @@ Hanson,46061,2021,bus,6
 Hanson,46061,2021,commercial_plate,285
 Hanson,46061,2021,electric,11
 Hanson,46061,2021,gross_vehicle_weight,461
+Hanson,46061,2021,gross_vehicle_weight,466
 Hanson,46061,2021,irp_with_prorate_plate,15
 Hanson,46061,2021,motorcycle,343
 Hanson,46061,2021,off_road,377
@@ -4414,6 +5149,7 @@ Hanson,46061,2020,bus,9
 Hanson,46061,2020,commercial_plate,273
 Hanson,46061,2020,electric,9
 Hanson,46061,2020,gross_vehicle_weight,451
+Hanson,46061,2020,gross_vehicle_weight,459
 Hanson,46061,2020,irp_with_prorate_plate,12
 Hanson,46061,2020,motorcycle,335
 Hanson,46061,2020,off_road,364
@@ -4429,6 +5165,7 @@ Hanson,46061,2019,bus,12
 Hanson,46061,2019,commercial_plate,270
 Hanson,46061,2019,electric,5
 Hanson,46061,2019,gross_vehicle_weight,444
+Hanson,46061,2019,gross_vehicle_weight,445
 Hanson,46061,2019,irp_with_prorate_plate,8
 Hanson,46061,2019,motorcycle,348
 Hanson,46061,2019,off_road,356
@@ -4444,6 +5181,7 @@ Hanson,46061,2018,bus,10
 Hanson,46061,2018,commercial_plate,255
 Hanson,46061,2018,electric,3
 Hanson,46061,2018,gross_vehicle_weight,435
+Hanson,46061,2018,gross_vehicle_weight,434
 Hanson,46061,2018,irp_with_prorate_plate,10
 Hanson,46061,2018,motorcycle,345
 Hanson,46061,2018,off_road,352
@@ -4499,6 +5237,21 @@ Hanson,46061,2015,snowmobile,90
 Hanson,46061,2015,titles,1928
 Hanson,46061,2015,trailer,2098
 Hanson,46061,2015,truck,542
+Harding,46063,2025,boat,10
+Harding,46063,2025,bus,0
+Harding,46063,2025,commercial_plate,2
+Harding,46063,2025,electric,0
+Harding,46063,2025,gross_vehicle_weight,46
+Harding,46063,2025,irp_with_prorate_plate,1
+Harding,46063,2025,motorcycle,9
+Harding,46063,2025,off_road,12
+Harding,46063,2025,passenger_low_speed,34
+Harding,46063,2025,pickup_suv_van,239
+Harding,46063,2025,recreational,2
+Harding,46063,2025,snowmobile,2
+Harding,46063,2025,titles,25
+Harding,46063,2025,trailer,154
+Harding,46063,2025,truck,36
 Harding,46063,2024,boat,74
 Harding,46063,2024,bus,0
 Harding,46063,2024,commercial_plate,106
@@ -4534,21 +5287,25 @@ Harding,46063,2022,bus,1
 Harding,46063,2022,commercial_plate,105
 Harding,46063,2022,electric,1
 Harding,46063,2022,gross_vehicle_weight,353
+Harding,46063,2022,gross_vehicle_weight,357
 Harding,46063,2022,irp_with_prorate_plate,19
 Harding,46063,2022,motorcycle,62
 Harding,46063,2022,off_road,80
 Harding,46063,2022,passenger_low_speed,367
 Harding,46063,2022,pickup_suv_van,1954
+Harding,46063,2022,pickup_suv_van,1956
 Harding,46063,2022,recreational,17
 Harding,46063,2022,snowmobile,19
 Harding,46063,2022,titles,647
 Harding,46063,2022,trailer,1289
 Harding,46063,2022,truck,376
+Harding,46063,2022,truck,377
 Harding,46063,2021,boat,73
 Harding,46063,2021,bus,1
 Harding,46063,2021,commercial_plate,102
 Harding,46063,2021,electric,1
 Harding,46063,2021,gross_vehicle_weight,334
+Harding,46063,2021,gross_vehicle_weight,335
 Harding,46063,2021,irp_with_prorate_plate,18
 Harding,46063,2021,motorcycle,73
 Harding,46063,2021,off_road,79
@@ -4564,6 +5321,7 @@ Harding,46063,2020,bus,0
 Harding,46063,2020,commercial_plate,100
 Harding,46063,2020,electric,0
 Harding,46063,2020,gross_vehicle_weight,330
+Harding,46063,2020,gross_vehicle_weight,329
 Harding,46063,2020,irp_with_prorate_plate,25
 Harding,46063,2020,motorcycle,63
 Harding,46063,2020,off_road,63
@@ -4579,6 +5337,7 @@ Harding,46063,2019,bus,2
 Harding,46063,2019,commercial_plate,106
 Harding,46063,2019,electric,1
 Harding,46063,2019,gross_vehicle_weight,318
+Harding,46063,2019,gross_vehicle_weight,319
 Harding,46063,2019,irp_with_prorate_plate,21
 Harding,46063,2019,motorcycle,50
 Harding,46063,2019,off_road,60
@@ -4594,6 +5353,7 @@ Harding,46063,2018,bus,3
 Harding,46063,2018,commercial_plate,102
 Harding,46063,2018,electric,1
 Harding,46063,2018,gross_vehicle_weight,336
+Harding,46063,2018,gross_vehicle_weight,337
 Harding,46063,2018,irp_with_prorate_plate,16
 Harding,46063,2018,motorcycle,50
 Harding,46063,2018,off_road,57
@@ -4649,6 +5409,21 @@ Harding,46063,2015,snowmobile,38
 Harding,46063,2015,titles,932
 Harding,46063,2015,trailer,1243
 Harding,46063,2015,truck,407
+Hughes,46065,2025,boat,216
+Hughes,46065,2025,bus,0
+Hughes,46065,2025,commercial_plate,212
+Hughes,46065,2025,electric,4
+Hughes,46065,2025,gross_vehicle_weight,60
+Hughes,46065,2025,irp_with_prorate_plate,20
+Hughes,46065,2025,motorcycle,92
+Hughes,46065,2025,off_road,92
+Hughes,46065,2025,passenger_low_speed,604
+Hughes,46065,2025,pickup_suv_van,1912
+Hughes,46065,2025,recreational,10
+Hughes,46065,2025,snowmobile,38
+Hughes,46065,2025,titles,298
+Hughes,46065,2025,trailer,688
+Hughes,46065,2025,truck,114
 Hughes,46065,2024,boat,2239
 Hughes,46065,2024,bus,40
 Hughes,46065,2024,commercial_plate,1193
@@ -4684,21 +5459,30 @@ Hughes,46065,2022,bus,48
 Hughes,46065,2022,commercial_plate,1220
 Hughes,46065,2022,electric,12
 Hughes,46065,2022,gross_vehicle_weight,534
+Hughes,46065,2022,gross_vehicle_weight,555
 Hughes,46065,2022,irp_with_prorate_plate,494
 Hughes,46065,2022,motorcycle,1090
+Hughes,46065,2022,motorcycle,1092
 Hughes,46065,2022,off_road,786
+Hughes,46065,2022,off_road,785
 Hughes,46065,2022,passenger_low_speed,4947
+Hughes,46065,2022,passenger_low_speed,4944
 Hughes,46065,2022,pickup_suv_van,14297
+Hughes,46065,2022,pickup_suv_van,14309
 Hughes,46065,2022,recreational,161
+Hughes,46065,2022,recreational,162
 Hughes,46065,2022,snowmobile,258
 Hughes,46065,2022,titles,6323
 Hughes,46065,2022,trailer,6710
+Hughes,46065,2022,trailer,6711
 Hughes,46065,2022,truck,1212
+Hughes,46065,2022,truck,1213
 Hughes,46065,2021,boat,2457
 Hughes,46065,2021,bus,53
 Hughes,46065,2021,commercial_plate,1231
 Hughes,46065,2021,electric,7
 Hughes,46065,2021,gross_vehicle_weight,570
+Hughes,46065,2021,gross_vehicle_weight,581
 Hughes,46065,2021,irp_with_prorate_plate,562
 Hughes,46065,2021,motorcycle,1104
 Hughes,46065,2021,off_road,778
@@ -4714,6 +5498,7 @@ Hughes,46065,2020,bus,60
 Hughes,46065,2020,commercial_plate,1186
 Hughes,46065,2020,electric,4
 Hughes,46065,2020,gross_vehicle_weight,569
+Hughes,46065,2020,gross_vehicle_weight,580
 Hughes,46065,2020,irp_with_prorate_plate,699
 Hughes,46065,2020,motorcycle,1125
 Hughes,46065,2020,off_road,695
@@ -4729,21 +5514,26 @@ Hughes,46065,2019,bus,202
 Hughes,46065,2019,commercial_plate,1230
 Hughes,46065,2019,electric,5
 Hughes,46065,2019,gross_vehicle_weight,621
+Hughes,46065,2019,gross_vehicle_weight,632
 Hughes,46065,2019,irp_with_prorate_plate,870
 Hughes,46065,2019,motorcycle,1056
 Hughes,46065,2019,off_road,704
 Hughes,46065,2019,passenger_low_speed,6158
 Hughes,46065,2019,pickup_suv_van,14410
+Hughes,46065,2019,pickup_suv_van,14411
 Hughes,46065,2019,recreational,151
 Hughes,46065,2019,snowmobile,258
 Hughes,46065,2019,titles,7727
 Hughes,46065,2019,trailer,6521
+Hughes,46065,2019,trailer,6522
 Hughes,46065,2019,truck,1840
+Hughes,46065,2019,truck,1841
 Hughes,46065,2018,boat,2491
 Hughes,46065,2018,bus,640
 Hughes,46065,2018,commercial_plate,1170
 Hughes,46065,2018,electric,9
 Hughes,46065,2018,gross_vehicle_weight,777
+Hughes,46065,2018,gross_vehicle_weight,801
 Hughes,46065,2018,irp_with_prorate_plate,1066
 Hughes,46065,2018,motorcycle,1084
 Hughes,46065,2018,off_road,940
@@ -4799,6 +5589,21 @@ Hughes,46065,2015,snowmobile,221
 Hughes,46065,2015,titles,11015
 Hughes,46065,2015,trailer,8279
 Hughes,46065,2015,truck,3302
+Hutchinson,46067,2025,boat,60
+Hutchinson,46067,2025,bus,0
+Hutchinson,46067,2025,commercial_plate,29
+Hutchinson,46067,2025,electric,1
+Hutchinson,46067,2025,gross_vehicle_weight,61
+Hutchinson,46067,2025,irp_with_prorate_plate,13
+Hutchinson,46067,2025,motorcycle,38
+Hutchinson,46067,2025,off_road,79
+Hutchinson,46067,2025,passenger_low_speed,293
+Hutchinson,46067,2025,pickup_suv_van,780
+Hutchinson,46067,2025,recreational,1
+Hutchinson,46067,2025,snowmobile,19
+Hutchinson,46067,2025,titles,139
+Hutchinson,46067,2025,trailer,368
+Hutchinson,46067,2025,truck,79
 Hutchinson,46067,2024,boat,492
 Hutchinson,46067,2024,bus,9
 Hutchinson,46067,2024,commercial_plate,374
@@ -4834,11 +5639,14 @@ Hutchinson,46067,2022,bus,7
 Hutchinson,46067,2022,commercial_plate,429
 Hutchinson,46067,2022,electric,10
 Hutchinson,46067,2022,gross_vehicle_weight,756
+Hutchinson,46067,2022,gross_vehicle_weight,757
 Hutchinson,46067,2022,irp_with_prorate_plate,78
 Hutchinson,46067,2022,motorcycle,330
 Hutchinson,46067,2022,off_road,599
 Hutchinson,46067,2022,passenger_low_speed,2664
+Hutchinson,46067,2022,passenger_low_speed,2661
 Hutchinson,46067,2022,pickup_suv_van,6732
+Hutchinson,46067,2022,pickup_suv_van,6738
 Hutchinson,46067,2022,recreational,44
 Hutchinson,46067,2022,snowmobile,115
 Hutchinson,46067,2022,titles,2420
@@ -4849,6 +5657,7 @@ Hutchinson,46067,2021,bus,13
 Hutchinson,46067,2021,commercial_plate,438
 Hutchinson,46067,2021,electric,7
 Hutchinson,46067,2021,gross_vehicle_weight,794
+Hutchinson,46067,2021,gross_vehicle_weight,797
 Hutchinson,46067,2021,irp_with_prorate_plate,81
 Hutchinson,46067,2021,motorcycle,338
 Hutchinson,46067,2021,off_road,586
@@ -4864,6 +5673,7 @@ Hutchinson,46067,2020,bus,13
 Hutchinson,46067,2020,commercial_plate,421
 Hutchinson,46067,2020,electric,6
 Hutchinson,46067,2020,gross_vehicle_weight,779
+Hutchinson,46067,2020,gross_vehicle_weight,780
 Hutchinson,46067,2020,irp_with_prorate_plate,81
 Hutchinson,46067,2020,motorcycle,320
 Hutchinson,46067,2020,off_road,562
@@ -4879,6 +5689,7 @@ Hutchinson,46067,2019,bus,12
 Hutchinson,46067,2019,commercial_plate,416
 Hutchinson,46067,2019,electric,4
 Hutchinson,46067,2019,gross_vehicle_weight,744
+Hutchinson,46067,2019,gross_vehicle_weight,742
 Hutchinson,46067,2019,irp_with_prorate_plate,89
 Hutchinson,46067,2019,motorcycle,317
 Hutchinson,46067,2019,off_road,504
@@ -4889,11 +5700,13 @@ Hutchinson,46067,2019,snowmobile,127
 Hutchinson,46067,2019,titles,2508
 Hutchinson,46067,2019,trailer,2977
 Hutchinson,46067,2019,truck,893
+Hutchinson,46067,2019,truck,894
 Hutchinson,46067,2018,boat,519
 Hutchinson,46067,2018,bus,20
 Hutchinson,46067,2018,commercial_plate,438
 Hutchinson,46067,2018,electric,3
 Hutchinson,46067,2018,gross_vehicle_weight,793
+Hutchinson,46067,2018,gross_vehicle_weight,790
 Hutchinson,46067,2018,irp_with_prorate_plate,88
 Hutchinson,46067,2018,motorcycle,323
 Hutchinson,46067,2018,off_road,463
@@ -4949,6 +5762,21 @@ Hutchinson,46067,2015,snowmobile,165
 Hutchinson,46067,2015,titles,2795
 Hutchinson,46067,2015,trailer,2911
 Hutchinson,46067,2015,truck,1003
+Hyde,46069,2025,boat,14
+Hyde,46069,2025,bus,0
+Hyde,46069,2025,commercial_plate,3
+Hyde,46069,2025,electric,1
+Hyde,46069,2025,gross_vehicle_weight,29
+Hyde,46069,2025,irp_with_prorate_plate,0
+Hyde,46069,2025,motorcycle,18
+Hyde,46069,2025,off_road,14
+Hyde,46069,2025,passenger_low_speed,53
+Hyde,46069,2025,pickup_suv_van,228
+Hyde,46069,2025,recreational,1
+Hyde,46069,2025,snowmobile,4
+Hyde,46069,2025,titles,38
+Hyde,46069,2025,trailer,141
+Hyde,46069,2025,truck,29
 Hyde,46069,2024,boat,101
 Hyde,46069,2024,bus,3
 Hyde,46069,2024,commercial_plate,110
@@ -4984,11 +5812,13 @@ Hyde,46069,2022,bus,9
 Hyde,46069,2022,commercial_plate,166
 Hyde,46069,2022,electric,1
 Hyde,46069,2022,gross_vehicle_weight,235
+Hyde,46069,2022,gross_vehicle_weight,236
 Hyde,46069,2022,irp_with_prorate_plate,6
 Hyde,46069,2022,motorcycle,76
 Hyde,46069,2022,off_road,137
 Hyde,46069,2022,passenger_low_speed,475
 Hyde,46069,2022,pickup_suv_van,1590
+Hyde,46069,2022,pickup_suv_van,1591
 Hyde,46069,2022,recreational,12
 Hyde,46069,2022,snowmobile,33
 Hyde,46069,2022,titles,677
@@ -4999,6 +5829,7 @@ Hyde,46069,2021,bus,6
 Hyde,46069,2021,commercial_plate,157
 Hyde,46069,2021,electric,2
 Hyde,46069,2021,gross_vehicle_weight,262
+Hyde,46069,2021,gross_vehicle_weight,263
 Hyde,46069,2021,irp_with_prorate_plate,4
 Hyde,46069,2021,motorcycle,89
 Hyde,46069,2021,off_road,130
@@ -5014,6 +5845,7 @@ Hyde,46069,2020,bus,5
 Hyde,46069,2020,commercial_plate,164
 Hyde,46069,2020,electric,2
 Hyde,46069,2020,gross_vehicle_weight,248
+Hyde,46069,2020,gross_vehicle_weight,250
 Hyde,46069,2020,irp_with_prorate_plate,3
 Hyde,46069,2020,motorcycle,92
 Hyde,46069,2020,off_road,118
@@ -5029,6 +5861,7 @@ Hyde,46069,2019,bus,5
 Hyde,46069,2019,commercial_plate,179
 Hyde,46069,2019,electric,3
 Hyde,46069,2019,gross_vehicle_weight,259
+Hyde,46069,2019,gross_vehicle_weight,261
 Hyde,46069,2019,irp_with_prorate_plate,2
 Hyde,46069,2019,motorcycle,79
 Hyde,46069,2019,off_road,108
@@ -5044,6 +5877,7 @@ Hyde,46069,2018,bus,14
 Hyde,46069,2018,commercial_plate,186
 Hyde,46069,2018,electric,3
 Hyde,46069,2018,gross_vehicle_weight,283
+Hyde,46069,2018,gross_vehicle_weight,284
 Hyde,46069,2018,irp_with_prorate_plate,3
 Hyde,46069,2018,motorcycle,80
 Hyde,46069,2018,off_road,113
@@ -5099,6 +5933,21 @@ Hyde,46069,2015,snowmobile,56
 Hyde,46069,2015,titles,894
 Hyde,46069,2015,trailer,913
 Hyde,46069,2015,truck,354
+Jackson,46071,2025,boat,6
+Jackson,46071,2025,bus,0
+Jackson,46071,2025,commercial_plate,3
+Jackson,46071,2025,electric,0
+Jackson,46071,2025,gross_vehicle_weight,34
+Jackson,46071,2025,irp_with_prorate_plate,0
+Jackson,46071,2025,motorcycle,9
+Jackson,46071,2025,off_road,7
+Jackson,46071,2025,passenger_low_speed,78
+Jackson,46071,2025,pickup_suv_van,303
+Jackson,46071,2025,recreational,0
+Jackson,46071,2025,snowmobile,9
+Jackson,46071,2025,titles,45
+Jackson,46071,2025,trailer,144
+Jackson,46071,2025,truck,21
 Jackson,46071,2024,boat,60
 Jackson,46071,2024,bus,0
 Jackson,46071,2024,commercial_plate,41
@@ -5134,11 +5983,14 @@ Jackson,46071,2022,bus,2
 Jackson,46071,2022,commercial_plate,51
 Jackson,46071,2022,electric,0
 Jackson,46071,2022,gross_vehicle_weight,354
+Jackson,46071,2022,gross_vehicle_weight,357
 Jackson,46071,2022,irp_with_prorate_plate,11
 Jackson,46071,2022,motorcycle,77
 Jackson,46071,2022,off_road,63
+Jackson,46071,2022,off_road,64
 Jackson,46071,2022,passenger_low_speed,864
 Jackson,46071,2022,pickup_suv_van,2247
+Jackson,46071,2022,pickup_suv_van,2257
 Jackson,46071,2022,recreational,19
 Jackson,46071,2022,snowmobile,24
 Jackson,46071,2022,titles,913
@@ -5149,6 +6001,7 @@ Jackson,46071,2021,bus,0
 Jackson,46071,2021,commercial_plate,57
 Jackson,46071,2021,electric,0
 Jackson,46071,2021,gross_vehicle_weight,359
+Jackson,46071,2021,gross_vehicle_weight,358
 Jackson,46071,2021,irp_with_prorate_plate,7
 Jackson,46071,2021,motorcycle,85
 Jackson,46071,2021,off_road,52
@@ -5164,6 +6017,7 @@ Jackson,46071,2020,bus,3
 Jackson,46071,2020,commercial_plate,60
 Jackson,46071,2020,electric,0
 Jackson,46071,2020,gross_vehicle_weight,355
+Jackson,46071,2020,gross_vehicle_weight,357
 Jackson,46071,2020,irp_with_prorate_plate,6
 Jackson,46071,2020,motorcycle,75
 Jackson,46071,2020,off_road,59
@@ -5179,6 +6033,7 @@ Jackson,46071,2019,bus,1
 Jackson,46071,2019,commercial_plate,52
 Jackson,46071,2019,electric,0
 Jackson,46071,2019,gross_vehicle_weight,330
+Jackson,46071,2019,gross_vehicle_weight,331
 Jackson,46071,2019,irp_with_prorate_plate,4
 Jackson,46071,2019,motorcycle,74
 Jackson,46071,2019,off_road,48
@@ -5194,6 +6049,7 @@ Jackson,46071,2018,bus,4
 Jackson,46071,2018,commercial_plate,53
 Jackson,46071,2018,electric,0
 Jackson,46071,2018,gross_vehicle_weight,326
+Jackson,46071,2018,gross_vehicle_weight,329
 Jackson,46071,2018,irp_with_prorate_plate,7
 Jackson,46071,2018,motorcycle,86
 Jackson,46071,2018,off_road,44
@@ -5249,6 +6105,21 @@ Jackson,46071,2015,snowmobile,18
 Jackson,46071,2015,titles,1213
 Jackson,46071,2015,trailer,964
 Jackson,46071,2015,truck,284
+Jerauld,46073,2025,boat,8
+Jerauld,46073,2025,bus,0
+Jerauld,46073,2025,commercial_plate,19
+Jerauld,46073,2025,electric,0
+Jerauld,46073,2025,gross_vehicle_weight,43
+Jerauld,46073,2025,irp_with_prorate_plate,21
+Jerauld,46073,2025,motorcycle,7
+Jerauld,46073,2025,off_road,23
+Jerauld,46073,2025,passenger_low_speed,48
+Jerauld,46073,2025,pickup_suv_van,236
+Jerauld,46073,2025,recreational,0
+Jerauld,46073,2025,snowmobile,6
+Jerauld,46073,2025,titles,36
+Jerauld,46073,2025,trailer,125
+Jerauld,46073,2025,truck,55
 Jerauld,46073,2024,boat,156
 Jerauld,46073,2024,bus,6
 Jerauld,46073,2024,commercial_plate,106
@@ -5284,11 +6155,13 @@ Jerauld,46073,2022,bus,16
 Jerauld,46073,2022,commercial_plate,97
 Jerauld,46073,2022,electric,2
 Jerauld,46073,2022,gross_vehicle_weight,495
+Jerauld,46073,2022,gross_vehicle_weight,493
 Jerauld,46073,2022,irp_with_prorate_plate,50
 Jerauld,46073,2022,motorcycle,90
 Jerauld,46073,2022,off_road,183
 Jerauld,46073,2022,passenger_low_speed,679
 Jerauld,46073,2022,pickup_suv_van,2124
+Jerauld,46073,2022,pickup_suv_van,2125
 Jerauld,46073,2022,recreational,28
 Jerauld,46073,2022,snowmobile,19
 Jerauld,46073,2022,titles,859
@@ -5299,6 +6172,7 @@ Jerauld,46073,2021,bus,11
 Jerauld,46073,2021,commercial_plate,95
 Jerauld,46073,2021,electric,2
 Jerauld,46073,2021,gross_vehicle_weight,477
+Jerauld,46073,2021,gross_vehicle_weight,479
 Jerauld,46073,2021,irp_with_prorate_plate,46
 Jerauld,46073,2021,motorcycle,93
 Jerauld,46073,2021,off_road,190
@@ -5314,6 +6188,7 @@ Jerauld,46073,2020,bus,10
 Jerauld,46073,2020,commercial_plate,101
 Jerauld,46073,2020,electric,0
 Jerauld,46073,2020,gross_vehicle_weight,432
+Jerauld,46073,2020,gross_vehicle_weight,435
 Jerauld,46073,2020,irp_with_prorate_plate,58
 Jerauld,46073,2020,motorcycle,80
 Jerauld,46073,2020,off_road,182
@@ -5329,6 +6204,7 @@ Jerauld,46073,2019,bus,6
 Jerauld,46073,2019,commercial_plate,106
 Jerauld,46073,2019,electric,1
 Jerauld,46073,2019,gross_vehicle_weight,423
+Jerauld,46073,2019,gross_vehicle_weight,428
 Jerauld,46073,2019,irp_with_prorate_plate,54
 Jerauld,46073,2019,motorcycle,74
 Jerauld,46073,2019,off_road,163
@@ -5344,6 +6220,7 @@ Jerauld,46073,2018,bus,18
 Jerauld,46073,2018,commercial_plate,117
 Jerauld,46073,2018,electric,1
 Jerauld,46073,2018,gross_vehicle_weight,407
+Jerauld,46073,2018,gross_vehicle_weight,411
 Jerauld,46073,2018,irp_with_prorate_plate,26
 Jerauld,46073,2018,motorcycle,80
 Jerauld,46073,2018,off_road,175
@@ -5399,6 +6276,21 @@ Jerauld,46073,2015,snowmobile,40
 Jerauld,46073,2015,titles,1154
 Jerauld,46073,2015,trailer,1116
 Jerauld,46073,2015,truck,433
+Jones,46075,2025,boat,7
+Jones,46075,2025,bus,0
+Jones,46075,2025,commercial_plate,0
+Jones,46075,2025,electric,0
+Jones,46075,2025,gross_vehicle_weight,32
+Jones,46075,2025,irp_with_prorate_plate,0
+Jones,46075,2025,motorcycle,9
+Jones,46075,2025,off_road,8
+Jones,46075,2025,passenger_low_speed,34
+Jones,46075,2025,pickup_suv_van,180
+Jones,46075,2025,recreational,0
+Jones,46075,2025,snowmobile,1
+Jones,46075,2025,titles,22
+Jones,46075,2025,trailer,91
+Jones,46075,2025,truck,28
 Jones,46075,2024,boat,43
 Jones,46075,2024,bus,3
 Jones,46075,2024,commercial_plate,83
@@ -5434,11 +6326,13 @@ Jones,46075,2022,bus,0
 Jones,46075,2022,commercial_plate,54
 Jones,46075,2022,electric,2
 Jones,46075,2022,gross_vehicle_weight,185
+Jones,46075,2022,gross_vehicle_weight,189
 Jones,46075,2022,irp_with_prorate_plate,4
 Jones,46075,2022,motorcycle,52
 Jones,46075,2022,off_road,83
 Jones,46075,2022,passenger_low_speed,373
 Jones,46075,2022,pickup_suv_van,1264
+Jones,46075,2022,pickup_suv_van,1265
 Jones,46075,2022,recreational,7
 Jones,46075,2022,snowmobile,7
 Jones,46075,2022,titles,545
@@ -5479,6 +6373,7 @@ Jones,46075,2019,bus,0
 Jones,46075,2019,commercial_plate,87
 Jones,46075,2019,electric,0
 Jones,46075,2019,gross_vehicle_weight,164
+Jones,46075,2019,gross_vehicle_weight,162
 Jones,46075,2019,irp_with_prorate_plate,8
 Jones,46075,2019,motorcycle,63
 Jones,46075,2019,off_road,68
@@ -5549,6 +6444,21 @@ Jones,46075,2015,snowmobile,24
 Jones,46075,2015,titles,698
 Jones,46075,2015,trailer,654
 Jones,46075,2015,truck,221
+Kingsbury,46077,2025,boat,66
+Kingsbury,46077,2025,bus,1
+Kingsbury,46077,2025,commercial_plate,37
+Kingsbury,46077,2025,electric,2
+Kingsbury,46077,2025,gross_vehicle_weight,78
+Kingsbury,46077,2025,irp_with_prorate_plate,6
+Kingsbury,46077,2025,motorcycle,42
+Kingsbury,46077,2025,off_road,106
+Kingsbury,46077,2025,passenger_low_speed,188
+Kingsbury,46077,2025,pickup_suv_van,803
+Kingsbury,46077,2025,recreational,7
+Kingsbury,46077,2025,snowmobile,43
+Kingsbury,46077,2025,titles,123
+Kingsbury,46077,2025,trailer,433
+Kingsbury,46077,2025,truck,78
 Kingsbury,46077,2024,boat,608
 Kingsbury,46077,2024,bus,4
 Kingsbury,46077,2024,commercial_plate,373
@@ -5584,11 +6494,14 @@ Kingsbury,46077,2022,bus,6
 Kingsbury,46077,2022,commercial_plate,336
 Kingsbury,46077,2022,electric,7
 Kingsbury,46077,2022,gross_vehicle_weight,685
+Kingsbury,46077,2022,gross_vehicle_weight,686
 Kingsbury,46077,2022,irp_with_prorate_plate,33
 Kingsbury,46077,2022,motorcycle,404
 Kingsbury,46077,2022,off_road,727
 Kingsbury,46077,2022,passenger_low_speed,1742
+Kingsbury,46077,2022,passenger_low_speed,1745
 Kingsbury,46077,2022,pickup_suv_van,5634
+Kingsbury,46077,2022,pickup_suv_van,5637
 Kingsbury,46077,2022,recreational,49
 Kingsbury,46077,2022,snowmobile,170
 Kingsbury,46077,2022,titles,2222
@@ -5599,6 +6512,7 @@ Kingsbury,46077,2021,bus,7
 Kingsbury,46077,2021,commercial_plate,351
 Kingsbury,46077,2021,electric,2
 Kingsbury,46077,2021,gross_vehicle_weight,721
+Kingsbury,46077,2021,gross_vehicle_weight,749
 Kingsbury,46077,2021,irp_with_prorate_plate,28
 Kingsbury,46077,2021,motorcycle,400
 Kingsbury,46077,2021,off_road,737
@@ -5614,6 +6528,7 @@ Kingsbury,46077,2020,bus,7
 Kingsbury,46077,2020,commercial_plate,341
 Kingsbury,46077,2020,electric,1
 Kingsbury,46077,2020,gross_vehicle_weight,722
+Kingsbury,46077,2020,gross_vehicle_weight,749
 Kingsbury,46077,2020,irp_with_prorate_plate,41
 Kingsbury,46077,2020,motorcycle,407
 Kingsbury,46077,2020,off_road,705
@@ -5629,11 +6544,13 @@ Kingsbury,46077,2019,bus,11
 Kingsbury,46077,2019,commercial_plate,341
 Kingsbury,46077,2019,electric,2
 Kingsbury,46077,2019,gross_vehicle_weight,759
+Kingsbury,46077,2019,gross_vehicle_weight,787
 Kingsbury,46077,2019,irp_with_prorate_plate,36
 Kingsbury,46077,2019,motorcycle,405
 Kingsbury,46077,2019,off_road,658
 Kingsbury,46077,2019,passenger_low_speed,2048
 Kingsbury,46077,2019,pickup_suv_van,5318
+Kingsbury,46077,2019,pickup_suv_van,5319
 Kingsbury,46077,2019,recreational,54
 Kingsbury,46077,2019,snowmobile,236
 Kingsbury,46077,2019,titles,2238
@@ -5644,6 +6561,7 @@ Kingsbury,46077,2018,bus,26
 Kingsbury,46077,2018,commercial_plate,337
 Kingsbury,46077,2018,electric,0
 Kingsbury,46077,2018,gross_vehicle_weight,798
+Kingsbury,46077,2018,gross_vehicle_weight,811
 Kingsbury,46077,2018,irp_with_prorate_plate,33
 Kingsbury,46077,2018,motorcycle,378
 Kingsbury,46077,2018,off_road,650
@@ -5699,6 +6617,21 @@ Kingsbury,46077,2015,snowmobile,278
 Kingsbury,46077,2015,titles,2590
 Kingsbury,46077,2015,trailer,3039
 Kingsbury,46077,2015,truck,1006
+Lake,46079,2025,boat,130
+Lake,46079,2025,bus,1
+Lake,46079,2025,commercial_plate,117
+Lake,46079,2025,electric,3
+Lake,46079,2025,gross_vehicle_weight,66
+Lake,46079,2025,irp_with_prorate_plate,12
+Lake,46079,2025,motorcycle,60
+Lake,46079,2025,off_road,135
+Lake,46079,2025,passenger_low_speed,380
+Lake,46079,2025,pickup_suv_van,1315
+Lake,46079,2025,recreational,13
+Lake,46079,2025,snowmobile,39
+Lake,46079,2025,titles,208
+Lake,46079,2025,trailer,474
+Lake,46079,2025,truck,110
 Lake,46079,2024,boat,1308
 Lake,46079,2024,bus,14
 Lake,46079,2024,commercial_plate,698
@@ -5734,12 +6667,18 @@ Lake,46079,2022,bus,7
 Lake,46079,2022,commercial_plate,742
 Lake,46079,2022,electric,21
 Lake,46079,2022,gross_vehicle_weight,721
+Lake,46079,2022,gross_vehicle_weight,726
 Lake,46079,2022,irp_with_prorate_plate,93
 Lake,46079,2022,motorcycle,754
+Lake,46079,2022,motorcycle,753
 Lake,46079,2022,off_road,1003
+Lake,46079,2022,off_road,1004
 Lake,46079,2022,passenger_low_speed,3869
+Lake,46079,2022,passenger_low_speed,3870
 Lake,46079,2022,pickup_suv_van,9979
+Lake,46079,2022,pickup_suv_van,9987
 Lake,46079,2022,recreational,157
+Lake,46079,2022,recreational,158
 Lake,46079,2022,snowmobile,255
 Lake,46079,2022,titles,4147
 Lake,46079,2022,trailer,4544
@@ -5749,6 +6688,7 @@ Lake,46079,2021,bus,13
 Lake,46079,2021,commercial_plate,724
 Lake,46079,2021,electric,17
 Lake,46079,2021,gross_vehicle_weight,740
+Lake,46079,2021,gross_vehicle_weight,738
 Lake,46079,2021,irp_with_prorate_plate,96
 Lake,46079,2021,motorcycle,838
 Lake,46079,2021,off_road,985
@@ -5764,6 +6704,7 @@ Lake,46079,2020,bus,15
 Lake,46079,2020,commercial_plate,724
 Lake,46079,2020,electric,12
 Lake,46079,2020,gross_vehicle_weight,721
+Lake,46079,2020,gross_vehicle_weight,724
 Lake,46079,2020,irp_with_prorate_plate,103
 Lake,46079,2020,motorcycle,809
 Lake,46079,2020,off_road,936
@@ -5779,6 +6720,7 @@ Lake,46079,2019,bus,27
 Lake,46079,2019,commercial_plate,740
 Lake,46079,2019,electric,12
 Lake,46079,2019,gross_vehicle_weight,769
+Lake,46079,2019,gross_vehicle_weight,770
 Lake,46079,2019,irp_with_prorate_plate,105
 Lake,46079,2019,motorcycle,852
 Lake,46079,2019,off_road,830
@@ -5789,11 +6731,13 @@ Lake,46079,2019,snowmobile,296
 Lake,46079,2019,titles,4789
 Lake,46079,2019,trailer,4475
 Lake,46079,2019,truck,1059
+Lake,46079,2019,truck,1060
 Lake,46079,2018,boat,1390
 Lake,46079,2018,bus,27
 Lake,46079,2018,commercial_plate,689
 Lake,46079,2018,electric,11
 Lake,46079,2018,gross_vehicle_weight,852
+Lake,46079,2018,gross_vehicle_weight,851
 Lake,46079,2018,irp_with_prorate_plate,104
 Lake,46079,2018,motorcycle,1098
 Lake,46079,2018,off_road,835
@@ -5849,6 +6793,21 @@ Lake,46079,2015,snowmobile,304
 Lake,46079,2015,titles,6515
 Lake,46079,2015,trailer,5134
 Lake,46079,2015,truck,1066
+Lawrence,46081,2025,boat,149
+Lawrence,46081,2025,bus,1
+Lawrence,46081,2025,commercial_plate,185
+Lawrence,46081,2025,electric,16
+Lawrence,46081,2025,gross_vehicle_weight,43
+Lawrence,46081,2025,irp_with_prorate_plate,5
+Lawrence,46081,2025,motorcycle,421
+Lawrence,46081,2025,off_road,549
+Lawrence,46081,2025,passenger_low_speed,1231
+Lawrence,46081,2025,pickup_suv_van,4156
+Lawrence,46081,2025,recreational,99
+Lawrence,46081,2025,snowmobile,195
+Lawrence,46081,2025,titles,740
+Lawrence,46081,2025,trailer,1197
+Lawrence,46081,2025,truck,78
 Lawrence,46081,2024,boat,1438
 Lawrence,46081,2024,bus,29
 Lawrence,46081,2024,commercial_plate,1315
@@ -5880,45 +6839,60 @@ Lawrence,46081,2023,titles,16688
 Lawrence,46081,2023,trailer,9923
 Lawrence,46081,2023,truck,819
 Lawrence,46081,2022,boat,1434
+Lawrence,46081,2022,boat,1433
 Lawrence,46081,2022,bus,32
 Lawrence,46081,2022,commercial_plate,1359
 Lawrence,46081,2022,electric,93
 Lawrence,46081,2022,gross_vehicle_weight,471
+Lawrence,46081,2022,gross_vehicle_weight,500
 Lawrence,46081,2022,irp_with_prorate_plate,56
 Lawrence,46081,2022,motorcycle,3640
+Lawrence,46081,2022,motorcycle,3638
 Lawrence,46081,2022,off_road,4950
+Lawrence,46081,2022,off_road,4953
 Lawrence,46081,2022,passenger_low_speed,10153
+Lawrence,46081,2022,passenger_low_speed,10160
 Lawrence,46081,2022,pickup_suv_van,26639
+Lawrence,46081,2022,pickup_suv_van,26661
 Lawrence,46081,2022,recreational,699
+Lawrence,46081,2022,recreational,703
 Lawrence,46081,2022,snowmobile,895
 Lawrence,46081,2022,titles,14943
+Lawrence,46081,2022,titles,14944
 Lawrence,46081,2022,trailer,9536
+Lawrence,46081,2022,trailer,9535
 Lawrence,46081,2022,truck,795
 Lawrence,46081,2021,boat,1500
 Lawrence,46081,2021,bus,26
 Lawrence,46081,2021,commercial_plate,1427
 Lawrence,46081,2021,electric,56
 Lawrence,46081,2021,gross_vehicle_weight,529
+Lawrence,46081,2021,gross_vehicle_weight,556
 Lawrence,46081,2021,irp_with_prorate_plate,52
 Lawrence,46081,2021,motorcycle,3490
 Lawrence,46081,2021,off_road,4645
 Lawrence,46081,2021,passenger_low_speed,10169
 Lawrence,46081,2021,pickup_suv_van,25646
+Lawrence,46081,2021,pickup_suv_van,25644
 Lawrence,46081,2021,recreational,606
+Lawrence,46081,2021,recreational,608
 Lawrence,46081,2021,snowmobile,783
 Lawrence,46081,2021,titles,15951
 Lawrence,46081,2021,trailer,9322
 Lawrence,46081,2021,truck,798
+Lawrence,46081,2021,truck,797
 Lawrence,46081,2020,boat,1491
 Lawrence,46081,2020,bus,27
 Lawrence,46081,2020,commercial_plate,1283
 Lawrence,46081,2020,electric,28
 Lawrence,46081,2020,gross_vehicle_weight,500
+Lawrence,46081,2020,gross_vehicle_weight,527
 Lawrence,46081,2020,irp_with_prorate_plate,63
 Lawrence,46081,2020,motorcycle,3189
 Lawrence,46081,2020,off_road,3830
 Lawrence,46081,2020,passenger_low_speed,10346
 Lawrence,46081,2020,pickup_suv_van,24066
+Lawrence,46081,2020,pickup_suv_van,24065
 Lawrence,46081,2020,recreational,444
 Lawrence,46081,2020,snowmobile,925
 Lawrence,46081,2020,titles,14112
@@ -5929,6 +6903,7 @@ Lawrence,46081,2019,bus,38
 Lawrence,46081,2019,commercial_plate,1278
 Lawrence,46081,2019,electric,20
 Lawrence,46081,2019,gross_vehicle_weight,506
+Lawrence,46081,2019,gross_vehicle_weight,528
 Lawrence,46081,2019,irp_with_prorate_plate,71
 Lawrence,46081,2019,motorcycle,3023
 Lawrence,46081,2019,off_road,3336
@@ -5939,11 +6914,13 @@ Lawrence,46081,2019,snowmobile,913
 Lawrence,46081,2019,titles,13786
 Lawrence,46081,2019,trailer,7987
 Lawrence,46081,2019,truck,693
+Lawrence,46081,2019,truck,694
 Lawrence,46081,2018,boat,1449
 Lawrence,46081,2018,bus,71
 Lawrence,46081,2018,commercial_plate,1271
 Lawrence,46081,2018,electric,7
 Lawrence,46081,2018,gross_vehicle_weight,531
+Lawrence,46081,2018,gross_vehicle_weight,548
 Lawrence,46081,2018,irp_with_prorate_plate,75
 Lawrence,46081,2018,motorcycle,2980
 Lawrence,46081,2018,off_road,3099
@@ -5999,6 +6976,21 @@ Lawrence,46081,2015,snowmobile,885
 Lawrence,46081,2015,titles,13603
 Lawrence,46081,2015,trailer,7237
 Lawrence,46081,2015,truck,828
+Lincoln,46083,2025,boat,481
+Lincoln,46083,2025,bus,2
+Lincoln,46083,2025,commercial_plate,629
+Lincoln,46083,2025,electric,47
+Lincoln,46083,2025,gross_vehicle_weight,64
+Lincoln,46083,2025,irp_with_prorate_plate,11
+Lincoln,46083,2025,motorcycle,334
+Lincoln,46083,2025,off_road,363
+Lincoln,46083,2025,passenger_low_speed,2418
+Lincoln,46083,2025,pickup_suv_van,6910
+Lincoln,46083,2025,recreational,42
+Lincoln,46083,2025,snowmobile,85
+Lincoln,46083,2025,titles,3197
+Lincoln,46083,2025,trailer,1626
+Lincoln,46083,2025,truck,199
 Lincoln,46083,2024,boat,4315
 Lincoln,46083,2024,bus,17
 Lincoln,46083,2024,commercial_plate,4167
@@ -6033,12 +7025,16 @@ Lincoln,46083,2022,boat,4299
 Lincoln,46083,2022,bus,14
 Lincoln,46083,2022,commercial_plate,3939
 Lincoln,46083,2022,electric,214
+Lincoln,46083,2022,electric,210
 Lincoln,46083,2022,gross_vehicle_weight,809
+Lincoln,46083,2022,gross_vehicle_weight,876
 Lincoln,46083,2022,irp_with_prorate_plate,388
 Lincoln,46083,2022,motorcycle,3528
 Lincoln,46083,2022,off_road,2832
 Lincoln,46083,2022,passenger_low_speed,21701
+Lincoln,46083,2022,passenger_low_speed,21734
 Lincoln,46083,2022,pickup_suv_van,49477
+Lincoln,46083,2022,pickup_suv_van,49521
 Lincoln,46083,2022,recreational,347
 Lincoln,46083,2022,snowmobile,525
 Lincoln,46083,2022,titles,32485
@@ -6048,7 +7044,9 @@ Lincoln,46083,2021,boat,4388
 Lincoln,46083,2021,bus,17
 Lincoln,46083,2021,commercial_plate,3908
 Lincoln,46083,2021,electric,154
+Lincoln,46083,2021,electric,156
 Lincoln,46083,2021,gross_vehicle_weight,908
+Lincoln,46083,2021,gross_vehicle_weight,931
 Lincoln,46083,2021,irp_with_prorate_plate,383
 Lincoln,46083,2021,motorcycle,3507
 Lincoln,46083,2021,off_road,2646
@@ -6063,7 +7061,9 @@ Lincoln,46083,2020,boat,4228
 Lincoln,46083,2020,bus,14
 Lincoln,46083,2020,commercial_plate,3560
 Lincoln,46083,2020,electric,78
+Lincoln,46083,2020,electric,79
 Lincoln,46083,2020,gross_vehicle_weight,850
+Lincoln,46083,2020,gross_vehicle_weight,870
 Lincoln,46083,2020,irp_with_prorate_plate,416
 Lincoln,46083,2020,motorcycle,3397
 Lincoln,46083,2020,off_road,2369
@@ -6072,13 +7072,16 @@ Lincoln,46083,2020,pickup_suv_van,45245
 Lincoln,46083,2020,recreational,338
 Lincoln,46083,2020,snowmobile,695
 Lincoln,46083,2020,titles,31387
+Lincoln,46083,2020,titles,31385
 Lincoln,46083,2020,trailer,12806
 Lincoln,46083,2020,truck,1969
 Lincoln,46083,2019,boat,3958
 Lincoln,46083,2019,bus,11
 Lincoln,46083,2019,commercial_plate,3381
 Lincoln,46083,2019,electric,60
+Lincoln,46083,2019,electric,59
 Lincoln,46083,2019,gross_vehicle_weight,913
+Lincoln,46083,2019,gross_vehicle_weight,929
 Lincoln,46083,2019,irp_with_prorate_plate,376
 Lincoln,46083,2019,motorcycle,3197
 Lincoln,46083,2019,off_road,2030
@@ -6093,7 +7096,9 @@ Lincoln,46083,2018,boat,4067
 Lincoln,46083,2018,bus,72
 Lincoln,46083,2018,commercial_plate,3310
 Lincoln,46083,2018,electric,44
+Lincoln,46083,2018,electric,42
 Lincoln,46083,2018,gross_vehicle_weight,998
+Lincoln,46083,2018,gross_vehicle_weight,1007
 Lincoln,46083,2018,irp_with_prorate_plate,372
 Lincoln,46083,2018,motorcycle,3126
 Lincoln,46083,2018,off_road,1853
@@ -6149,6 +7154,21 @@ Lincoln,46083,2015,snowmobile,646
 Lincoln,46083,2015,titles,25484
 Lincoln,46083,2015,trailer,10938
 Lincoln,46083,2015,truck,1834
+Lyman,46085,2025,boat,17
+Lyman,46085,2025,bus,0
+Lyman,46085,2025,commercial_plate,20
+Lyman,46085,2025,electric,0
+Lyman,46085,2025,gross_vehicle_weight,58
+Lyman,46085,2025,irp_with_prorate_plate,0
+Lyman,46085,2025,motorcycle,14
+Lyman,46085,2025,off_road,19
+Lyman,46085,2025,passenger_low_speed,119
+Lyman,46085,2025,pickup_suv_van,375
+Lyman,46085,2025,recreational,2
+Lyman,46085,2025,snowmobile,1
+Lyman,46085,2025,titles,70
+Lyman,46085,2025,trailer,154
+Lyman,46085,2025,truck,38
 Lyman,46085,2024,boat,245
 Lyman,46085,2024,bus,13
 Lyman,46085,2024,commercial_plate,124
@@ -6184,11 +7204,14 @@ Lyman,46085,2022,bus,13
 Lyman,46085,2022,commercial_plate,124
 Lyman,46085,2022,electric,5
 Lyman,46085,2022,gross_vehicle_weight,515
+Lyman,46085,2022,gross_vehicle_weight,519
 Lyman,46085,2022,irp_with_prorate_plate,6
 Lyman,46085,2022,motorcycle,139
 Lyman,46085,2022,off_road,186
 Lyman,46085,2022,passenger_low_speed,1072
+Lyman,46085,2022,passenger_low_speed,1076
 Lyman,46085,2022,pickup_suv_van,3078
+Lyman,46085,2022,pickup_suv_van,3086
 Lyman,46085,2022,recreational,27
 Lyman,46085,2022,snowmobile,37
 Lyman,46085,2022,titles,1332
@@ -6199,6 +7222,7 @@ Lyman,46085,2021,bus,14
 Lyman,46085,2021,commercial_plate,136
 Lyman,46085,2021,electric,4
 Lyman,46085,2021,gross_vehicle_weight,533
+Lyman,46085,2021,gross_vehicle_weight,534
 Lyman,46085,2021,irp_with_prorate_plate,7
 Lyman,46085,2021,motorcycle,180
 Lyman,46085,2021,off_road,217
@@ -6214,6 +7238,7 @@ Lyman,46085,2020,bus,13
 Lyman,46085,2020,commercial_plate,140
 Lyman,46085,2020,electric,4
 Lyman,46085,2020,gross_vehicle_weight,461
+Lyman,46085,2020,gross_vehicle_weight,460
 Lyman,46085,2020,irp_with_prorate_plate,10
 Lyman,46085,2020,motorcycle,130
 Lyman,46085,2020,off_road,158
@@ -6239,11 +7264,13 @@ Lyman,46085,2019,snowmobile,55
 Lyman,46085,2019,titles,1402
 Lyman,46085,2019,trailer,1411
 Lyman,46085,2019,truck,412
+Lyman,46085,2019,truck,413
 Lyman,46085,2018,boat,234
 Lyman,46085,2018,bus,26
 Lyman,46085,2018,commercial_plate,125
 Lyman,46085,2018,electric,0
 Lyman,46085,2018,gross_vehicle_weight,483
+Lyman,46085,2018,gross_vehicle_weight,482
 Lyman,46085,2018,irp_with_prorate_plate,8
 Lyman,46085,2018,motorcycle,114
 Lyman,46085,2018,off_road,146
@@ -6299,6 +7326,21 @@ Lyman,46085,2015,snowmobile,59
 Lyman,46085,2015,titles,1605
 Lyman,46085,2015,trailer,1464
 Lyman,46085,2015,truck,470
+Marshall,46091,2025,boat,61
+Marshall,46091,2025,bus,0
+Marshall,46091,2025,commercial_plate,23
+Marshall,46091,2025,electric,0
+Marshall,46091,2025,gross_vehicle_weight,50
+Marshall,46091,2025,irp_with_prorate_plate,3
+Marshall,46091,2025,motorcycle,15
+Marshall,46091,2025,off_road,50
+Marshall,46091,2025,passenger_low_speed,110
+Marshall,46091,2025,pickup_suv_van,517
+Marshall,46091,2025,recreational,1
+Marshall,46091,2025,snowmobile,9
+Marshall,46091,2025,titles,100
+Marshall,46091,2025,trailer,267
+Marshall,46091,2025,truck,58
 Marshall,46091,2024,boat,734
 Marshall,46091,2024,bus,1
 Marshall,46091,2024,commercial_plate,215
@@ -6334,16 +7376,19 @@ Marshall,46091,2022,bus,2
 Marshall,46091,2022,commercial_plate,222
 Marshall,46091,2022,electric,1
 Marshall,46091,2022,gross_vehicle_weight,554
+Marshall,46091,2022,gross_vehicle_weight,557
 Marshall,46091,2022,irp_with_prorate_plate,44
 Marshall,46091,2022,motorcycle,211
 Marshall,46091,2022,off_road,290
 Marshall,46091,2022,passenger_low_speed,1249
 Marshall,46091,2022,pickup_suv_van,4532
+Marshall,46091,2022,pickup_suv_van,4531
 Marshall,46091,2022,recreational,31
 Marshall,46091,2022,snowmobile,130
 Marshall,46091,2022,titles,1752
 Marshall,46091,2022,trailer,2604
 Marshall,46091,2022,truck,671
+Marshall,46091,2022,truck,670
 Marshall,46091,2021,boat,733
 Marshall,46091,2021,bus,2
 Marshall,46091,2021,commercial_plate,221
@@ -6364,6 +7409,7 @@ Marshall,46091,2020,bus,2
 Marshall,46091,2020,commercial_plate,203
 Marshall,46091,2020,electric,1
 Marshall,46091,2020,gross_vehicle_weight,557
+Marshall,46091,2020,gross_vehicle_weight,558
 Marshall,46091,2020,irp_with_prorate_plate,48
 Marshall,46091,2020,motorcycle,201
 Marshall,46091,2020,off_road,266
@@ -6379,6 +7425,7 @@ Marshall,46091,2019,bus,2
 Marshall,46091,2019,commercial_plate,203
 Marshall,46091,2019,electric,2
 Marshall,46091,2019,gross_vehicle_weight,577
+Marshall,46091,2019,gross_vehicle_weight,576
 Marshall,46091,2019,irp_with_prorate_plate,47
 Marshall,46091,2019,motorcycle,201
 Marshall,46091,2019,off_road,230
@@ -6394,6 +7441,7 @@ Marshall,46091,2018,bus,9
 Marshall,46091,2018,commercial_plate,231
 Marshall,46091,2018,electric,1
 Marshall,46091,2018,gross_vehicle_weight,638
+Marshall,46091,2018,gross_vehicle_weight,637
 Marshall,46091,2018,irp_with_prorate_plate,46
 Marshall,46091,2018,motorcycle,214
 Marshall,46091,2018,off_road,229
@@ -6449,6 +7497,21 @@ Marshall,46091,2015,snowmobile,166
 Marshall,46091,2015,titles,2283
 Marshall,46091,2015,trailer,2469
 Marshall,46091,2015,truck,771
+McCook,46087,2025,boat,36
+McCook,46087,2025,bus,2
+McCook,46087,2025,commercial_plate,63
+McCook,46087,2025,electric,2
+McCook,46087,2025,gross_vehicle_weight,76
+McCook,46087,2025,irp_with_prorate_plate,5
+McCook,46087,2025,motorcycle,33
+McCook,46087,2025,off_road,69
+McCook,46087,2025,passenger_low_speed,214
+McCook,46087,2025,pickup_suv_van,621
+McCook,46087,2025,recreational,8
+McCook,46087,2025,snowmobile,25
+McCook,46087,2025,titles,78
+McCook,46087,2025,trailer,278
+McCook,46087,2025,truck,94
 McCook,46087,2024,boat,483
 McCook,46087,2024,bus,5
 McCook,46087,2024,commercial_plate,456
@@ -6483,12 +7546,16 @@ McCook,46087,2022,boat,498
 McCook,46087,2022,bus,9
 McCook,46087,2022,commercial_plate,386
 McCook,46087,2022,electric,17
+McCook,46087,2022,electric,18
 McCook,46087,2022,gross_vehicle_weight,730
+McCook,46087,2022,gross_vehicle_weight,738
 McCook,46087,2022,irp_with_prorate_plate,32
 McCook,46087,2022,motorcycle,324
 McCook,46087,2022,off_road,502
 McCook,46087,2022,passenger_low_speed,2411
+McCook,46087,2022,passenger_low_speed,2408
 McCook,46087,2022,pickup_suv_van,5451
+McCook,46087,2022,pickup_suv_van,5455
 McCook,46087,2022,recreational,45
 McCook,46087,2022,snowmobile,108
 McCook,46087,2022,titles,2468
@@ -6499,6 +7566,7 @@ McCook,46087,2021,bus,4
 McCook,46087,2021,commercial_plate,387
 McCook,46087,2021,electric,8
 McCook,46087,2021,gross_vehicle_weight,705
+McCook,46087,2021,gross_vehicle_weight,711
 McCook,46087,2021,irp_with_prorate_plate,41
 McCook,46087,2021,motorcycle,360
 McCook,46087,2021,off_road,554
@@ -6514,6 +7582,7 @@ McCook,46087,2020,bus,6
 McCook,46087,2020,commercial_plate,391
 McCook,46087,2020,electric,6
 McCook,46087,2020,gross_vehicle_weight,680
+McCook,46087,2020,gross_vehicle_weight,684
 McCook,46087,2020,irp_with_prorate_plate,38
 McCook,46087,2020,motorcycle,341
 McCook,46087,2020,off_road,459
@@ -6529,6 +7598,7 @@ McCook,46087,2019,bus,13
 McCook,46087,2019,commercial_plate,370
 McCook,46087,2019,electric,4
 McCook,46087,2019,gross_vehicle_weight,647
+McCook,46087,2019,gross_vehicle_weight,650
 McCook,46087,2019,irp_with_prorate_plate,39
 McCook,46087,2019,motorcycle,338
 McCook,46087,2019,off_road,410
@@ -6544,6 +7614,7 @@ McCook,46087,2018,bus,3
 McCook,46087,2018,commercial_plate,387
 McCook,46087,2018,electric,4
 McCook,46087,2018,gross_vehicle_weight,666
+McCook,46087,2018,gross_vehicle_weight,667
 McCook,46087,2018,irp_with_prorate_plate,29
 McCook,46087,2018,motorcycle,325
 McCook,46087,2018,off_road,410
@@ -6599,6 +7670,21 @@ McCook,46087,2015,snowmobile,171
 McCook,46087,2015,titles,3015
 McCook,46087,2015,trailer,2435
 McCook,46087,2015,truck,747
+McPherson,46089,2025,boat,21
+McPherson,46089,2025,bus,0
+McPherson,46089,2025,commercial_plate,6
+McPherson,46089,2025,electric,1
+McPherson,46089,2025,gross_vehicle_weight,43
+McPherson,46089,2025,irp_with_prorate_plate,1
+McPherson,46089,2025,motorcycle,13
+McPherson,46089,2025,off_road,20
+McPherson,46089,2025,passenger_low_speed,76
+McPherson,46089,2025,pickup_suv_van,284
+McPherson,46089,2025,recreational,1
+McPherson,46089,2025,snowmobile,13
+McPherson,46089,2025,titles,65
+McPherson,46089,2025,trailer,143
+McPherson,46089,2025,truck,43
 McPherson,46089,2024,boat,191
 McPherson,46089,2024,bus,3
 McPherson,46089,2024,commercial_plate,78
@@ -6634,13 +7720,18 @@ McPherson,46089,2022,bus,2
 McPherson,46089,2022,commercial_plate,84
 McPherson,46089,2022,electric,1
 McPherson,46089,2022,gross_vehicle_weight,403
+McPherson,46089,2022,gross_vehicle_weight,407
 McPherson,46089,2022,irp_with_prorate_plate,17
 McPherson,46089,2022,motorcycle,129
 McPherson,46089,2022,off_road,193
+McPherson,46089,2022,off_road,194
 McPherson,46089,2022,passenger_low_speed,762
+McPherson,46089,2022,passenger_low_speed,761
 McPherson,46089,2022,pickup_suv_van,2332
+McPherson,46089,2022,pickup_suv_van,2334
 McPherson,46089,2022,recreational,9
 McPherson,46089,2022,snowmobile,31
+McPherson,46089,2022,snowmobile,30
 McPherson,46089,2022,titles,823
 McPherson,46089,2022,trailer,1341
 McPherson,46089,2022,truck,410
@@ -6649,6 +7740,7 @@ McPherson,46089,2021,bus,5
 McPherson,46089,2021,commercial_plate,83
 McPherson,46089,2021,electric,1
 McPherson,46089,2021,gross_vehicle_weight,439
+McPherson,46089,2021,gross_vehicle_weight,441
 McPherson,46089,2021,irp_with_prorate_plate,18
 McPherson,46089,2021,motorcycle,131
 McPherson,46089,2021,off_road,189
@@ -6664,6 +7756,7 @@ McPherson,46089,2020,bus,2
 McPherson,46089,2020,commercial_plate,101
 McPherson,46089,2020,electric,1
 McPherson,46089,2020,gross_vehicle_weight,417
+McPherson,46089,2020,gross_vehicle_weight,418
 McPherson,46089,2020,irp_with_prorate_plate,17
 McPherson,46089,2020,motorcycle,119
 McPherson,46089,2020,off_road,174
@@ -6679,6 +7772,7 @@ McPherson,46089,2019,bus,3
 McPherson,46089,2019,commercial_plate,108
 McPherson,46089,2019,electric,1
 McPherson,46089,2019,gross_vehicle_weight,421
+McPherson,46089,2019,gross_vehicle_weight,422
 McPherson,46089,2019,irp_with_prorate_plate,15
 McPherson,46089,2019,motorcycle,124
 McPherson,46089,2019,off_road,160
@@ -6694,6 +7788,7 @@ McPherson,46089,2018,bus,12
 McPherson,46089,2018,commercial_plate,122
 McPherson,46089,2018,electric,1
 McPherson,46089,2018,gross_vehicle_weight,455
+McPherson,46089,2018,gross_vehicle_weight,456
 McPherson,46089,2018,irp_with_prorate_plate,11
 McPherson,46089,2018,motorcycle,129
 McPherson,46089,2018,off_road,165
@@ -6749,6 +7844,21 @@ McPherson,46089,2015,snowmobile,43
 McPherson,46089,2015,titles,1050
 McPherson,46089,2015,trailer,1320
 McPherson,46089,2015,truck,495
+Meade,46093,2025,boat,151
+Meade,46093,2025,bus,3
+Meade,46093,2025,commercial_plate,151
+Meade,46093,2025,electric,6
+Meade,46093,2025,gross_vehicle_weight,165
+Meade,46093,2025,irp_with_prorate_plate,4
+Meade,46093,2025,motorcycle,354
+Meade,46093,2025,off_road,305
+Meade,46093,2025,passenger_low_speed,1081
+Meade,46093,2025,pickup_suv_van,3253
+Meade,46093,2025,recreational,46
+Meade,46093,2025,snowmobile,84
+Meade,46093,2025,titles,647
+Meade,46093,2025,trailer,1182
+Meade,46093,2025,truck,115
 Meade,46093,2024,boat,1544
 Meade,46093,2024,bus,61
 Meade,46093,2024,commercial_plate,1645
@@ -6782,23 +7892,31 @@ Meade,46093,2023,truck,1435
 Meade,46093,2022,boat,1542
 Meade,46093,2022,bus,53
 Meade,46093,2022,commercial_plate,1583
+Meade,46093,2022,commercial_plate,1584
 Meade,46093,2022,electric,59
 Meade,46093,2022,gross_vehicle_weight,1099
+Meade,46093,2022,gross_vehicle_weight,1117
 Meade,46093,2022,irp_with_prorate_plate,163
 Meade,46093,2022,motorcycle,3510
+Meade,46093,2022,motorcycle,3511
 Meade,46093,2022,off_road,2853
 Meade,46093,2022,passenger_low_speed,9938
+Meade,46093,2022,passenger_low_speed,9950
 Meade,46093,2022,pickup_suv_van,25227
+Meade,46093,2022,pickup_suv_van,25251
 Meade,46093,2022,recreational,384
+Meade,46093,2022,recreational,383
 Meade,46093,2022,snowmobile,388
 Meade,46093,2022,titles,12294
 Meade,46093,2022,trailer,10257
 Meade,46093,2022,truck,1299
+Meade,46093,2022,truck,1300
 Meade,46093,2021,boat,1625
 Meade,46093,2021,bus,91
 Meade,46093,2021,commercial_plate,1761
 Meade,46093,2021,electric,27
 Meade,46093,2021,gross_vehicle_weight,1198
+Meade,46093,2021,gross_vehicle_weight,1207
 Meade,46093,2021,irp_with_prorate_plate,149
 Meade,46093,2021,motorcycle,3445
 Meade,46093,2021,off_road,2736
@@ -6814,6 +7932,7 @@ Meade,46093,2020,bus,32
 Meade,46093,2020,commercial_plate,1621
 Meade,46093,2020,electric,13
 Meade,46093,2020,gross_vehicle_weight,1151
+Meade,46093,2020,gross_vehicle_weight,1164
 Meade,46093,2020,irp_with_prorate_plate,136
 Meade,46093,2020,motorcycle,3160
 Meade,46093,2020,off_road,2535
@@ -6829,6 +7948,7 @@ Meade,46093,2019,bus,49
 Meade,46093,2019,commercial_plate,1517
 Meade,46093,2019,electric,14
 Meade,46093,2019,gross_vehicle_weight,1085
+Meade,46093,2019,gross_vehicle_weight,1097
 Meade,46093,2019,irp_with_prorate_plate,128
 Meade,46093,2019,motorcycle,3097
 Meade,46093,2019,off_road,2257
@@ -6844,16 +7964,19 @@ Meade,46093,2018,bus,41
 Meade,46093,2018,commercial_plate,1570
 Meade,46093,2018,electric,9
 Meade,46093,2018,gross_vehicle_weight,1163
+Meade,46093,2018,gross_vehicle_weight,1177
 Meade,46093,2018,irp_with_prorate_plate,140
 Meade,46093,2018,motorcycle,3084
 Meade,46093,2018,off_road,2163
 Meade,46093,2018,passenger_low_speed,10875
 Meade,46093,2018,pickup_suv_van,22302
+Meade,46093,2018,pickup_suv_van,22301
 Meade,46093,2018,recreational,368
 Meade,46093,2018,snowmobile,502
 Meade,46093,2018,titles,12441
 Meade,46093,2018,trailer,9377
 Meade,46093,2018,truck,1354
+Meade,46093,2018,truck,1355
 Meade,46093,2017,boat,1571
 Meade,46093,2017,bus,45
 Meade,46093,2017,commercial_plate,1479
@@ -6899,6 +8022,21 @@ Meade,46093,2015,snowmobile,418
 Meade,46093,2015,titles,12565
 Meade,46093,2015,trailer,9164
 Meade,46093,2015,truck,1280
+Mellette,46095,2025,boat,0
+Mellette,46095,2025,bus,2
+Mellette,46095,2025,commercial_plate,0
+Mellette,46095,2025,electric,0
+Mellette,46095,2025,gross_vehicle_weight,26
+Mellette,46095,2025,irp_with_prorate_plate,1
+Mellette,46095,2025,motorcycle,1
+Mellette,46095,2025,off_road,6
+Mellette,46095,2025,passenger_low_speed,55
+Mellette,46095,2025,pickup_suv_van,168
+Mellette,46095,2025,recreational,1
+Mellette,46095,2025,snowmobile,0
+Mellette,46095,2025,titles,37
+Mellette,46095,2025,trailer,45
+Mellette,46095,2025,truck,10
 Mellette,46095,2024,boat,26
 Mellette,46095,2024,bus,2
 Mellette,46095,2024,commercial_plate,12
@@ -6934,11 +8072,14 @@ Mellette,46095,2022,bus,2
 Mellette,46095,2022,commercial_plate,10
 Mellette,46095,2022,electric,1
 Mellette,46095,2022,gross_vehicle_weight,251
+Mellette,46095,2022,gross_vehicle_weight,249
 Mellette,46095,2022,irp_with_prorate_plate,3
 Mellette,46095,2022,motorcycle,42
 Mellette,46095,2022,off_road,44
 Mellette,46095,2022,passenger_low_speed,506
+Mellette,46095,2022,passenger_low_speed,505
 Mellette,46095,2022,pickup_suv_van,1423
+Mellette,46095,2022,pickup_suv_van,1425
 Mellette,46095,2022,recreational,3
 Mellette,46095,2022,snowmobile,4
 Mellette,46095,2022,titles,682
@@ -6949,6 +8090,7 @@ Mellette,46095,2021,bus,3
 Mellette,46095,2021,commercial_plate,8
 Mellette,46095,2021,electric,1
 Mellette,46095,2021,gross_vehicle_weight,223
+Mellette,46095,2021,gross_vehicle_weight,221
 Mellette,46095,2021,irp_with_prorate_plate,2
 Mellette,46095,2021,motorcycle,46
 Mellette,46095,2021,off_road,32
@@ -6964,6 +8106,7 @@ Mellette,46095,2020,bus,3
 Mellette,46095,2020,commercial_plate,9
 Mellette,46095,2020,electric,0
 Mellette,46095,2020,gross_vehicle_weight,199
+Mellette,46095,2020,gross_vehicle_weight,197
 Mellette,46095,2020,irp_with_prorate_plate,2
 Mellette,46095,2020,motorcycle,45
 Mellette,46095,2020,off_road,32
@@ -6979,6 +8122,7 @@ Mellette,46095,2019,bus,2
 Mellette,46095,2019,commercial_plate,9
 Mellette,46095,2019,electric,0
 Mellette,46095,2019,gross_vehicle_weight,172
+Mellette,46095,2019,gross_vehicle_weight,170
 Mellette,46095,2019,irp_with_prorate_plate,2
 Mellette,46095,2019,motorcycle,42
 Mellette,46095,2019,off_road,32
@@ -6994,6 +8138,7 @@ Mellette,46095,2018,bus,6
 Mellette,46095,2018,commercial_plate,11
 Mellette,46095,2018,electric,0
 Mellette,46095,2018,gross_vehicle_weight,174
+Mellette,46095,2018,gross_vehicle_weight,171
 Mellette,46095,2018,irp_with_prorate_plate,2
 Mellette,46095,2018,motorcycle,45
 Mellette,46095,2018,off_road,28
@@ -7049,6 +8194,21 @@ Mellette,46095,2015,snowmobile,13
 Mellette,46095,2015,titles,697
 Mellette,46095,2015,trailer,555
 Mellette,46095,2015,truck,155
+Miner,46097,2025,boat,15
+Miner,46097,2025,bus,1
+Miner,46097,2025,commercial_plate,5
+Miner,46097,2025,electric,2
+Miner,46097,2025,gross_vehicle_weight,30
+Miner,46097,2025,irp_with_prorate_plate,0
+Miner,46097,2025,motorcycle,17
+Miner,46097,2025,off_road,26
+Miner,46097,2025,passenger_low_speed,69
+Miner,46097,2025,pickup_suv_van,339
+Miner,46097,2025,recreational,3
+Miner,46097,2025,snowmobile,14
+Miner,46097,2025,titles,45
+Miner,46097,2025,trailer,135
+Miner,46097,2025,truck,27
 Miner,46097,2024,boat,161
 Miner,46097,2024,bus,6
 Miner,46097,2024,commercial_plate,135
@@ -7086,9 +8246,11 @@ Miner,46097,2022,electric,2
 Miner,46097,2022,gross_vehicle_weight,338
 Miner,46097,2022,irp_with_prorate_plate,2
 Miner,46097,2022,motorcycle,157
+Miner,46097,2022,motorcycle,158
 Miner,46097,2022,off_road,296
 Miner,46097,2022,passenger_low_speed,792
 Miner,46097,2022,pickup_suv_van,2659
+Miner,46097,2022,pickup_suv_van,2661
 Miner,46097,2022,recreational,34
 Miner,46097,2022,snowmobile,62
 Miner,46097,2022,titles,938
@@ -7099,6 +8261,7 @@ Miner,46097,2021,bus,7
 Miner,46097,2021,commercial_plate,140
 Miner,46097,2021,electric,1
 Miner,46097,2021,gross_vehicle_weight,357
+Miner,46097,2021,gross_vehicle_weight,356
 Miner,46097,2021,irp_with_prorate_plate,3
 Miner,46097,2021,motorcycle,145
 Miner,46097,2021,off_road,259
@@ -7114,6 +8277,7 @@ Miner,46097,2020,bus,5
 Miner,46097,2020,commercial_plate,164
 Miner,46097,2020,electric,1
 Miner,46097,2020,gross_vehicle_weight,330
+Miner,46097,2020,gross_vehicle_weight,331
 Miner,46097,2020,irp_with_prorate_plate,4
 Miner,46097,2020,motorcycle,141
 Miner,46097,2020,off_road,249
@@ -7129,6 +8293,7 @@ Miner,46097,2019,bus,8
 Miner,46097,2019,commercial_plate,168
 Miner,46097,2019,electric,2
 Miner,46097,2019,gross_vehicle_weight,353
+Miner,46097,2019,gross_vehicle_weight,357
 Miner,46097,2019,irp_with_prorate_plate,2
 Miner,46097,2019,motorcycle,145
 Miner,46097,2019,off_road,237
@@ -7144,6 +8309,7 @@ Miner,46097,2018,bus,14
 Miner,46097,2018,commercial_plate,144
 Miner,46097,2018,electric,2
 Miner,46097,2018,gross_vehicle_weight,388
+Miner,46097,2018,gross_vehicle_weight,392
 Miner,46097,2018,irp_with_prorate_plate,4
 Miner,46097,2018,motorcycle,133
 Miner,46097,2018,off_road,216
@@ -7199,6 +8365,21 @@ Miner,46097,2015,snowmobile,79
 Miner,46097,2015,titles,1139
 Miner,46097,2015,trailer,1210
 Miner,46097,2015,truck,445
+Minnehaha,46099,2025,boat,1051
+Minnehaha,46099,2025,bus,10
+Minnehaha,46099,2025,commercial_plate,2230
+Minnehaha,46099,2025,electric,128
+Minnehaha,46099,2025,gross_vehicle_weight,245
+Minnehaha,46099,2025,irp_with_prorate_plate,95
+Minnehaha,46099,2025,motorcycle,996
+Minnehaha,46099,2025,off_road,698
+Minnehaha,46099,2025,passenger_low_speed,7124
+Minnehaha,46099,2025,pickup_suv_van,18344
+Minnehaha,46099,2025,recreational,245
+Minnehaha,46099,2025,snowmobile,200
+Minnehaha,46099,2025,titles,4341
+Minnehaha,46099,2025,trailer,4006
+Minnehaha,46099,2025,truck,791
 Minnehaha,46099,2024,boat,9202
 Minnehaha,46099,2024,bus,104
 Minnehaha,46099,2024,commercial_plate,12249
@@ -7230,70 +8411,95 @@ Minnehaha,46099,2023,titles,77648
 Minnehaha,46099,2023,trailer,34830
 Minnehaha,46099,2023,truck,6834
 Minnehaha,46099,2022,boat,9414
+Minnehaha,46099,2022,boat,9413
 Minnehaha,46099,2022,bus,124
 Minnehaha,46099,2022,commercial_plate,12062
 Minnehaha,46099,2022,electric,496
+Minnehaha,46099,2022,electric,493
 Minnehaha,46099,2022,gross_vehicle_weight,2110
+Minnehaha,46099,2022,gross_vehicle_weight,2222
 Minnehaha,46099,2022,irp_with_prorate_plate,1826
 Minnehaha,46099,2022,motorcycle,10981
+Minnehaha,46099,2022,motorcycle,10984
 Minnehaha,46099,2022,off_road,5444
+Minnehaha,46099,2022,off_road,5451
 Minnehaha,46099,2022,passenger_low_speed,69042
+Minnehaha,46099,2022,passenger_low_speed,69132
 Minnehaha,46099,2022,pickup_suv_van,135599
+Minnehaha,46099,2022,pickup_suv_van,135716
 Minnehaha,46099,2022,recreational,2698
+Minnehaha,46099,2022,recreational,2700
 Minnehaha,46099,2022,snowmobile,1379
 Minnehaha,46099,2022,titles,69974
+Minnehaha,46099,2022,titles,69972
 Minnehaha,46099,2022,trailer,34043
+Minnehaha,46099,2022,trailer,34042
 Minnehaha,46099,2022,truck,6481
+Minnehaha,46099,2022,truck,6479
 Minnehaha,46099,2021,boat,9885
 Minnehaha,46099,2021,bus,120
 Minnehaha,46099,2021,commercial_plate,12103
 Minnehaha,46099,2021,electric,426
+Minnehaha,46099,2021,electric,424
 Minnehaha,46099,2021,gross_vehicle_weight,2341
+Minnehaha,46099,2021,gross_vehicle_weight,2438
 Minnehaha,46099,2021,irp_with_prorate_plate,1715
 Minnehaha,46099,2021,motorcycle,11305
 Minnehaha,46099,2021,off_road,5340
 Minnehaha,46099,2021,passenger_low_speed,73035
 Minnehaha,46099,2021,pickup_suv_van,137320
+Minnehaha,46099,2021,pickup_suv_van,137319
 Minnehaha,46099,2021,recreational,2962
+Minnehaha,46099,2021,recreational,2961
 Minnehaha,46099,2021,snowmobile,1529
 Minnehaha,46099,2021,titles,80807
 Minnehaha,46099,2021,trailer,35213
+Minnehaha,46099,2021,trailer,35214
 Minnehaha,46099,2021,truck,6486
 Minnehaha,46099,2020,boat,9707
 Minnehaha,46099,2020,bus,100
 Minnehaha,46099,2020,commercial_plate,11835
 Minnehaha,46099,2020,electric,238
+Minnehaha,46099,2020,electric,241
 Minnehaha,46099,2020,gross_vehicle_weight,2520
+Minnehaha,46099,2020,gross_vehicle_weight,2586
 Minnehaha,46099,2020,irp_with_prorate_plate,1765
 Minnehaha,46099,2020,motorcycle,10841
 Minnehaha,46099,2020,off_road,4956
 Minnehaha,46099,2020,passenger_low_speed,73209
 Minnehaha,46099,2020,pickup_suv_van,129391
 Minnehaha,46099,2020,recreational,3061
+Minnehaha,46099,2020,recreational,3059
 Minnehaha,46099,2020,snowmobile,1574
 Minnehaha,46099,2020,titles,78431
 Minnehaha,46099,2020,trailer,33681
+Minnehaha,46099,2020,trailer,33683
 Minnehaha,46099,2020,truck,6542
 Minnehaha,46099,2019,boat,9440
 Minnehaha,46099,2019,bus,127
 Minnehaha,46099,2019,commercial_plate,11074
 Minnehaha,46099,2019,electric,155
+Minnehaha,46099,2019,electric,154
 Minnehaha,46099,2019,gross_vehicle_weight,2583
+Minnehaha,46099,2019,gross_vehicle_weight,2632
 Minnehaha,46099,2019,irp_with_prorate_plate,1854
 Minnehaha,46099,2019,motorcycle,10868
 Minnehaha,46099,2019,off_road,4369
 Minnehaha,46099,2019,passenger_low_speed,78673
 Minnehaha,46099,2019,pickup_suv_van,125981
+Minnehaha,46099,2019,pickup_suv_van,125983
 Minnehaha,46099,2019,recreational,3064
 Minnehaha,46099,2019,snowmobile,1643
 Minnehaha,46099,2019,titles,87453
 Minnehaha,46099,2019,trailer,32574
 Minnehaha,46099,2019,truck,6310
+Minnehaha,46099,2019,truck,6311
 Minnehaha,46099,2018,boat,9540
 Minnehaha,46099,2018,bus,296
 Minnehaha,46099,2018,commercial_plate,11533
 Minnehaha,46099,2018,electric,123
 Minnehaha,46099,2018,gross_vehicle_weight,2679
+Minnehaha,46099,2018,gross_vehicle_weight,2734
 Minnehaha,46099,2018,irp_with_prorate_plate,1866
 Minnehaha,46099,2018,motorcycle,11017
 Minnehaha,46099,2018,off_road,4098
@@ -7349,6 +8555,21 @@ Minnehaha,46099,2015,snowmobile,1601
 Minnehaha,46099,2015,titles,88700
 Minnehaha,46099,2015,trailer,30865
 Minnehaha,46099,2015,truck,6474
+Moody,46101,2025,boat,41
+Moody,46101,2025,bus,2
+Moody,46101,2025,commercial_plate,75
+Moody,46101,2025,electric,2
+Moody,46101,2025,gross_vehicle_weight,102
+Moody,46101,2025,irp_with_prorate_plate,1
+Moody,46101,2025,motorcycle,59
+Moody,46101,2025,off_road,102
+Moody,46101,2025,passenger_low_speed,252
+Moody,46101,2025,pickup_suv_van,753
+Moody,46101,2025,recreational,3
+Moody,46101,2025,snowmobile,23
+Moody,46101,2025,titles,91
+Moody,46101,2025,trailer,290
+Moody,46101,2025,truck,85
 Moody,46101,2024,boat,439
 Moody,46101,2024,bus,6
 Moody,46101,2024,commercial_plate,442
@@ -7384,21 +8605,26 @@ Moody,46101,2022,bus,6
 Moody,46101,2022,commercial_plate,402
 Moody,46101,2022,electric,7
 Moody,46101,2022,gross_vehicle_weight,1026
+Moody,46101,2022,gross_vehicle_weight,1022
 Moody,46101,2022,irp_with_prorate_plate,87
 Moody,46101,2022,motorcycle,441
 Moody,46101,2022,off_road,836
 Moody,46101,2022,passenger_low_speed,2345
+Moody,46101,2022,passenger_low_speed,2347
 Moody,46101,2022,pickup_suv_van,6050
+Moody,46101,2022,pickup_suv_van,6055
 Moody,46101,2022,recreational,50
 Moody,46101,2022,snowmobile,186
 Moody,46101,2022,titles,2453
 Moody,46101,2022,trailer,2774
+Moody,46101,2022,trailer,2776
 Moody,46101,2022,truck,855
 Moody,46101,2021,boat,459
 Moody,46101,2021,bus,4
 Moody,46101,2021,commercial_plate,459
 Moody,46101,2021,electric,10
 Moody,46101,2021,gross_vehicle_weight,1024
+Moody,46101,2021,gross_vehicle_weight,1020
 Moody,46101,2021,irp_with_prorate_plate,83
 Moody,46101,2021,motorcycle,464
 Moody,46101,2021,off_road,794
@@ -7414,10 +8640,12 @@ Moody,46101,2020,bus,5
 Moody,46101,2020,commercial_plate,372
 Moody,46101,2020,electric,6
 Moody,46101,2020,gross_vehicle_weight,982
+Moody,46101,2020,gross_vehicle_weight,976
 Moody,46101,2020,irp_with_prorate_plate,88
 Moody,46101,2020,motorcycle,449
 Moody,46101,2020,off_road,717
 Moody,46101,2020,passenger_low_speed,2636
+Moody,46101,2020,passenger_low_speed,2635
 Moody,46101,2020,pickup_suv_van,5755
 Moody,46101,2020,recreational,48
 Moody,46101,2020,snowmobile,188
@@ -7429,6 +8657,7 @@ Moody,46101,2019,bus,8
 Moody,46101,2019,commercial_plate,377
 Moody,46101,2019,electric,8
 Moody,46101,2019,gross_vehicle_weight,954
+Moody,46101,2019,gross_vehicle_weight,952
 Moody,46101,2019,irp_with_prorate_plate,91
 Moody,46101,2019,motorcycle,421
 Moody,46101,2019,off_road,668
@@ -7499,6 +8728,21 @@ Moody,46101,2015,snowmobile,229
 Moody,46101,2015,titles,2648
 Moody,46101,2015,trailer,2467
 Moody,46101,2015,truck,808
+Oglala Lakota,,2025,boat,9
+Oglala Lakota,,2025,bus,0
+Oglala Lakota,,2025,commercial_plate,2
+Oglala Lakota,,2025,electric,3
+Oglala Lakota,,2025,gross_vehicle_weight,42
+Oglala Lakota,,2025,irp_with_prorate_plate,0
+Oglala Lakota,,2025,motorcycle,10
+Oglala Lakota,,2025,off_road,3
+Oglala Lakota,,2025,passenger_low_speed,193
+Oglala Lakota,,2025,pickup_suv_van,479
+Oglala Lakota,,2025,recreational,2
+Oglala Lakota,,2025,snowmobile,0
+Oglala Lakota,,2025,titles,135
+Oglala Lakota,,2025,trailer,55
+Oglala Lakota,,2025,truck,3
 Oglala Lakota,,2024,boat,50
 Oglala Lakota,,2024,bus,10
 Oglala Lakota,,2024,commercial_plate,74
@@ -7533,12 +8777,15 @@ Oglala Lakota,,2022,boat,57
 Oglala Lakota,,2022,bus,15
 Oglala Lakota,,2022,commercial_plate,60
 Oglala Lakota,,2022,electric,2
+Oglala Lakota,,2022,electric,4
 Oglala Lakota,,2022,gross_vehicle_weight,456
 Oglala Lakota,,2022,irp_with_prorate_plate,0
 Oglala Lakota,,2022,motorcycle,226
 Oglala Lakota,,2022,off_road,57
 Oglala Lakota,,2022,passenger_low_speed,2778
+Oglala Lakota,,2022,passenger_low_speed,2786
 Oglala Lakota,,2022,pickup_suv_van,5554
+Oglala Lakota,,2022,pickup_suv_van,5584
 Oglala Lakota,,2022,recreational,16
 Oglala Lakota,,2022,snowmobile,3
 Oglala Lakota,,2022,titles,3184
@@ -7549,11 +8796,14 @@ Oglala Lakota,,2021,bus,14
 Oglala Lakota,,2021,commercial_plate,29
 Oglala Lakota,,2021,electric,1
 Oglala Lakota,,2021,gross_vehicle_weight,470
+Oglala Lakota,,2021,gross_vehicle_weight,473
 Oglala Lakota,,2021,irp_with_prorate_plate,0
 Oglala Lakota,,2021,motorcycle,233
 Oglala Lakota,,2021,off_road,53
 Oglala Lakota,,2021,passenger_low_speed,3495
+Oglala Lakota,,2021,passenger_low_speed,3494
 Oglala Lakota,,2021,pickup_suv_van,6221
+Oglala Lakota,,2021,pickup_suv_van,6220
 Oglala Lakota,,2021,recreational,17
 Oglala Lakota,,2021,snowmobile,5
 Oglala Lakota,,2021,titles,4273
@@ -7564,6 +8814,7 @@ Oglala Lakota,,2020,bus,12
 Oglala Lakota,,2020,commercial_plate,33
 Oglala Lakota,,2020,electric,0
 Oglala Lakota,,2020,gross_vehicle_weight,402
+Oglala Lakota,,2020,gross_vehicle_weight,400
 Oglala Lakota,,2020,irp_with_prorate_plate,0
 Oglala Lakota,,2020,motorcycle,194
 Oglala Lakota,,2020,off_road,49
@@ -7579,11 +8830,13 @@ Oglala Lakota,,2019,bus,24
 Oglala Lakota,,2019,commercial_plate,49
 Oglala Lakota,,2019,electric,0
 Oglala Lakota,,2019,gross_vehicle_weight,404
+Oglala Lakota,,2019,gross_vehicle_weight,403
 Oglala Lakota,,2019,irp_with_prorate_plate,0
 Oglala Lakota,,2019,motorcycle,159
 Oglala Lakota,,2019,off_road,44
 Oglala Lakota,,2019,passenger_low_speed,3095
 Oglala Lakota,,2019,pickup_suv_van,5057
+Oglala Lakota,,2019,pickup_suv_van,5059
 Oglala Lakota,,2019,recreational,17
 Oglala Lakota,,2019,snowmobile,6
 Oglala Lakota,,2019,titles,3222
@@ -7594,11 +8847,13 @@ Oglala Lakota,,2018,bus,62
 Oglala Lakota,,2018,commercial_plate,28
 Oglala Lakota,,2018,electric,2
 Oglala Lakota,,2018,gross_vehicle_weight,409
+Oglala Lakota,,2018,gross_vehicle_weight,408
 Oglala Lakota,,2018,irp_with_prorate_plate,2
 Oglala Lakota,,2018,motorcycle,147
 Oglala Lakota,,2018,off_road,44
 Oglala Lakota,,2018,passenger_low_speed,3396
 Oglala Lakota,,2018,pickup_suv_van,5101
+Oglala Lakota,,2018,pickup_suv_van,5102
 Oglala Lakota,,2018,recreational,17
 Oglala Lakota,,2018,snowmobile,11
 Oglala Lakota,,2018,titles,3389
@@ -7649,6 +8904,21 @@ Oglala Lakota,,2015,snowmobile,6
 Oglala Lakota,,2015,titles,3516
 Oglala Lakota,,2015,trailer,856
 Oglala Lakota,,2015,truck,173
+Pennington,46103,2025,boat,524
+Pennington,46103,2025,bus,10
+Pennington,46103,2025,commercial_plate,937
+Pennington,46103,2025,electric,77
+Pennington,46103,2025,gross_vehicle_weight,187
+Pennington,46103,2025,irp_with_prorate_plate,9
+Pennington,46103,2025,motorcycle,1126
+Pennington,46103,2025,off_road,924
+Pennington,46103,2025,passenger_low_speed,4077
+Pennington,46103,2025,pickup_suv_van,11335
+Pennington,46103,2025,recreational,418
+Pennington,46103,2025,snowmobile,151
+Pennington,46103,2025,titles,3102
+Pennington,46103,2025,trailer,3332
+Pennington,46103,2025,truck,418
 Pennington,46103,2024,boat,5181
 Pennington,46103,2024,bus,135
 Pennington,46103,2024,commercial_plate,6622
@@ -7683,27 +8953,40 @@ Pennington,46103,2022,boat,5466
 Pennington,46103,2022,bus,147
 Pennington,46103,2022,commercial_plate,6622
 Pennington,46103,2022,electric,375
+Pennington,46103,2022,electric,374
 Pennington,46103,2022,gross_vehicle_weight,1754
+Pennington,46103,2022,gross_vehicle_weight,1804
 Pennington,46103,2022,irp_with_prorate_plate,451
 Pennington,46103,2022,motorcycle,11037
 Pennington,46103,2022,off_road,9417
+Pennington,46103,2022,off_road,9420
 Pennington,46103,2022,passenger_low_speed,40917
+Pennington,46103,2022,passenger_low_speed,40964
 Pennington,46103,2022,pickup_suv_van,95213
+Pennington,46103,2022,pickup_suv_van,95286
 Pennington,46103,2022,recreational,4470
+Pennington,46103,2022,recreational,4473
 Pennington,46103,2022,snowmobile,836
 Pennington,46103,2022,titles,50816
+Pennington,46103,2022,titles,50814
 Pennington,46103,2022,trailer,30630
+Pennington,46103,2022,trailer,30629
 Pennington,46103,2022,truck,3572
+Pennington,46103,2022,truck,3571
 Pennington,46103,2021,boat,5767
 Pennington,46103,2021,bus,127
 Pennington,46103,2021,commercial_plate,6956
 Pennington,46103,2021,electric,252
+Pennington,46103,2021,electric,249
 Pennington,46103,2021,gross_vehicle_weight,1928
+Pennington,46103,2021,gross_vehicle_weight,1978
 Pennington,46103,2021,irp_with_prorate_plate,493
 Pennington,46103,2021,motorcycle,10899
 Pennington,46103,2021,off_road,9569
+Pennington,46103,2021,off_road,9567
 Pennington,46103,2021,passenger_low_speed,43536
 Pennington,46103,2021,pickup_suv_van,96870
+Pennington,46103,2021,pickup_suv_van,96869
 Pennington,46103,2021,recreational,4696
 Pennington,46103,2021,snowmobile,865
 Pennington,46103,2021,titles,60557
@@ -7713,12 +8996,16 @@ Pennington,46103,2020,boat,5636
 Pennington,46103,2020,bus,109
 Pennington,46103,2020,commercial_plate,6728
 Pennington,46103,2020,electric,150
+Pennington,46103,2020,electric,146
 Pennington,46103,2020,gross_vehicle_weight,1866
+Pennington,46103,2020,gross_vehicle_weight,1885
 Pennington,46103,2020,irp_with_prorate_plate,480
 Pennington,46103,2020,motorcycle,10252
 Pennington,46103,2020,off_road,8249
+Pennington,46103,2020,off_road,8248
 Pennington,46103,2020,passenger_low_speed,42650
 Pennington,46103,2020,pickup_suv_van,90183
+Pennington,46103,2020,pickup_suv_van,90184
 Pennington,46103,2020,recreational,4252
 Pennington,46103,2020,snowmobile,928
 Pennington,46103,2020,titles,53022
@@ -7729,11 +9016,14 @@ Pennington,46103,2019,bus,116
 Pennington,46103,2019,commercial_plate,6593
 Pennington,46103,2019,electric,108
 Pennington,46103,2019,gross_vehicle_weight,1919
+Pennington,46103,2019,gross_vehicle_weight,1929
 Pennington,46103,2019,irp_with_prorate_plate,555
 Pennington,46103,2019,motorcycle,10216
 Pennington,46103,2019,off_road,7217
+Pennington,46103,2019,off_road,7216
 Pennington,46103,2019,passenger_low_speed,45759
 Pennington,46103,2019,pickup_suv_van,87305
+Pennington,46103,2019,pickup_suv_van,87306
 Pennington,46103,2019,recreational,4109
 Pennington,46103,2019,snowmobile,881
 Pennington,46103,2019,titles,55555
@@ -7743,7 +9033,9 @@ Pennington,46103,2018,boat,5743
 Pennington,46103,2018,bus,239
 Pennington,46103,2018,commercial_plate,6637
 Pennington,46103,2018,electric,68
+Pennington,46103,2018,electric,67
 Pennington,46103,2018,gross_vehicle_weight,1967
+Pennington,46103,2018,gross_vehicle_weight,1971
 Pennington,46103,2018,irp_with_prorate_plate,578
 Pennington,46103,2018,motorcycle,10283
 Pennington,46103,2018,off_road,6481
@@ -7753,6 +9045,7 @@ Pennington,46103,2018,recreational,3733
 Pennington,46103,2018,snowmobile,935
 Pennington,46103,2018,titles,53323
 Pennington,46103,2018,trailer,27979
+Pennington,46103,2018,trailer,27980
 Pennington,46103,2018,truck,3731
 Pennington,46103,2017,boat,5820
 Pennington,46103,2017,bus,123
@@ -7799,6 +9092,21 @@ Pennington,46103,2015,snowmobile,918
 Pennington,46103,2015,titles,53408
 Pennington,46103,2015,trailer,25772
 Pennington,46103,2015,truck,4013
+Perkins,46105,2025,boat,28
+Perkins,46105,2025,bus,0
+Perkins,46105,2025,commercial_plate,10
+Perkins,46105,2025,electric,0
+Perkins,46105,2025,gross_vehicle_weight,57
+Perkins,46105,2025,irp_with_prorate_plate,0
+Perkins,46105,2025,motorcycle,29
+Perkins,46105,2025,off_road,27
+Perkins,46105,2025,passenger_low_speed,112
+Perkins,46105,2025,pickup_suv_van,522
+Perkins,46105,2025,recreational,3
+Perkins,46105,2025,snowmobile,2
+Perkins,46105,2025,titles,65
+Perkins,46105,2025,trailer,234
+Perkins,46105,2025,truck,47
 Perkins,46105,2024,boat,272
 Perkins,46105,2024,bus,2
 Perkins,46105,2024,commercial_plate,149
@@ -7834,11 +9142,13 @@ Perkins,46105,2022,bus,3
 Perkins,46105,2022,commercial_plate,144
 Perkins,46105,2022,electric,1
 Perkins,46105,2022,gross_vehicle_weight,514
+Perkins,46105,2022,gross_vehicle_weight,515
 Perkins,46105,2022,irp_with_prorate_plate,9
 Perkins,46105,2022,motorcycle,188
 Perkins,46105,2022,off_road,169
 Perkins,46105,2022,passenger_low_speed,917
 Perkins,46105,2022,pickup_suv_van,3369
+Perkins,46105,2022,pickup_suv_van,3374
 Perkins,46105,2022,recreational,19
 Perkins,46105,2022,snowmobile,19
 Perkins,46105,2022,titles,1110
@@ -7864,6 +9174,7 @@ Perkins,46105,2020,bus,3
 Perkins,46105,2020,commercial_plate,163
 Perkins,46105,2020,electric,1
 Perkins,46105,2020,gross_vehicle_weight,495
+Perkins,46105,2020,gross_vehicle_weight,492
 Perkins,46105,2020,irp_with_prorate_plate,16
 Perkins,46105,2020,motorcycle,165
 Perkins,46105,2020,off_road,160
@@ -7949,6 +9260,21 @@ Perkins,46105,2015,snowmobile,42
 Perkins,46105,2015,titles,1610
 Perkins,46105,2015,trailer,1768
 Perkins,46105,2015,truck,648
+Potter,46107,2025,boat,29
+Potter,46107,2025,bus,2
+Potter,46107,2025,commercial_plate,20
+Potter,46107,2025,electric,0
+Potter,46107,2025,gross_vehicle_weight,40
+Potter,46107,2025,irp_with_prorate_plate,1
+Potter,46107,2025,motorcycle,5
+Potter,46107,2025,off_road,27
+Potter,46107,2025,passenger_low_speed,75
+Potter,46107,2025,pickup_suv_van,303
+Potter,46107,2025,recreational,1
+Potter,46107,2025,snowmobile,4
+Potter,46107,2025,titles,44
+Potter,46107,2025,trailer,162
+Potter,46107,2025,truck,49
 Potter,46107,2024,boat,326
 Potter,46107,2024,bus,17
 Potter,46107,2024,commercial_plate,186
@@ -7984,11 +9310,13 @@ Potter,46107,2022,bus,17
 Potter,46107,2022,commercial_plate,169
 Potter,46107,2022,electric,3
 Potter,46107,2022,gross_vehicle_weight,480
+Potter,46107,2022,gross_vehicle_weight,483
 Potter,46107,2022,irp_with_prorate_plate,13
 Potter,46107,2022,motorcycle,133
 Potter,46107,2022,off_road,266
 Potter,46107,2022,passenger_low_speed,743
 Potter,46107,2022,pickup_suv_van,2641
+Potter,46107,2022,pickup_suv_van,2645
 Potter,46107,2022,recreational,28
 Potter,46107,2022,snowmobile,55
 Potter,46107,2022,titles,980
@@ -7999,6 +9327,7 @@ Potter,46107,2021,bus,17
 Potter,46107,2021,commercial_plate,180
 Potter,46107,2021,electric,3
 Potter,46107,2021,gross_vehicle_weight,501
+Potter,46107,2021,gross_vehicle_weight,502
 Potter,46107,2021,irp_with_prorate_plate,13
 Potter,46107,2021,motorcycle,165
 Potter,46107,2021,off_road,259
@@ -8014,6 +9343,7 @@ Potter,46107,2020,bus,14
 Potter,46107,2020,commercial_plate,186
 Potter,46107,2020,electric,3
 Potter,46107,2020,gross_vehicle_weight,482
+Potter,46107,2020,gross_vehicle_weight,483
 Potter,46107,2020,irp_with_prorate_plate,11
 Potter,46107,2020,motorcycle,152
 Potter,46107,2020,off_road,234
@@ -8044,6 +9374,7 @@ Potter,46107,2018,bus,17
 Potter,46107,2018,commercial_plate,175
 Potter,46107,2018,electric,1
 Potter,46107,2018,gross_vehicle_weight,481
+Potter,46107,2018,gross_vehicle_weight,480
 Potter,46107,2018,irp_with_prorate_plate,17
 Potter,46107,2018,motorcycle,164
 Potter,46107,2018,off_road,209
@@ -8099,6 +9430,21 @@ Potter,46107,2015,snowmobile,69
 Potter,46107,2015,titles,1313
 Potter,46107,2015,trailer,1628
 Potter,46107,2015,truck,661
+Roberts,46109,2025,boat,121
+Roberts,46109,2025,bus,1
+Roberts,46109,2025,commercial_plate,31
+Roberts,46109,2025,electric,1
+Roberts,46109,2025,gross_vehicle_weight,54
+Roberts,46109,2025,irp_with_prorate_plate,0
+Roberts,46109,2025,motorcycle,55
+Roberts,46109,2025,off_road,81
+Roberts,46109,2025,passenger_low_speed,335
+Roberts,46109,2025,pickup_suv_van,1068
+Roberts,46109,2025,recreational,3
+Roberts,46109,2025,snowmobile,25
+Roberts,46109,2025,titles,164
+Roberts,46109,2025,trailer,441
+Roberts,46109,2025,truck,66
 Roberts,46109,2024,boat,1123
 Roberts,46109,2024,bus,5
 Roberts,46109,2024,commercial_plate,361
@@ -8134,11 +9480,14 @@ Roberts,46109,2022,bus,4
 Roberts,46109,2022,commercial_plate,344
 Roberts,46109,2022,electric,5
 Roberts,46109,2022,gross_vehicle_weight,787
+Roberts,46109,2022,gross_vehicle_weight,794
 Roberts,46109,2022,irp_with_prorate_plate,39
 Roberts,46109,2022,motorcycle,515
 Roberts,46109,2022,off_road,506
 Roberts,46109,2022,passenger_low_speed,3069
+Roberts,46109,2022,passenger_low_speed,3072
 Roberts,46109,2022,pickup_suv_van,8524
+Roberts,46109,2022,pickup_suv_van,8540
 Roberts,46109,2022,recreational,69
 Roberts,46109,2022,snowmobile,227
 Roberts,46109,2022,titles,3738
@@ -8149,6 +9498,7 @@ Roberts,46109,2021,bus,6
 Roberts,46109,2021,commercial_plate,370
 Roberts,46109,2021,electric,4
 Roberts,46109,2021,gross_vehicle_weight,812
+Roberts,46109,2021,gross_vehicle_weight,819
 Roberts,46109,2021,irp_with_prorate_plate,40
 Roberts,46109,2021,motorcycle,524
 Roberts,46109,2021,off_road,478
@@ -8164,11 +9514,13 @@ Roberts,46109,2020,bus,3
 Roberts,46109,2020,commercial_plate,372
 Roberts,46109,2020,electric,3
 Roberts,46109,2020,gross_vehicle_weight,818
+Roberts,46109,2020,gross_vehicle_weight,826
 Roberts,46109,2020,irp_with_prorate_plate,41
 Roberts,46109,2020,motorcycle,481
 Roberts,46109,2020,off_road,440
 Roberts,46109,2020,passenger_low_speed,3476
 Roberts,46109,2020,pickup_suv_van,8368
+Roberts,46109,2020,pickup_suv_van,8367
 Roberts,46109,2020,recreational,53
 Roberts,46109,2020,snowmobile,255
 Roberts,46109,2020,titles,4056
@@ -8179,6 +9531,7 @@ Roberts,46109,2019,bus,25
 Roberts,46109,2019,commercial_plate,398
 Roberts,46109,2019,electric,3
 Roberts,46109,2019,gross_vehicle_weight,878
+Roberts,46109,2019,gross_vehicle_weight,886
 Roberts,46109,2019,irp_with_prorate_plate,38
 Roberts,46109,2019,motorcycle,445
 Roberts,46109,2019,off_road,371
@@ -8194,6 +9547,7 @@ Roberts,46109,2018,bus,36
 Roberts,46109,2018,commercial_plate,378
 Roberts,46109,2018,electric,2
 Roberts,46109,2018,gross_vehicle_weight,871
+Roberts,46109,2018,gross_vehicle_weight,879
 Roberts,46109,2018,irp_with_prorate_plate,39
 Roberts,46109,2018,motorcycle,450
 Roberts,46109,2018,off_road,342
@@ -8249,6 +9603,21 @@ Roberts,46109,2015,snowmobile,282
 Roberts,46109,2015,titles,4516
 Roberts,46109,2015,trailer,3641
 Roberts,46109,2015,truck,1146
+Sanborn,46111,2025,boat,11
+Sanborn,46111,2025,bus,0
+Sanborn,46111,2025,commercial_plate,37
+Sanborn,46111,2025,electric,1
+Sanborn,46111,2025,gross_vehicle_weight,58
+Sanborn,46111,2025,irp_with_prorate_plate,2
+Sanborn,46111,2025,motorcycle,5
+Sanborn,46111,2025,off_road,22
+Sanborn,46111,2025,passenger_low_speed,87
+Sanborn,46111,2025,pickup_suv_van,380
+Sanborn,46111,2025,recreational,3
+Sanborn,46111,2025,snowmobile,2
+Sanborn,46111,2025,titles,72
+Sanborn,46111,2025,trailer,165
+Sanborn,46111,2025,truck,59
 Sanborn,46111,2024,boat,148
 Sanborn,46111,2024,bus,2
 Sanborn,46111,2024,commercial_plate,162
@@ -8288,11 +9657,14 @@ Sanborn,46111,2022,irp_with_prorate_plate,17
 Sanborn,46111,2022,motorcycle,126
 Sanborn,46111,2022,off_road,254
 Sanborn,46111,2022,passenger_low_speed,805
+Sanborn,46111,2022,passenger_low_speed,807
 Sanborn,46111,2022,pickup_suv_van,2718
+Sanborn,46111,2022,pickup_suv_van,2721
 Sanborn,46111,2022,recreational,16
 Sanborn,46111,2022,snowmobile,30
 Sanborn,46111,2022,titles,1117
 Sanborn,46111,2022,trailer,1403
+Sanborn,46111,2022,trailer,1404
 Sanborn,46111,2022,truck,417
 Sanborn,46111,2021,boat,179
 Sanborn,46111,2021,bus,2
@@ -8329,6 +9701,7 @@ Sanborn,46111,2019,bus,3
 Sanborn,46111,2019,commercial_plate,152
 Sanborn,46111,2019,electric,2
 Sanborn,46111,2019,gross_vehicle_weight,347
+Sanborn,46111,2019,gross_vehicle_weight,345
 Sanborn,46111,2019,irp_with_prorate_plate,20
 Sanborn,46111,2019,motorcycle,116
 Sanborn,46111,2019,off_road,201
@@ -8344,6 +9717,7 @@ Sanborn,46111,2018,bus,9
 Sanborn,46111,2018,commercial_plate,159
 Sanborn,46111,2018,electric,1
 Sanborn,46111,2018,gross_vehicle_weight,406
+Sanborn,46111,2018,gross_vehicle_weight,405
 Sanborn,46111,2018,irp_with_prorate_plate,21
 Sanborn,46111,2018,motorcycle,112
 Sanborn,46111,2018,off_road,186
@@ -8399,6 +9773,21 @@ Sanborn,46111,2015,snowmobile,68
 Sanborn,46111,2015,titles,1167
 Sanborn,46111,2015,trailer,1337
 Sanborn,46111,2015,truck,421
+Spink,46115,2025,boat,42
+Spink,46115,2025,bus,1
+Spink,46115,2025,commercial_plate,52
+Spink,46115,2025,electric,1
+Spink,46115,2025,gross_vehicle_weight,81
+Spink,46115,2025,irp_with_prorate_plate,3
+Spink,46115,2025,motorcycle,34
+Spink,46115,2025,off_road,83
+Spink,46115,2025,passenger_low_speed,207
+Spink,46115,2025,pickup_suv_van,807
+Spink,46115,2025,recreational,6
+Spink,46115,2025,snowmobile,19
+Spink,46115,2025,titles,106
+Spink,46115,2025,trailer,359
+Spink,46115,2025,truck,120
 Spink,46115,2024,boat,530
 Spink,46115,2024,bus,14
 Spink,46115,2024,commercial_plate,337
@@ -8434,21 +9823,26 @@ Spink,46115,2022,bus,11
 Spink,46115,2022,commercial_plate,350
 Spink,46115,2022,electric,8
 Spink,46115,2022,gross_vehicle_weight,1035
+Spink,46115,2022,gross_vehicle_weight,1037
 Spink,46115,2022,irp_with_prorate_plate,75
 Spink,46115,2022,motorcycle,390
+Spink,46115,2022,motorcycle,392
 Spink,46115,2022,off_road,538
 Spink,46115,2022,passenger_low_speed,1794
 Spink,46115,2022,pickup_suv_van,6266
+Spink,46115,2022,pickup_suv_van,6270
 Spink,46115,2022,recreational,61
 Spink,46115,2022,snowmobile,120
 Spink,46115,2022,titles,2561
 Spink,46115,2022,trailer,3432
+Spink,46115,2022,trailer,3430
 Spink,46115,2022,truck,1160
 Spink,46115,2021,boat,600
 Spink,46115,2021,bus,13
 Spink,46115,2021,commercial_plate,322
 Spink,46115,2021,electric,7
 Spink,46115,2021,gross_vehicle_weight,1144
+Spink,46115,2021,gross_vehicle_weight,1143
 Spink,46115,2021,irp_with_prorate_plate,68
 Spink,46115,2021,motorcycle,379
 Spink,46115,2021,off_road,519
@@ -8464,6 +9858,7 @@ Spink,46115,2020,bus,11
 Spink,46115,2020,commercial_plate,321
 Spink,46115,2020,electric,7
 Spink,46115,2020,gross_vehicle_weight,1058
+Spink,46115,2020,gross_vehicle_weight,1059
 Spink,46115,2020,irp_with_prorate_plate,77
 Spink,46115,2020,motorcycle,370
 Spink,46115,2020,off_road,518
@@ -8479,6 +9874,7 @@ Spink,46115,2019,bus,21
 Spink,46115,2019,commercial_plate,318
 Spink,46115,2019,electric,5
 Spink,46115,2019,gross_vehicle_weight,1014
+Spink,46115,2019,gross_vehicle_weight,1012
 Spink,46115,2019,irp_with_prorate_plate,67
 Spink,46115,2019,motorcycle,382
 Spink,46115,2019,off_road,446
@@ -8494,6 +9890,7 @@ Spink,46115,2018,bus,29
 Spink,46115,2018,commercial_plate,408
 Spink,46115,2018,electric,4
 Spink,46115,2018,gross_vehicle_weight,1102
+Spink,46115,2018,gross_vehicle_weight,1099
 Spink,46115,2018,irp_with_prorate_plate,58
 Spink,46115,2018,motorcycle,413
 Spink,46115,2018,off_road,455
@@ -8549,6 +9946,21 @@ Spink,46115,2015,snowmobile,222
 Spink,46115,2015,titles,3063
 Spink,46115,2015,trailer,3618
 Spink,46115,2015,truck,1302
+Stanley,46117,2025,boat,53
+Stanley,46117,2025,bus,0
+Stanley,46117,2025,commercial_plate,65
+Stanley,46117,2025,electric,0
+Stanley,46117,2025,gross_vehicle_weight,23
+Stanley,46117,2025,irp_with_prorate_plate,0
+Stanley,46117,2025,motorcycle,20
+Stanley,46117,2025,off_road,24
+Stanley,46117,2025,passenger_low_speed,124
+Stanley,46117,2025,pickup_suv_van,398
+Stanley,46117,2025,recreational,4
+Stanley,46117,2025,snowmobile,5
+Stanley,46117,2025,titles,93
+Stanley,46117,2025,trailer,202
+Stanley,46117,2025,truck,45
 Stanley,46117,2024,boat,604
 Stanley,46117,2024,bus,1
 Stanley,46117,2024,commercial_plate,492
@@ -8584,21 +9996,26 @@ Stanley,46117,2022,bus,3
 Stanley,46117,2022,commercial_plate,465
 Stanley,46117,2022,electric,2
 Stanley,46117,2022,gross_vehicle_weight,281
+Stanley,46117,2022,gross_vehicle_weight,291
 Stanley,46117,2022,irp_with_prorate_plate,10
 Stanley,46117,2022,motorcycle,190
 Stanley,46117,2022,off_road,214
 Stanley,46117,2022,passenger_low_speed,963
+Stanley,46117,2022,passenger_low_speed,962
 Stanley,46117,2022,pickup_suv_van,3401
+Stanley,46117,2022,pickup_suv_van,3406
 Stanley,46117,2022,recreational,41
 Stanley,46117,2022,snowmobile,29
 Stanley,46117,2022,titles,1495
 Stanley,46117,2022,trailer,1975
 Stanley,46117,2022,truck,401
+Stanley,46117,2022,truck,402
 Stanley,46117,2021,boat,658
 Stanley,46117,2021,bus,4
 Stanley,46117,2021,commercial_plate,479
 Stanley,46117,2021,electric,2
 Stanley,46117,2021,gross_vehicle_weight,278
+Stanley,46117,2021,gross_vehicle_weight,282
 Stanley,46117,2021,irp_with_prorate_plate,8
 Stanley,46117,2021,motorcycle,180
 Stanley,46117,2021,off_road,212
@@ -8614,6 +10031,7 @@ Stanley,46117,2020,bus,5
 Stanley,46117,2020,commercial_plate,469
 Stanley,46117,2020,electric,3
 Stanley,46117,2020,gross_vehicle_weight,293
+Stanley,46117,2020,gross_vehicle_weight,300
 Stanley,46117,2020,irp_with_prorate_plate,9
 Stanley,46117,2020,motorcycle,173
 Stanley,46117,2020,off_road,194
@@ -8629,6 +10047,7 @@ Stanley,46117,2019,bus,5
 Stanley,46117,2019,commercial_plate,458
 Stanley,46117,2019,electric,0
 Stanley,46117,2019,gross_vehicle_weight,298
+Stanley,46117,2019,gross_vehicle_weight,307
 Stanley,46117,2019,irp_with_prorate_plate,9
 Stanley,46117,2019,motorcycle,184
 Stanley,46117,2019,off_road,186
@@ -8644,6 +10063,7 @@ Stanley,46117,2018,bus,7
 Stanley,46117,2018,commercial_plate,445
 Stanley,46117,2018,electric,1
 Stanley,46117,2018,gross_vehicle_weight,285
+Stanley,46117,2018,gross_vehicle_weight,292
 Stanley,46117,2018,irp_with_prorate_plate,10
 Stanley,46117,2018,motorcycle,173
 Stanley,46117,2018,off_road,204
@@ -8699,6 +10119,21 @@ Stanley,46117,2015,snowmobile,58
 Stanley,46117,2015,titles,2056
 Stanley,46117,2015,trailer,1781
 Stanley,46117,2015,truck,462
+Sully,46119,2025,boat,30
+Sully,46119,2025,bus,0
+Sully,46119,2025,commercial_plate,4
+Sully,46119,2025,electric,0
+Sully,46119,2025,gross_vehicle_weight,65
+Sully,46119,2025,irp_with_prorate_plate,0
+Sully,46119,2025,motorcycle,7
+Sully,46119,2025,off_road,20
+Sully,46119,2025,passenger_low_speed,43
+Sully,46119,2025,pickup_suv_van,250
+Sully,46119,2025,recreational,2
+Sully,46119,2025,snowmobile,8
+Sully,46119,2025,titles,39
+Sully,46119,2025,trailer,126
+Sully,46119,2025,truck,62
 Sully,46119,2024,boat,269
 Sully,46119,2024,bus,13
 Sully,46119,2024,commercial_plate,117
@@ -8734,11 +10169,16 @@ Sully,46119,2022,bus,17
 Sully,46119,2022,commercial_plate,142
 Sully,46119,2022,electric,3
 Sully,46119,2022,gross_vehicle_weight,411
+Sully,46119,2022,gross_vehicle_weight,415
 Sully,46119,2022,irp_with_prorate_plate,2
 Sully,46119,2022,motorcycle,108
+Sully,46119,2022,motorcycle,107
 Sully,46119,2022,off_road,177
+Sully,46119,2022,off_road,178
 Sully,46119,2022,passenger_low_speed,457
+Sully,46119,2022,passenger_low_speed,456
 Sully,46119,2022,pickup_suv_van,2078
+Sully,46119,2022,pickup_suv_van,2079
 Sully,46119,2022,recreational,26
 Sully,46119,2022,snowmobile,44
 Sully,46119,2022,titles,876
@@ -8764,6 +10204,7 @@ Sully,46119,2020,bus,13
 Sully,46119,2020,commercial_plate,105
 Sully,46119,2020,electric,3
 Sully,46119,2020,gross_vehicle_weight,408
+Sully,46119,2020,gross_vehicle_weight,409
 Sully,46119,2020,irp_with_prorate_plate,9
 Sully,46119,2020,motorcycle,131
 Sully,46119,2020,off_road,169
@@ -8779,6 +10220,7 @@ Sully,46119,2019,bus,14
 Sully,46119,2019,commercial_plate,130
 Sully,46119,2019,electric,1
 Sully,46119,2019,gross_vehicle_weight,420
+Sully,46119,2019,gross_vehicle_weight,421
 Sully,46119,2019,irp_with_prorate_plate,11
 Sully,46119,2019,motorcycle,124
 Sully,46119,2019,off_road,140
@@ -8794,6 +10236,7 @@ Sully,46119,2018,bus,18
 Sully,46119,2018,commercial_plate,111
 Sully,46119,2018,electric,2
 Sully,46119,2018,gross_vehicle_weight,396
+Sully,46119,2018,gross_vehicle_weight,395
 Sully,46119,2018,irp_with_prorate_plate,5
 Sully,46119,2018,motorcycle,125
 Sully,46119,2018,off_road,141
@@ -8849,6 +10292,21 @@ Sully,46119,2015,snowmobile,29
 Sully,46119,2015,titles,960
 Sully,46119,2015,trailer,1036
 Sully,46119,2015,truck,456
+Todd,46121,2025,boat,3
+Todd,46121,2025,bus,4
+Todd,46121,2025,commercial_plate,6
+Todd,46121,2025,electric,0
+Todd,46121,2025,gross_vehicle_weight,47
+Todd,46121,2025,irp_with_prorate_plate,0
+Todd,46121,2025,motorcycle,8
+Todd,46121,2025,off_road,8
+Todd,46121,2025,passenger_low_speed,186
+Todd,46121,2025,pickup_suv_van,471
+Todd,46121,2025,recreational,0
+Todd,46121,2025,snowmobile,2
+Todd,46121,2025,titles,108
+Todd,46121,2025,trailer,127
+Todd,46121,2025,truck,37
 Todd,46121,2024,boat,70
 Todd,46121,2024,bus,11
 Todd,46121,2024,commercial_plate,43
@@ -8884,11 +10342,14 @@ Todd,46121,2022,bus,15
 Todd,46121,2022,commercial_plate,52
 Todd,46121,2022,electric,0
 Todd,46121,2022,gross_vehicle_weight,204
+Todd,46121,2022,gross_vehicle_weight,205
 Todd,46121,2022,irp_with_prorate_plate,5
 Todd,46121,2022,motorcycle,170
 Todd,46121,2022,off_road,63
 Todd,46121,2022,passenger_low_speed,2040
+Todd,46121,2022,passenger_low_speed,2047
 Todd,46121,2022,pickup_suv_van,4274
+Todd,46121,2022,pickup_suv_van,4287
 Todd,46121,2022,recreational,16
 Todd,46121,2022,snowmobile,4
 Todd,46121,2022,titles,2375
@@ -8904,6 +10365,7 @@ Todd,46121,2021,motorcycle,169
 Todd,46121,2021,off_road,59
 Todd,46121,2021,passenger_low_speed,2593
 Todd,46121,2021,pickup_suv_van,4791
+Todd,46121,2021,pickup_suv_van,4788
 Todd,46121,2021,recreational,13
 Todd,46121,2021,snowmobile,6
 Todd,46121,2021,titles,3322
@@ -8914,10 +10376,12 @@ Todd,46121,2020,bus,16
 Todd,46121,2020,commercial_plate,42
 Todd,46121,2020,electric,1
 Todd,46121,2020,gross_vehicle_weight,217
+Todd,46121,2020,gross_vehicle_weight,218
 Todd,46121,2020,irp_with_prorate_plate,2
 Todd,46121,2020,motorcycle,153
 Todd,46121,2020,off_road,33
 Todd,46121,2020,passenger_low_speed,2362
+Todd,46121,2020,passenger_low_speed,2361
 Todd,46121,2020,pickup_suv_van,4046
 Todd,46121,2020,recreational,17
 Todd,46121,2020,snowmobile,6
@@ -8929,6 +10393,7 @@ Todd,46121,2019,bus,58
 Todd,46121,2019,commercial_plate,47
 Todd,46121,2019,electric,1
 Todd,46121,2019,gross_vehicle_weight,203
+Todd,46121,2019,gross_vehicle_weight,201
 Todd,46121,2019,irp_with_prorate_plate,2
 Todd,46121,2019,motorcycle,128
 Todd,46121,2019,off_road,27
@@ -8999,6 +10464,21 @@ Todd,46121,2015,snowmobile,5
 Todd,46121,2015,titles,2545
 Todd,46121,2015,trailer,1054
 Todd,46121,2015,truck,252
+Tripp,46123,2025,boat,29
+Tripp,46123,2025,bus,2
+Tripp,46123,2025,commercial_plate,33
+Tripp,46123,2025,electric,1
+Tripp,46123,2025,gross_vehicle_weight,88
+Tripp,46123,2025,irp_with_prorate_plate,8
+Tripp,46123,2025,motorcycle,27
+Tripp,46123,2025,off_road,43
+Tripp,46123,2025,passenger_low_speed,170
+Tripp,46123,2025,pickup_suv_van,693
+Tripp,46123,2025,recreational,4
+Tripp,46123,2025,snowmobile,13
+Tripp,46123,2025,titles,91
+Tripp,46123,2025,trailer,279
+Tripp,46123,2025,truck,94
 Tripp,46123,2024,boat,305
 Tripp,46123,2024,bus,12
 Tripp,46123,2024,commercial_plate,380
@@ -9034,11 +10514,14 @@ Tripp,46123,2022,bus,12
 Tripp,46123,2022,commercial_plate,382
 Tripp,46123,2022,electric,4
 Tripp,46123,2022,gross_vehicle_weight,607
+Tripp,46123,2022,gross_vehicle_weight,605
 Tripp,46123,2022,irp_with_prorate_plate,26
 Tripp,46123,2022,motorcycle,212
 Tripp,46123,2022,off_road,304
 Tripp,46123,2022,passenger_low_speed,1659
+Tripp,46123,2022,passenger_low_speed,1658
 Tripp,46123,2022,pickup_suv_van,5689
+Tripp,46123,2022,pickup_suv_van,5690
 Tripp,46123,2022,recreational,53
 Tripp,46123,2022,snowmobile,43
 Tripp,46123,2022,titles,2206
@@ -9049,6 +10532,7 @@ Tripp,46123,2021,bus,11
 Tripp,46123,2021,commercial_plate,370
 Tripp,46123,2021,electric,4
 Tripp,46123,2021,gross_vehicle_weight,627
+Tripp,46123,2021,gross_vehicle_weight,629
 Tripp,46123,2021,irp_with_prorate_plate,28
 Tripp,46123,2021,motorcycle,213
 Tripp,46123,2021,off_road,285
@@ -9064,6 +10548,7 @@ Tripp,46123,2020,bus,10
 Tripp,46123,2020,commercial_plate,367
 Tripp,46123,2020,electric,3
 Tripp,46123,2020,gross_vehicle_weight,627
+Tripp,46123,2020,gross_vehicle_weight,626
 Tripp,46123,2020,irp_with_prorate_plate,36
 Tripp,46123,2020,motorcycle,212
 Tripp,46123,2020,off_road,279
@@ -9079,6 +10564,7 @@ Tripp,46123,2019,bus,9
 Tripp,46123,2019,commercial_plate,445
 Tripp,46123,2019,electric,2
 Tripp,46123,2019,gross_vehicle_weight,713
+Tripp,46123,2019,gross_vehicle_weight,712
 Tripp,46123,2019,irp_with_prorate_plate,50
 Tripp,46123,2019,motorcycle,228
 Tripp,46123,2019,off_road,259
@@ -9149,6 +10635,21 @@ Tripp,46123,2015,snowmobile,63
 Tripp,46123,2015,titles,2540
 Tripp,46123,2015,trailer,2649
 Tripp,46123,2015,truck,808
+Turner,46125,2025,boat,54
+Turner,46125,2025,bus,0
+Turner,46125,2025,commercial_plate,91
+Turner,46125,2025,electric,3
+Turner,46125,2025,gross_vehicle_weight,74
+Turner,46125,2025,irp_with_prorate_plate,3
+Turner,46125,2025,motorcycle,70
+Turner,46125,2025,off_road,110
+Turner,46125,2025,passenger_low_speed,336
+Turner,46125,2025,pickup_suv_van,1081
+Turner,46125,2025,recreational,6
+Turner,46125,2025,snowmobile,44
+Turner,46125,2025,titles,161
+Turner,46125,2025,trailer,447
+Turner,46125,2025,truck,100
 Turner,46125,2024,boat,655
 Turner,46125,2024,bus,5
 Turner,46125,2024,commercial_plate,506
@@ -9184,11 +10685,16 @@ Turner,46125,2022,bus,4
 Turner,46125,2022,commercial_plate,505
 Turner,46125,2022,electric,11
 Turner,46125,2022,gross_vehicle_weight,764
+Turner,46125,2022,gross_vehicle_weight,775
 Turner,46125,2022,irp_with_prorate_plate,44
 Turner,46125,2022,motorcycle,620
+Turner,46125,2022,motorcycle,621
 Turner,46125,2022,off_road,824
+Turner,46125,2022,off_road,825
 Turner,46125,2022,passenger_low_speed,3366
+Turner,46125,2022,passenger_low_speed,3369
 Turner,46125,2022,pickup_suv_van,8210
+Turner,46125,2022,pickup_suv_van,8212
 Turner,46125,2022,recreational,65
 Turner,46125,2022,snowmobile,207
 Turner,46125,2022,titles,3763
@@ -9199,6 +10705,7 @@ Turner,46125,2021,bus,5
 Turner,46125,2021,commercial_plate,512
 Turner,46125,2021,electric,9
 Turner,46125,2021,gross_vehicle_weight,779
+Turner,46125,2021,gross_vehicle_weight,781
 Turner,46125,2021,irp_with_prorate_plate,61
 Turner,46125,2021,motorcycle,605
 Turner,46125,2021,off_road,773
@@ -9214,6 +10721,7 @@ Turner,46125,2020,bus,6
 Turner,46125,2020,commercial_plate,494
 Turner,46125,2020,electric,7
 Turner,46125,2020,gross_vehicle_weight,768
+Turner,46125,2020,gross_vehicle_weight,772
 Turner,46125,2020,irp_with_prorate_plate,60
 Turner,46125,2020,motorcycle,546
 Turner,46125,2020,off_road,708
@@ -9229,6 +10737,7 @@ Turner,46125,2019,bus,4
 Turner,46125,2019,commercial_plate,487
 Turner,46125,2019,electric,4
 Turner,46125,2019,gross_vehicle_weight,766
+Turner,46125,2019,gross_vehicle_weight,768
 Turner,46125,2019,irp_with_prorate_plate,63
 Turner,46125,2019,motorcycle,530
 Turner,46125,2019,off_road,617
@@ -9244,6 +10753,7 @@ Turner,46125,2018,bus,14
 Turner,46125,2018,commercial_plate,461
 Turner,46125,2018,electric,6
 Turner,46125,2018,gross_vehicle_weight,798
+Turner,46125,2018,gross_vehicle_weight,800
 Turner,46125,2018,irp_with_prorate_plate,57
 Turner,46125,2018,motorcycle,526
 Turner,46125,2018,off_road,597
@@ -9299,6 +10809,21 @@ Turner,46125,2015,snowmobile,220
 Turner,46125,2015,titles,4185
 Turner,46125,2015,trailer,3718
 Turner,46125,2015,truck,1033
+Union,46127,2025,boat,189
+Union,46127,2025,bus,0
+Union,46127,2025,commercial_plate,184
+Union,46127,2025,electric,16
+Union,46127,2025,gross_vehicle_weight,70
+Union,46127,2025,irp_with_prorate_plate,0
+Union,46127,2025,motorcycle,120
+Union,46127,2025,off_road,153
+Union,46127,2025,passenger_low_speed,695
+Union,46127,2025,pickup_suv_van,1976
+Union,46127,2025,recreational,19
+Union,46127,2025,snowmobile,22
+Union,46127,2025,titles,425
+Union,46127,2025,trailer,618
+Union,46127,2025,truck,109
 Union,46127,2024,boat,1790
 Union,46127,2024,bus,8
 Union,46127,2024,commercial_plate,1240
@@ -9330,25 +10855,36 @@ Union,46127,2023,titles,8859
 Union,46127,2023,trailer,5532
 Union,46127,2023,truck,905
 Union,46127,2022,boat,1863
+Union,46127,2022,boat,1866
 Union,46127,2022,bus,11
 Union,46127,2022,commercial_plate,1110
 Union,46127,2022,electric,72
+Union,46127,2022,electric,71
 Union,46127,2022,gross_vehicle_weight,566
+Union,46127,2022,gross_vehicle_weight,589
 Union,46127,2022,irp_with_prorate_plate,56
 Union,46127,2022,motorcycle,1257
+Union,46127,2022,motorcycle,1256
 Union,46127,2022,off_road,1526
+Union,46127,2022,off_road,1528
 Union,46127,2022,passenger_low_speed,7214
+Union,46127,2022,passenger_low_speed,7215
 Union,46127,2022,pickup_suv_van,14807
+Union,46127,2022,pickup_suv_van,14813
 Union,46127,2022,recreational,159
+Union,46127,2022,recreational,158
 Union,46127,2022,snowmobile,137
 Union,46127,2022,titles,7686
 Union,46127,2022,trailer,5321
 Union,46127,2022,truck,819
+Union,46127,2022,truck,820
 Union,46127,2021,boat,1931
 Union,46127,2021,bus,10
 Union,46127,2021,commercial_plate,1093
 Union,46127,2021,electric,49
+Union,46127,2021,electric,50
 Union,46127,2021,gross_vehicle_weight,642
+Union,46127,2021,gross_vehicle_weight,655
 Union,46127,2021,irp_with_prorate_plate,61
 Union,46127,2021,motorcycle,1310
 Union,46127,2021,off_road,1599
@@ -9364,6 +10900,7 @@ Union,46127,2020,bus,11
 Union,46127,2020,commercial_plate,1002
 Union,46127,2020,electric,32
 Union,46127,2020,gross_vehicle_weight,621
+Union,46127,2020,gross_vehicle_weight,630
 Union,46127,2020,irp_with_prorate_plate,59
 Union,46127,2020,motorcycle,1258
 Union,46127,2020,off_road,1467
@@ -9379,6 +10916,7 @@ Union,46127,2019,bus,15
 Union,46127,2019,commercial_plate,1120
 Union,46127,2019,electric,28
 Union,46127,2019,gross_vehicle_weight,609
+Union,46127,2019,gross_vehicle_weight,618
 Union,46127,2019,irp_with_prorate_plate,47
 Union,46127,2019,motorcycle,1245
 Union,46127,2019,off_road,1440
@@ -9394,6 +10932,7 @@ Union,46127,2018,bus,20
 Union,46127,2018,commercial_plate,916
 Union,46127,2018,electric,15
 Union,46127,2018,gross_vehicle_weight,673
+Union,46127,2018,gross_vehicle_weight,676
 Union,46127,2018,irp_with_prorate_plate,53
 Union,46127,2018,motorcycle,1239
 Union,46127,2018,off_road,1315
@@ -9449,6 +10988,21 @@ Union,46127,2015,snowmobile,219
 Union,46127,2015,titles,8621
 Union,46127,2015,trailer,4662
 Union,46127,2015,truck,865
+Walworth,46129,2025,boat,48
+Walworth,46129,2025,bus,3
+Walworth,46129,2025,commercial_plate,33
+Walworth,46129,2025,electric,0
+Walworth,46129,2025,gross_vehicle_weight,47
+Walworth,46129,2025,irp_with_prorate_plate,2
+Walworth,46129,2025,motorcycle,22
+Walworth,46129,2025,off_road,60
+Walworth,46129,2025,passenger_low_speed,175
+Walworth,46129,2025,pickup_suv_van,491
+Walworth,46129,2025,recreational,3
+Walworth,46129,2025,snowmobile,5
+Walworth,46129,2025,titles,123
+Walworth,46129,2025,trailer,265
+Walworth,46129,2025,truck,54
 Walworth,46129,2024,boat,647
 Walworth,46129,2024,bus,21
 Walworth,46129,2024,commercial_plate,452
@@ -9482,13 +11036,18 @@ Walworth,46129,2023,truck,608
 Walworth,46129,2022,boat,638
 Walworth,46129,2022,bus,12
 Walworth,46129,2022,commercial_plate,471
+Walworth,46129,2022,commercial_plate,470
 Walworth,46129,2022,electric,4
 Walworth,46129,2022,gross_vehicle_weight,422
+Walworth,46129,2022,gross_vehicle_weight,426
 Walworth,46129,2022,irp_with_prorate_plate,35
 Walworth,46129,2022,motorcycle,315
 Walworth,46129,2022,off_road,387
+Walworth,46129,2022,off_road,388
 Walworth,46129,2022,passenger_low_speed,1704
+Walworth,46129,2022,passenger_low_speed,1705
 Walworth,46129,2022,pickup_suv_van,4743
+Walworth,46129,2022,pickup_suv_van,4749
 Walworth,46129,2022,recreational,33
 Walworth,46129,2022,snowmobile,45
 Walworth,46129,2022,titles,2242
@@ -9499,6 +11058,7 @@ Walworth,46129,2021,bus,13
 Walworth,46129,2021,commercial_plate,472
 Walworth,46129,2021,electric,4
 Walworth,46129,2021,gross_vehicle_weight,446
+Walworth,46129,2021,gross_vehicle_weight,451
 Walworth,46129,2021,irp_with_prorate_plate,36
 Walworth,46129,2021,motorcycle,297
 Walworth,46129,2021,off_road,375
@@ -9514,6 +11074,7 @@ Walworth,46129,2020,bus,13
 Walworth,46129,2020,commercial_plate,442
 Walworth,46129,2020,electric,4
 Walworth,46129,2020,gross_vehicle_weight,441
+Walworth,46129,2020,gross_vehicle_weight,447
 Walworth,46129,2020,irp_with_prorate_plate,24
 Walworth,46129,2020,motorcycle,300
 Walworth,46129,2020,off_road,362
@@ -9529,6 +11090,7 @@ Walworth,46129,2019,bus,19
 Walworth,46129,2019,commercial_plate,439
 Walworth,46129,2019,electric,4
 Walworth,46129,2019,gross_vehicle_weight,460
+Walworth,46129,2019,gross_vehicle_weight,466
 Walworth,46129,2019,irp_with_prorate_plate,27
 Walworth,46129,2019,motorcycle,287
 Walworth,46129,2019,off_road,364
@@ -9544,6 +11106,7 @@ Walworth,46129,2018,bus,22
 Walworth,46129,2018,commercial_plate,449
 Walworth,46129,2018,electric,4
 Walworth,46129,2018,gross_vehicle_weight,475
+Walworth,46129,2018,gross_vehicle_weight,481
 Walworth,46129,2018,irp_with_prorate_plate,23
 Walworth,46129,2018,motorcycle,311
 Walworth,46129,2018,off_road,317
@@ -9599,6 +11162,21 @@ Walworth,46129,2015,snowmobile,80
 Walworth,46129,2015,titles,2605
 Walworth,46129,2015,trailer,2607
 Walworth,46129,2015,truck,731
+Yankton,46135,2025,boat,233
+Yankton,46135,2025,bus,0
+Yankton,46135,2025,commercial_plate,167
+Yankton,46135,2025,electric,4
+Yankton,46135,2025,gross_vehicle_weight,64
+Yankton,46135,2025,irp_with_prorate_plate,7
+Yankton,46135,2025,motorcycle,143
+Yankton,46135,2025,off_road,143
+Yankton,46135,2025,passenger_low_speed,827
+Yankton,46135,2025,pickup_suv_van,2298
+Yankton,46135,2025,recreational,12
+Yankton,46135,2025,snowmobile,25
+Yankton,46135,2025,titles,568
+Yankton,46135,2025,trailer,735
+Yankton,46135,2025,truck,81
 Yankton,46135,2024,boat,2129
 Yankton,46135,2024,bus,15
 Yankton,46135,2024,commercial_plate,1078
@@ -9634,23 +11212,31 @@ Yankton,46135,2022,bus,13
 Yankton,46135,2022,commercial_plate,1178
 Yankton,46135,2022,electric,29
 Yankton,46135,2022,gross_vehicle_weight,812
+Yankton,46135,2022,gross_vehicle_weight,827
 Yankton,46135,2022,irp_with_prorate_plate,159
 Yankton,46135,2022,motorcycle,1454
+Yankton,46135,2022,motorcycle,1453
 Yankton,46135,2022,off_road,966
 Yankton,46135,2022,passenger_low_speed,7812
+Yankton,46135,2022,passenger_low_speed,7816
 Yankton,46135,2022,pickup_suv_van,17775
+Yankton,46135,2022,pickup_suv_van,17791
 Yankton,46135,2022,recreational,146
 Yankton,46135,2022,snowmobile,93
 Yankton,46135,2022,titles,8042
+Yankton,46135,2022,titles,8043
 Yankton,46135,2022,trailer,6597
+Yankton,46135,2022,trailer,6600
 Yankton,46135,2022,truck,1132
 Yankton,46135,2021,boat,2296
 Yankton,46135,2021,bus,14
 Yankton,46135,2021,commercial_plate,1136
 Yankton,46135,2021,electric,21
 Yankton,46135,2021,gross_vehicle_weight,872
+Yankton,46135,2021,gross_vehicle_weight,879
 Yankton,46135,2021,irp_with_prorate_plate,174
 Yankton,46135,2021,motorcycle,1553
+Yankton,46135,2021,motorcycle,1552
 Yankton,46135,2021,off_road,909
 Yankton,46135,2021,passenger_low_speed,8502
 Yankton,46135,2021,pickup_suv_van,17622
@@ -9664,6 +11250,7 @@ Yankton,46135,2020,bus,19
 Yankton,46135,2020,commercial_plate,1116
 Yankton,46135,2020,electric,9
 Yankton,46135,2020,gross_vehicle_weight,843
+Yankton,46135,2020,gross_vehicle_weight,851
 Yankton,46135,2020,irp_with_prorate_plate,166
 Yankton,46135,2020,motorcycle,1432
 Yankton,46135,2020,off_road,830
@@ -9679,6 +11266,7 @@ Yankton,46135,2019,bus,14
 Yankton,46135,2019,commercial_plate,1070
 Yankton,46135,2019,electric,12
 Yankton,46135,2019,gross_vehicle_weight,817
+Yankton,46135,2019,gross_vehicle_weight,822
 Yankton,46135,2019,irp_with_prorate_plate,200
 Yankton,46135,2019,motorcycle,1441
 Yankton,46135,2019,off_road,707
@@ -9694,6 +11282,7 @@ Yankton,46135,2018,bus,47
 Yankton,46135,2018,commercial_plate,1102
 Yankton,46135,2018,electric,11
 Yankton,46135,2018,gross_vehicle_weight,855
+Yankton,46135,2018,gross_vehicle_weight,863
 Yankton,46135,2018,irp_with_prorate_plate,201
 Yankton,46135,2018,motorcycle,1431
 Yankton,46135,2018,off_road,610
@@ -9749,6 +11338,21 @@ Yankton,46135,2015,snowmobile,107
 Yankton,46135,2015,titles,9372
 Yankton,46135,2015,trailer,6009
 Yankton,46135,2015,truck,1256
+Ziebach,46137,2025,boat,5
+Ziebach,46137,2025,bus,0
+Ziebach,46137,2025,commercial_plate,3
+Ziebach,46137,2025,electric,0
+Ziebach,46137,2025,gross_vehicle_weight,19
+Ziebach,46137,2025,irp_with_prorate_plate,0
+Ziebach,46137,2025,motorcycle,0
+Ziebach,46137,2025,off_road,7
+Ziebach,46137,2025,passenger_low_speed,41
+Ziebach,46137,2025,pickup_suv_van,163
+Ziebach,46137,2025,recreational,0
+Ziebach,46137,2025,snowmobile,4
+Ziebach,46137,2025,titles,35
+Ziebach,46137,2025,trailer,83
+Ziebach,46137,2025,truck,15
 Ziebach,46137,2024,boat,42
 Ziebach,46137,2024,bus,3
 Ziebach,46137,2024,commercial_plate,11
@@ -9799,6 +11403,7 @@ Ziebach,46137,2021,bus,4
 Ziebach,46137,2021,commercial_plate,12
 Ziebach,46137,2021,electric,0
 Ziebach,46137,2021,gross_vehicle_weight,236
+Ziebach,46137,2021,gross_vehicle_weight,237
 Ziebach,46137,2021,irp_with_prorate_plate,4
 Ziebach,46137,2021,motorcycle,48
 Ziebach,46137,2021,off_road,36
@@ -9829,6 +11434,7 @@ Ziebach,46137,2019,bus,2
 Ziebach,46137,2019,commercial_plate,13
 Ziebach,46137,2019,electric,0
 Ziebach,46137,2019,gross_vehicle_weight,241
+Ziebach,46137,2019,gross_vehicle_weight,242
 Ziebach,46137,2019,irp_with_prorate_plate,2
 Ziebach,46137,2019,motorcycle,62
 Ziebach,46137,2019,off_road,33
@@ -9844,6 +11450,7 @@ Ziebach,46137,2018,bus,5
 Ziebach,46137,2018,commercial_plate,15
 Ziebach,46137,2018,electric,0
 Ziebach,46137,2018,gross_vehicle_weight,234
+Ziebach,46137,2018,gross_vehicle_weight,236
 Ziebach,46137,2018,irp_with_prorate_plate,5
 Ziebach,46137,2018,motorcycle,54
 Ziebach,46137,2018,off_road,29
