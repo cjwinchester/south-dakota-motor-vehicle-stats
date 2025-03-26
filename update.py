@@ -106,7 +106,11 @@ def get_sd_fips_lookup() -> dict:
     sd['fips'] = sd['state_fips'] + sd['county_fips']
     sd['county_name'] = sd['county_name'].str.replace(' County', '')
 
-    return {x[1].get('county_name'): x[1].get('fips') for x in sd.iterrows()}
+    d = {x[1].get('county_name'): x[1].get('fips') for x in sd.iterrows()}
+
+    d['Oglala Lakota'] = '46113'
+
+    return d
 
 
 class Report:
