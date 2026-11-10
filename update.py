@@ -108,7 +108,7 @@ def get_sd_fips_lookup() -> dict:
 
     d = {x[1].get('county_name'): x[1].get('fips') for x in sd.iterrows()}
 
-    d['Oglala Lakota'] = '46113'
+    d['Oglala Lakota'] = '46102'  # not 46113, Shannon County's retired code
 
     return d
 
