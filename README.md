@@ -1,16 +1,5 @@
 # South Dakota motor vehicle stats
-Creating [a tidy CSV](south-dakota-motor-vehicle-stats.csv) of [motor vehicle registration stats](https://sddor.seamlessdocs.com/sc/statistics/) in South Dakota by county by year. Updated weekly.
 
-PDF reports for each calendar year, downloaded from the Department of Revenue's website, are in `reports`, along with [a historical file](reports/south-dakota-motor-vehicle-stats-historical.pdf) with annual totals for the past couple of years for each county.
+This repository is archived. South Dakota motor vehicle titles and registrations by county are published, as annual (2015 on) and monthly (2018 on) tables in CSV and Parquet, at [south-dakota-citizen-archivist/sd-archive › releases › Motor vehicle titles and registrations](https://github.com/south-dakota-citizen-archivist/sd-archive/releases/tag/motor-vehicles-data).
 
-To combine them, the basic idea is to pull out annual totals from the historical file, then add in data from reports that aren't represented in the historical file.
-
-### [`south-dakota-motor-vehicle-stats.csv`](south-dakota-motor-vehicle-stats.csv)
-- `county`: County name
-- `county_fips`: County FIPS code
-- `year`: Registration year
-- `registration_type`: The type of registration, e.g. truck, bus, etc. (but also "title")
-- `total`: The total number of registrations of that type for the county for the year
-
-### Running the Python script
-[`update.py`](update.py) checks for new reports, downloads new ones (plus the current-year report, which is updated throughout the year with new monthly totals), extracts the data from each PDF and combines the data into a flat file, [`south-dakota-motor-vehicle-stats.csv`](south-dakota-motor-vehicle-stats.csv).
+[`south-dakota-motor-vehicle-stats.csv`](south-dakota-motor-vehicle-stats.csv) here has annual totals by county from the Department of Revenue's [title and registration statistics](https://sddor.seamlessdocs.com/sc/statistics/), with columns `county`, `county_fips`, `year`, `registration_type` and `total`. Where a calendar-year report and the Department's historical report disagree for the same year, both values appear, so some county-year-type combinations have two rows. The tables at the link above keep one value for each, from the historical report.
